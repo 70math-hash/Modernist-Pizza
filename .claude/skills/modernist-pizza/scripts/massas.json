@@ -1,0 +1,834 @@
+{
+  "_fonte": "Modernist Pizza, Nathan Myhrvold e Francisco Migoya, Vol. 2 - Pizza Dough Recipes",
+  "_nota": "pct = percentual de padeiro sobre a farinha TOTAL da etapa. O bloco 'net' traz a formula real (net contents), com farinha e agua do pre-fermento ja contabilizadas.",
+  "massas": {
+    "thin-crust": {
+      "nome": "Thin-Crust Pizza Dough",
+      "familia": "fina",
+      "rendimento_g": 1100,
+      "prefermento": {
+        "tipo": "poolish",
+        "horas": "12-16 h a 21 C",
+        "ingredientes": [
+          {
+            "nome": "Farinha de pao 11,5-12% ptn",
+            "g": 55
+          },
+          {
+            "nome": "Agua",
+            "g": 55
+          },
+          {
+            "nome": "Fermento seco instantaneo",
+            "g": 0.06
+          }
+        ]
+      },
+      "massa": [
+        {
+          "nome": "Agua 21 C",
+          "g": 370
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 4.8
+        },
+        {
+          "nome": "Poolish (acima)",
+          "g": 110.06,
+          "e_prefermento": true
+        },
+        {
+          "nome": "Farinha de pao 11,5-12% ptn",
+          "g": 540
+        },
+        {
+          "nome": "Fuba fino",
+          "g": 65
+        },
+        {
+          "nome": "Sal fino",
+          "g": 13
+        }
+      ],
+      "net": {
+        "farinha_g": 595,
+        "agua_pct": 71.43,
+        "sal_pct": 2.18,
+        "fermento_pct": 0.82,
+        "gordura_pct": 0,
+        "outros": {
+          "fuba_pct": 10.92
+        }
+      },
+      "processo": "Misturar ate GLUTEN TOTAL. Bench rest 20 min. Dividir. Bolear. Provar 2-3 h a 21 C (opcional: 1 dia a 4 C).",
+      "tamanhos": [
+        {
+          "desc": "40 cm",
+          "peso_g": 275
+        },
+        {
+          "desc": "50 cm",
+          "peso_g": 370
+        }
+      ],
+      "forno": {
+        "temp_c": 285,
+        "tempo": "5 min"
+      }
+    },
+    "brasileira": {
+      "nome": "Brazilian Thin-Crust Pizza Dough",
+      "familia": "fina",
+      "rendimento_g": 1000,
+      "prefermento": null,
+      "massa": [
+        {
+          "nome": "Agua 21 C",
+          "g": 310
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 3
+        },
+        {
+          "nome": "Farinha de bolo",
+          "g": 370
+        },
+        {
+          "nome": "Farinha de pao 11,5-12% ptn",
+          "g": 245
+        },
+        {
+          "nome": "Azeite extravirgem",
+          "g": 60
+        },
+        {
+          "nome": "Sal fino",
+          "g": 12.3
+        }
+      ],
+      "net": {
+        "farinha_g": 615,
+        "agua_pct": 50.41,
+        "sal_pct": 2.0,
+        "fermento_pct": 0.49,
+        "gordura_pct": 9.76,
+        "outros": {
+          "farinha_bolo_pct": 60.16,
+          "farinha_pao_pct": 39.84
+        }
+      },
+      "processo": "Misturar ate gluten baixo, adicionar azeite + sal, seguir ate GLUTEN TOTAL. Bench rest 20 min. Dividir. Bolear. Provar 1,5 h a 21 C. Recomendado: 1 dia a 4 C (mais crocante); temperar 1,5-2 h antes de abrir.",
+      "tamanhos": [
+        {
+          "desc": "23 cm",
+          "peso_g": 125
+        },
+        {
+          "desc": "40 cm",
+          "peso_g": 250
+        }
+      ],
+      "forno": {
+        "temp_c": 285,
+        "tempo": "5 min"
+      }
+    },
+    "deep-dish": {
+      "nome": "Deep-Dish Pizza Dough",
+      "familia": "fina",
+      "rendimento_g": 700,
+      "prefermento": null,
+      "massa": [
+        {
+          "nome": "Agua 21 C",
+          "g": 225
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 3.1
+        },
+        {
+          "nome": "Farinha de pao 11,5-12% ptn",
+          "g": 380
+        },
+        {
+          "nome": "Fuba fino",
+          "g": 40
+        },
+        {
+          "nome": "Banha amolecida",
+          "g": 18
+        },
+        {
+          "nome": "Manteiga amolecida",
+          "g": 18
+        },
+        {
+          "nome": "Sal fino",
+          "g": 8
+        }
+      ],
+      "net": {
+        "farinha_g": 380,
+        "agua_pct": 60.0,
+        "sal_pct": 2.11,
+        "fermento_pct": 0.82,
+        "gordura_pct": 8.68,
+        "outros": {
+          "fuba_pct": 10.53
+        }
+      },
+      "processo": "Misturar ate GLUTEN TOTAL. Bench rest 20 min. Dividir. Bolear. Provar 1,5 h a 21 C (opcional 1 dia a 4 C: mais crocante e mais saborosa). Sem banha: dobre a manteiga.",
+      "tamanhos": [
+        {
+          "desc": "forma 21x5 cm",
+          "peso_g": 230
+        },
+        {
+          "desc": "forma 32x5 cm",
+          "peso_g": 700
+        }
+      ],
+      "forno": {
+        "temp_c": 250,
+        "tempo": "27 min"
+      }
+    },
+    "napolitana": {
+      "nome": "Neapolitan Pizza Dough",
+      "familia": "media",
+      "rendimento_g": 1000,
+      "prefermento": null,
+      "massa": [
+        {
+          "nome": "Agua 21 C",
+          "g": 380
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 0.24
+        },
+        {
+          "nome": "Farinha 00 ou de pao 11,5-12,5% ptn",
+          "g": 610
+        },
+        {
+          "nome": "Amaciante de carne (relaxante, opcional)",
+          "g": 0.06
+        },
+        {
+          "nome": "Sal fino",
+          "g": 12.15
+        }
+      ],
+      "net": {
+        "farinha_g": 610,
+        "agua_pct": 62.3,
+        "sal_pct": 1.99,
+        "fermento_pct": 0.04,
+        "gordura_pct": 0,
+        "outros": {
+          "relaxante_pct": 0.01
+        }
+      },
+      "processo": "Misturar ate GLUTEN TOTAL. BULK 20-24 h a 21 C, bem tampado. Dividir em 250 g. Bolear. Provar 3 h a 21 C.",
+      "tamanhos": [
+        {
+          "desc": "30 cm",
+          "peso_g": 250
+        }
+      ],
+      "forno": {
+        "temp_c": 455,
+        "tempo": "1-1,5 min"
+      }
+    },
+    "new-york": {
+      "nome": "New York Pizza Dough",
+      "familia": "media",
+      "rendimento_g": 1000,
+      "prefermento": {
+        "tipo": "poolish",
+        "horas": "12-16 h a 21 C",
+        "ingredientes": [
+          {
+            "nome": "Farinha alta forca 13,5-15% ptn",
+            "g": 60
+          },
+          {
+            "nome": "Agua",
+            "g": 60
+          },
+          {
+            "nome": "Fermento seco instantaneo",
+            "g": 0.06
+          }
+        ]
+      },
+      "massa": [
+        {
+          "nome": "Agua 21 C",
+          "g": 350
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 2.8
+        },
+        {
+          "nome": "Poolish (acima)",
+          "g": 120.06,
+          "e_prefermento": true
+        },
+        {
+          "nome": "Farinha alta forca 13,5-15% ptn",
+          "g": 530
+        },
+        {
+          "nome": "Malte diastatico",
+          "g": 15
+        },
+        {
+          "nome": "Sal fino",
+          "g": 14.5
+        },
+        {
+          "nome": "Azeite extravirgem",
+          "g": 20
+        }
+      ],
+      "net": {
+        "farinha_g": 590,
+        "agua_pct": 69.49,
+        "sal_pct": 2.46,
+        "fermento_pct": 0.48,
+        "gordura_pct": 3.39,
+        "outros": {
+          "malte_diastatico_pct": 2.54
+        }
+      },
+      "processo": "Misturar ate gluten baixo, sal, azeite com a maquina ligada, GLUTEN TOTAL. Bench rest 20 min. Bolear. FRIO 1-2 dias a 4 C. Temperar 1,5-2 h antes de abrir. Pode rebolear no 2o dia e voltar ao frio ate 5 dias no total.",
+      "tamanhos": [
+        {
+          "desc": "35 cm",
+          "peso_g": 400
+        },
+        {
+          "desc": "40 cm",
+          "peso_g": 600
+        },
+        {
+          "desc": "45 cm",
+          "peso_g": 800
+        },
+        {
+          "desc": "50 cm",
+          "peso_g": 1000
+        },
+        {
+          "desc": "55 cm",
+          "peso_g": 1100
+        },
+        {
+          "desc": "60 cm",
+          "peso_g": 1200
+        }
+      ],
+      "forno": {
+        "temp_c": 315,
+        "tempo": "4-5 min"
+      }
+    },
+    "artisan": {
+      "nome": "Artisan Pizza Dough",
+      "familia": "media",
+      "rendimento_g": 1100,
+      "prefermento": {
+        "tipo": "poolish",
+        "horas": "12-16 h a 21 C",
+        "ingredientes": [
+          {
+            "nome": "Farinha alta forca 13-14% ptn",
+            "g": 75
+          },
+          {
+            "nome": "Agua",
+            "g": 75
+          },
+          {
+            "nome": "Fermento seco instantaneo",
+            "g": 0.08
+          }
+        ]
+      },
+      "massa": [
+        {
+          "nome": "Agua 21 C",
+          "g": 375
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 2.6
+        },
+        {
+          "nome": "Poolish (acima)",
+          "g": 150.08,
+          "e_prefermento": true
+        },
+        {
+          "nome": "Farinha alta forca 13-14% ptn",
+          "g": 550
+        },
+        {
+          "nome": "Malte diastatico",
+          "g": 13
+        },
+        {
+          "nome": "Sal fino",
+          "g": 12.5
+        },
+        {
+          "nome": "Azeite extravirgem",
+          "g": 20
+        }
+      ],
+      "net": {
+        "farinha_g": 625,
+        "agua_pct": 72.0,
+        "sal_pct": 2.0,
+        "fermento_pct": 0.43,
+        "gordura_pct": 3.2,
+        "outros": {
+          "malte_diastatico_pct": 2.08
+        }
+      },
+      "processo": "Igual a New York. Bench rest 20 min. Dividir no peso do tamanho (360 g = 35 cm). Bolear. FRIO 1-2 dias a 4 C. Temperar 1,5-2 h antes de abrir. A melhor massa para forno domestico.",
+      "tamanhos": [
+        {
+          "desc": "35 cm",
+          "peso_g": 360
+        },
+        {
+          "desc": "40 cm",
+          "peso_g": 400
+        },
+        {
+          "desc": "45 cm",
+          "peso_g": 470
+        },
+        {
+          "desc": "50 cm",
+          "peso_g": 500
+        },
+        {
+          "desc": "55 cm",
+          "peso_g": 580
+        },
+        {
+          "desc": "60 cm",
+          "peso_g": 620
+        }
+      ],
+      "forno": {
+        "temp_c": 285,
+        "tempo": "6-7 min"
+      }
+    },
+    "focaccia": {
+      "nome": "Focaccia Dough",
+      "familia": "pao",
+      "rendimento_g": 1000,
+      "prefermento": {
+        "tipo": "poolish",
+        "horas": "12-16 h a 21 C",
+        "ingredientes": [
+          {
+            "nome": "Farinha alta forca 13,5-15% ptn",
+            "g": 65
+          },
+          {
+            "nome": "Agua",
+            "g": 65
+          },
+          {
+            "nome": "Fermento seco instantaneo",
+            "g": 0.07
+          }
+        ]
+      },
+      "massa": [
+        {
+          "nome": "Agua 21 C (285 g na 1a etapa + 50 g com o sal)",
+          "g": 335
+        },
+        {
+          "nome": "Levain liquido maduro",
+          "g": 60
+        },
+        {
+          "nome": "Xarope de malte",
+          "g": 5
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 1.2
+        },
+        {
+          "nome": "Poolish (acima)",
+          "g": 130.07,
+          "e_prefermento": true
+        },
+        {
+          "nome": "Farinha alta forca 13,5-15% ptn",
+          "g": 400
+        },
+        {
+          "nome": "Sal fino",
+          "g": 10
+        },
+        {
+          "nome": "Azeite extravirgem",
+          "g": 20
+        }
+      ],
+      "net": {
+        "farinha_g": 495,
+        "agua_pct": 87.27,
+        "sal_pct": 2.02,
+        "fermento_pct": 0.25,
+        "gordura_pct": 4.04,
+        "outros": {
+          "acucar_pct": 0.71,
+          "levain_pct": 15.0
+        }
+      },
+      "processo": "DUPLA HIDRATACAO + AUTOLISE 30 min. Misturar ate GLUTEN MEDIO em velocidade alta, azeite em fio. Pote oleado + dobra. BULK 2,5 h a 21 C com 4 dobras de quatro bordas (1 a cada 30 min) ate gluten total; descansar 30 min. Forma bem oleada. Provar 3 h a 21 C ou 2 h a 27 C/65% UR; esticar de novo na metade. SO POR MAQUINA.",
+      "tamanhos": [
+        {
+          "desc": "meia chapa 46x33 cm",
+          "peso_g": 1000
+        }
+      ],
+      "forno": {
+        "temp_c": 245,
+        "tempo": "12-15 min"
+      }
+    },
+    "ny-square": {
+      "nome": "New York Square Pizza Dough",
+      "familia": "pao",
+      "rendimento_g": 700,
+      "prefermento": {
+        "tipo": "poolish",
+        "horas": "12-16 h a 21 C",
+        "ingredientes": [
+          {
+            "nome": "Farinha alta forca 13,5-15% ptn",
+            "g": 40
+          },
+          {
+            "nome": "Agua",
+            "g": 40
+          },
+          {
+            "nome": "Fermento seco instantaneo",
+            "g": 0.05
+          }
+        ]
+      },
+      "massa": [
+        {
+          "nome": "Agua 21 C",
+          "g": 255
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 1.95
+        },
+        {
+          "nome": "Poolish (acima)",
+          "g": 80.05,
+          "e_prefermento": true
+        },
+        {
+          "nome": "Farinha alta forca 13,5-15% ptn",
+          "g": 355
+        },
+        {
+          "nome": "Sal fino",
+          "g": 7.9
+        },
+        {
+          "nome": "Azeite extravirgem",
+          "g": 15
+        }
+      ],
+      "net": {
+        "farinha_g": 395,
+        "agua_pct": 74.68,
+        "sal_pct": 2.0,
+        "fermento_pct": 0.49,
+        "gordura_pct": 3.8,
+        "outros": {}
+      },
+      "processo": "AUTOLISE 30 min. Misturar ate GLUTEN MEDIO. Pote oleado + dobra. BULK 2,5 h a 21 C com 4 dobras; descansar 30 min. Forma bem oleada. Provar 3 h a 21 C ou 2 h a 27 C/65% UR. PRE-ASSAR antes de molho e queijo.",
+      "tamanhos": [
+        {
+          "desc": "meia chapa 46x33 cm",
+          "peso_g": 700
+        }
+      ],
+      "forno": {
+        "temp_c": 285,
+        "tempo": "27 min"
+      }
+    },
+    "al-taglio": {
+      "nome": "High-Hydration al Taglio Pizza Dough",
+      "familia": "pao",
+      "rendimento_g": 1400,
+      "prefermento": null,
+      "massa": [
+        {
+          "nome": "Agua 21 C (380 g na 1a etapa + 100 g com o sal)",
+          "g": 480
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 3.7
+        },
+        {
+          "nome": "Levain liquido maduro",
+          "g": 220
+        },
+        {
+          "nome": "Farinha de pao 11,5-12% ptn ou 00",
+          "g": 630
+        },
+        {
+          "nome": "Malte diastatico",
+          "g": 1.5
+        },
+        {
+          "nome": "Sal fino",
+          "g": 18.5
+        },
+        {
+          "nome": "Azeite extravirgem",
+          "g": 30
+        }
+      ],
+      "net": {
+        "farinha_g": 740,
+        "agua_pct": 79.73,
+        "sal_pct": 2.5,
+        "fermento_pct": 0.5,
+        "gordura_pct": 4.02,
+        "outros": {
+          "malte_diastatico_pct": 0.2
+        }
+      },
+      "processo": "DUPLA HIDRATACAO + AUTOLISE 30 min. Gluten medio, sal, azeite, gluten medio em velocidade ALTA. BULK 2,5 h a 21 C com 4 dobras; descansar 30 min. Forma bem oleada, dobra dentro da forma, descanso 30 min, esticar. Provar 3 h a 21 C ou 2 h a 27 C/65% UR; esticar de novo depois da 1a hora. SEMPRE PRE-ASSAR.",
+      "tamanhos": [
+        {
+          "desc": "forma romana 60x20 cm",
+          "peso_g": 700
+        },
+        {
+          "desc": "forma romana 60x40 cm",
+          "peso_g": 1400
+        }
+      ],
+      "forno": {
+        "temp_c": 315,
+        "tempo": "11 min"
+      }
+    },
+    "detroit": {
+      "nome": "Detroit-Style Pizza Dough",
+      "familia": "pao",
+      "rendimento_g": 1000,
+      "prefermento": null,
+      "massa": [
+        {
+          "nome": "Agua 30-30,5 C",
+          "g": 405
+        },
+        {
+          "nome": "Farinha de pao 11,5-12% ptn",
+          "g": 490
+        },
+        {
+          "nome": "Semolina",
+          "g": 85
+        },
+        {
+          "nome": "Sal fino",
+          "g": 11.5
+        },
+        {
+          "nome": "Acucar",
+          "g": 8
+        },
+        {
+          "nome": "Fermento seco instantaneo",
+          "g": 5.2
+        }
+      ],
+      "net": {
+        "farinha_g": 575,
+        "agua_pct": 70.43,
+        "sal_pct": 2.0,
+        "fermento_pct": 0.9,
+        "gordura_pct": 0,
+        "outros": {
+          "semolina_pct": 14.78,
+          "acucar_pct": 1.39
+        }
+      },
+      "processo": "Misturar ate POUCO ANTES do gluten total. Pote BEM oleado. Bench rest 15 min, dobra de quatro bordas, bench rest 15 min. Dividir. Forma bem oleada, esticar. Provar 3 h a 21 C ou 2,5 h a 27 C/65% UR; esticar de novo depois da 1a hora. Unica pizza pao assada sob demanda.",
+      "tamanhos": [
+        {
+          "desc": "forma 25x20 cm",
+          "peso_g": 330
+        },
+        {
+          "desc": "forma 35x25 cm",
+          "peso_g": 500
+        }
+      ],
+      "forno": {
+        "temp_c": 275,
+        "tempo": "15 min"
+      }
+    }
+  },
+  "molho_g": {
+    "thin-crust": {
+      "40 cm": 95,
+      "50 cm": 170
+    },
+    "brasileira": {
+      "23 cm": 100,
+      "40 cm": 160
+    },
+    "deep-dish": {
+      "forma 21x5 cm": 180,
+      "forma 32x5 cm": 445
+    },
+    "napolitana": {
+      "30 cm": 120
+    },
+    "new-york": {
+      "35 cm": 160,
+      "40 cm": 240,
+      "45 cm": 320,
+      "50 cm": 400,
+      "55 cm": 440,
+      "60 cm": 480
+    },
+    "artisan": {
+      "35 cm": 145,
+      "40 cm": 215,
+      "45 cm": 290,
+      "50 cm": 360,
+      "55 cm": 400,
+      "60 cm": 435
+    },
+    "focaccia": {
+      "meia chapa 46x33 cm": 350
+    },
+    "ny-square": {
+      "meia chapa 46x33 cm": 225
+    },
+    "al-taglio": {
+      "forma romana 60x20 cm": 200,
+      "forma romana 60x40 cm": 400
+    },
+    "detroit": {
+      "forma 25x20 cm": 75,
+      "forma 35x25 cm": 150
+    }
+  },
+  "queijo_g": {
+    "thin-crust": {
+      "40 cm": 150,
+      "50 cm": 270
+    },
+    "brasileira": {
+      "23 cm": 175,
+      "40 cm": 340
+    },
+    "deep-dish": {
+      "forma 21x5 cm": 335,
+      "forma 32x5 cm": 650
+    },
+    "napolitana": {
+      "30 cm": 100
+    },
+    "new-york": {
+      "35 cm": 195,
+      "40 cm": 290,
+      "45 cm": 390,
+      "50 cm": 485,
+      "55 cm": 535,
+      "60 cm": 585
+    },
+    "artisan": {
+      "35 cm": 180,
+      "40 cm": 270,
+      "45 cm": 360,
+      "50 cm": 450,
+      "55 cm": 495,
+      "60 cm": 540
+    },
+    "ny-square": {
+      "meia chapa 46x33 cm": 425
+    },
+    "detroit": {
+      "forma 25x20 cm": 175,
+      "forma 35x25 cm": 340
+    }
+  },
+  "conversao_fermento": {
+    "_uso": "multiplique o peso do fermento DE por este fator para obter o peso PARA",
+    "instantaneo": {
+      "instantaneo": 1.0,
+      "seco-ativo": 1.33,
+      "fresco": 3.0
+    },
+    "seco-ativo": {
+      "instantaneo": 0.75,
+      "seco-ativo": 1.0,
+      "fresco": 2.28
+    },
+    "fresco": {
+      "instantaneo": 0.33,
+      "seco-ativo": 0.44,
+      "fresco": 1.0
+    }
+  },
+  "poolish_fermento_pct": [
+    {
+      "pronto_em": "3 h",
+      "pct_min": 0.4,
+      "pct_max": 0.5
+    },
+    {
+      "pronto_em": "8 h",
+      "pct_min": 0.23,
+      "pct_max": 0.33
+    },
+    {
+      "pronto_em": "12-16 h",
+      "pct_min": 0.1,
+      "pct_max": 0.2
+    },
+    {
+      "pronto_em": "17-18 h",
+      "pct_min": 0.01,
+      "pct_max": 0.09
+    }
+  ]
+}
