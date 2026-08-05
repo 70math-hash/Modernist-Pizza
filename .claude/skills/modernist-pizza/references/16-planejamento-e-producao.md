@@ -27,6 +27,48 @@ Fonte: *Modernist Pizza*, Vol. 2 — "Making Pizza Dough", p. 11–30 e p. 60–
 
 ---
 
+## Bolear em ondas: a bola tem prazo, o bulk não
+
+O erro de escala mais comum não é misturar massa de menos — é **bolear tudo de uma vez**. O
+bulk em bloco é tolerante; **a bola boleada tem janela curta** e começa a contar assim que você
+a fecha. Boleou as 120 às 16h, às 23h as últimas estão com **7 h de bola**: borda murcha,
+dourada demais, sem oven spring (`10-diagnostico.md`, "massa passou do ponto").
+
+**A conta é uma só:** `número de ondas = duração do serviço ÷ janela útil da bola`, arredondando
+para cima. E a divisão sai **do bulk**, não da mistura — você mistura tudo junto, faz um bulk só
+e **corta o bloco em duas ou três vezes ao longo da tarde**.
+
+| Massa | Prova da bola | Janela útil de serviço por onda |
+|---|---|---|
+| **Napolitana** | **3–4 h** a 21 °C (mínimo declarado: 3 h) | ~2 h |
+| Thin-crust | 2–3 h a 21 °C | ~1 h |
+| Brasileira · deep-dish | 1½ h a 21 °C | ~1 h |
+| New York · artisan | saem do frio | não se boleia em ondas — **tempera-se** em levas de 1½–2 h |
+| Focaccia · NY square · al taglio · Detroit | 3 h a 21 °C, mas **assadas com antecedência** | não se aplica |
+
+> **O que o livro mediu e o que é extrapolação.** O experimento de prova da napolitana comparou
+> **2 h, 3 h e 4 h** — 3 h ganhou, e a p. 65 declara **3 h como mínimo**. Passar de 4 h **não foi
+> testado**: é o ponto onde os dados param. Trate 5 h de bola como território seu, não do livro.
+
+**Exemplo fechado — 120 napolitanas, serviço das 19h às 23h30 (4½ h):**
+
+| Hora | Ação | Idade da bola ao ser aberta |
+|---|---|---|
+| Sexta 18h | Misturar as 3 bateladas (30,98 kg) | — |
+| Sexta 19h → sáb. 16h | **Bulk único de 21 h a 21 °C**, em bloco, tampado, sem dobras | — |
+| Sábado 16h | Dividir e bolear **60 bolas** (1ª onda) | 3 h às 19h · 5 h às 21h |
+| Sábado 18h | Dividir e bolear **60 bolas** (2ª onda) | 3 h às 21h · 5½ h às 23h30 |
+
+As 2 h a mais de bulk da segunda onda **não custam nada** — a napolitana já fermenta 20–24 h e a
+faixa é larga. O que não estica é a bola.
+
+**Duas ressalvas de mão de obra.** Os **5 min para dividir e 2 min para pré-modelar** do quadro
+da p. 25 são **por batelada de ~1 kg**, não por 60 bolas — não escale linearmente; cronometre a
+sua equipe uma vez e use o número dela. E cada onda precisa do **descanso de bancada de
+15–20 min** entre pré-modelar e modelar, que já está contado dentro das 3 h de prova.
+
+---
+
 ## O relógio da bancada: dividir, pré-modelar, descansar
 
 - **Massa com muito fermento comercial: divida e pré-modele rápido.** Alguma fermentação
