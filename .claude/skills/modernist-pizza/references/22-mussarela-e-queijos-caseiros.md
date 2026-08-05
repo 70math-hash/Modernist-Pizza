@@ -2,10 +2,13 @@
 
 Fonte: *Modernist Pizza*, Vol. 2, cap. "Cheese", p. 315–339 impressas (p. 323–350 do PDF).
 
-Derretimento, gramagem por estilo, corte e os métodos de escorrer estão em
-`08-queijos-e-coberturas.md`. As fórmulas em versão resumida estão em
-`15-molhos-brancos-e-queijos-caseiros.md`. Aqui estão o passo a passo fechado, as temperaturas
-de cada etapa e as decisões que mudam o resultado.
+**Este é o arquivo do queijo caseiro por extenso**: fórmula, passo a passo, temperatura de cada
+etapa e as decisões que mudam o resultado — mussarela, burrata, frankencheese e ricota.
+
+Derretimento, gramagem por estilo e corte estão em `08-queijos-e-coberturas.md`; compra,
+embalagem, conservação e **os métodos de escorrer**, em
+`21-queijo-compra-e-operacao.md`. O mapa de entrada está em
+`15-molhos-brancos-e-queijos-caseiros.md`.
 
 Percentuais em **scaling %** (sobre o ingrediente marcado 100%), não percentual de padeiro.
 
@@ -30,11 +33,23 @@ Os três corolários que mudam a operação:
    maturando. Vale especialmente para búfala importada, que demora a chegar.
 2. **Escorrer acelera a maturação útil.** A mussarela escorrida chega ao derretimento
    consistente **cerca de uma semana antes** da não escorrida. (Como escorrer: ver
-   `08-queijos-e-coberturas.md`.)
+   `21-queijo-compra-e-operacao.md`.)
 3. **Queijo velho escorre menos.** A quantidade de líquido que sai ao escorrer cai com a idade —
    a água migra e se distribui de forma mais uniforme dentro do queijo.
 
-Temperatura ambiente **não tem vantagem** e limita a **3 dias**.
+Guardar em **temperatura ambiente não tem vantagem** e encurta muito a janela. O livro resume
+como "limitado a 3 dias", mas o número depende da embalagem (teste de p. 313, fior di latte e
+mussarela fresca fatiada avaliadas de 24 em 24 h):
+
+| Embalagem em temperatura ambiente | Aguenta |
+|---|---|
+| Saco zip **com ar** (sem MAP) | **2 dias** — no fim do 2º já cheira levemente azedo |
+| Saco zip **com CO₂** · vácuo (Cryovac) **com CO₂** | **3 dias** |
+| **Cryovac com CO₂ — teto recomendado** | **4 dias** — no 4º dia aparecem bolhas de carbonatação |
+
+O Cryovac segura melhor formato e frescor. A pizza com o queijo carbonatado do 4º dia ainda
+saiu com sabor aceitável, mas 4 dias é o limite que o livro recomenda. Detalhe de MAP, CO₂ e
+prazos do refrigerado: ver `21-queijo-compra-e-operacao.md`.
 
 > O livro registra que essa é a preferência dos autores e que contraria a prática de muitos
 > pizzaiolos, que insistem no queijo mais fresco possível.
@@ -85,6 +100,10 @@ temperatura e vedar a tigela para não evaporar.
 ---
 
 ## Fazer ou comprar
+
+**Por que fazer.** Porque às vezes você não consegue comprar — ou não consegue na qualidade que
+quer. E porque fazer abre a porta para o que **não existe pronto**: mussarela infundida,
+mussarela de gordura elevada.
 
 ### O portão: leite homogeneizado
 
@@ -170,11 +189,16 @@ Ativo 20–25 min · inativo 1–1½ h · rende **~600 g de coalhada**.
 22. Ponha a mussarela **já fria** na salmoura.
 23. **Até 1 semana refrigerada.**
 
-> **Correção ao que a skill trazia.** `15-molhos-brancos-e-queijos-caseiros.md` dá "água de
-> formação 77 °C / 170 °F com 5% de sal" como regra geral. Não é regra geral: a receita-mãe —
-> e com ela charcoal, cultivada, cabra, buttermilk e burrata — forma a **88 °C / 190 °F**.
-> **77 °C / 170 °F é só a bulk stretched.** O que é constante nas duas é a temperatura-alvo da
-> coalhada: **57 °C / 135 °F**.
+> **A regra da água de formação.** A receita-mãe — e com ela charcoal, cultivada, cabra,
+> buttermilk, burrata, higher-fat e as infundidas — forma a **88 °C / 190 °F com 5% de sal**.
+> Os **77 °C / 170 °F** são exclusivos da **bulk stretched**. O que é constante nas duas é a
+> temperatura-alvo da coalhada: **57 °C / 135 °F**. A **salmoura de guarda é sempre 1% de sal
+> + 0,06% de lactato de cálcio**, em todas as receitas do capítulo.
+
+> **Mapa dos blocos de passos** (as outras receitas se referem a eles o tempo todo):
+> **1–12** fazem a coalhada (dissolver o ácido, incorporar o leite, 32 °C, coalho, cortar,
+> 43 °C, escorrer 20 min) · **13** aquece a água de formação · **13–17** é o esticamento ·
+> **18–23** é bolear, resfriar e guardar. Coalhada comprada entra no **passo 11**.
 
 ---
 
@@ -191,8 +215,13 @@ Ativo 20–30 min · inativo 35–40 min · rende **~4,54 kg**.
 | *Guardar* — sal | 60 g | 1 |
 | *Guardar* — lactato de cálcio | 3,6 g | 0,06 |
 
-Coalhada: siga os **passos 1–12 (?)** da receita-mãe — o texto extraído traz "steps 7-12",
-quase certamente OCR de 1–12. Ou compre a coalhada.
+Coalhada: siga os **passos 1–12** da receita-mãe, ou compre a coalhada.
+
+> **A nota de rodapé sai no PDF como "Follow steps 7-72" — é OCR de "steps 1-12".** Confirma:
+> a Modernist Fior di Latte manda literalmente "Follow steps **1-12** of the Uncultured Fior di
+> Latte Mozzarella recipe", e o passo 13 da receita-mãe já é aquecer a água de formação.
+> Começar no 7 pularia dissolver o ácido, incorporar o leite, aquecer a 32 °C / 90 °F e
+> adicionar o coalho. **Vale igual para a Burrata**, cuja nota de rodapé é a mesma.
 
 1. Aqueça a água de formação a **77 °C / 170 °F** num rondeau ou caldeirão grande; junte o sal.
 2. Misture a salmoura de guarda num pote hermético e refrigere até precisar.
@@ -201,7 +230,7 @@ quase certamente OCR de 1–12. Ou compre a coalhada.
 4. Quebre os pedaços grandes de coalhada e ponha tudo na água morna.
 5. **Descanse 5–10 min sem mexer**, para amolecer.
 6. Sove dentro da água até virar uma massa única. Se a água ficar quente demais para a mão,
-   **baixe para 54–60 °C / 130–140 °F**.
+   **baixe para 54–60 °C / 130–140 °F** — folga que **só existe nesta receita**.
 7. **Estique 3 vezes.** A cada puxada estique ~60 cm / 2 ft, junte as pontas e **gire 90°**. No
    fim a mussarela deve estar num **bloco retangular**. Alvo **57 °C / 135 °F**; se esfriou,
    troque a água.
@@ -310,8 +339,9 @@ Procedimento **idêntico à receita-mãe**, com uma diferença: no passo 2 você
 
 Rende **~800 g** (4 unidades) · ativo 30–40 min · inativo 1–1½ h.
 
-Coalhada de fior di latte **600 g (100%)** · creme de leite fresco **200 g (33,33%)** ·
-*formar* água 3 kg + sal 150 g (5%) · *guardar* água 2 kg + sal 20 g (1%) + lactato 1,2 g (0,06%).
+Coalhada de fior di latte **600 g (100%)** (dos **passos 1–12** da receita-mãe, ou comprada) ·
+creme de leite fresco **200 g (33,33%)** · *formar* água 3 kg a **88 °C / 190 °F** + sal 150 g
+(5%) · *guardar* água 2 kg + sal 20 g (1%) + lactato 1,2 g (0,06%).
 
 1. Combine **200 g da coalhada com o creme** — esse é o recheio (*stracciatella*).
 2. Divida o recheio em **4 porções**.
@@ -441,6 +471,12 @@ Ricota é, tecnicamente, o **primeiro estágio de qualquer queijo**: leva o leit
 coalhada, escorre e acabou. Textura granulosa, **não derrete** (a de alta gordura derrete, de um
 jeito). Vai na pizza antes ou depois de assar — recém-feita é mole o bastante para funcionar
 como **molho**.
+
+Ela nasceu como forma de **aproveitar o soro** de outros queijos, a mussarela inclusive: quase
+toda a gordura vai para a coalhada, mas sobra muita proteína no soro, e coagular essa proteína
+(em combinação com leite) reaproveitava o descarte. Muitas receitas usam ácido — limão, vinagre
+ou buttermilk. **Fazer só com leite integral dá resultado bem mais cremoso**, porque a gordura
+fica no queijo.
 
 Industrialmente: o leite (ou mistura leite + soro) é acidificado com ácido alimentício, cultura
 (raro, demora) ou **pó de soro ácido (~25% adicionado)**, levado a **pH 5,9–6** e depois aquecido

@@ -3,9 +3,11 @@
 Fonte: *Modernist Pizza*, Vol. 2, cap. 9 "Cheese", p. 293–322.
 
 Complementa `08-queijos-e-coberturas.md` (física do derretimento, gramagem por estilo, preparo
-por categoria, guardar mussarela fresca, tabela de problemas) e
-`15-molhos-brancos-e-queijos-caseiros.md` (fazer fior di latte, burrata e ricota em casa).
-Aqui está o que decide **compra, mise en place e conservação**.
+por categoria, tabela de umidade e gordura por categoria, tabela de problemas) e
+`22-mussarela-e-queijos-caseiros.md` (idade da mussarela, esticar, e fazer fior di latte,
+burrata, frankencheese e ricota em casa). Mapa de entrada: `15-molhos-brancos-e-queijos-caseiros.md`.
+Aqui está o que decide **compra, mise en place e conservação** — inclusive **escorrer mussarela
+fresca**, **antiaglomerante do ralado** e a **divergência de umidade da fior di latte**.
 
 ---
 
@@ -104,6 +106,28 @@ Maturação de referência:
 - **Provolone piccante** leva cultura de sabor mais forte; o **dolce** é feito com extrato de
   coalho. Os dois existem defumados.
 
+### A umidade da fior di latte: duas tabelas do livro que não batem
+
+O livro publica dois quadros com valores diferentes para os mesmos queijos. Nenhum dos dois é
+erro de leitura — são leituras concorrentes do próprio livro.
+
+| Queijo | Classificação por textura (p. 302) | Formas de mussarela (p. 323) |
+|---|---|---|
+| **Fior di latte** | **54%** | **58%** |
+| Mozzarella di bufala | 58% | 58% |
+| Mussarela fresca local ou importada | — | 58% |
+| **Baixa umidade / pizza cheese** | **47%** | **45–52%** |
+| Scamorza | 45–52% | 45–52% |
+| Caciocavallo | 35–40% | 35–40% |
+| Burrata | 60–70% | — |
+| Defumadas (scamorza, mussarela) | — | ~43–50% |
+
+**Ao citar, dê a faixa, não escolha um lado: fior di latte 54–58%, baixa umidade 45–52%.**
+Nenhuma decisão de pizzaria muda com essa diferença — o que decide é a relação, e ela é a mesma
+nos dois quadros: **fior di latte tem claramente mais água que pizza cheese e por isso doura
+mais devagar** (o douramento só começa depois que a água evapora, seção 5). A tabela de umidade
+e gordura por categoria está em `08-queijos-e-coberturas.md`.
+
 ---
 
 ## 4. As listas funcionais e a regra que as organiza
@@ -153,9 +177,39 @@ Notas de uso:
 
 ## 5. Preparo e distribuição — o que faltava
 
-- **Escorrer mussarela fresca:** coador ou peneira **forrado com pano de queijo** sobre uma
-  tigela grande. **Algumas horas já servem**; a noite toda refrigerado é o ideal. (O padrão de
-  12 h e o método a vácuo com almofada absorvente estão em `08-queijos-e-coberturas.md`.)
+### Escorrer mussarela fresca (fior di latte, bufala, fresca fatiada)
+
+**Sem escorrer você tem poça no meio da pizza.** O livro dá dois procedimentos e **eles não
+batem no tempo**: a **p. 306** apresenta como procedimento da casa o **coador ou peneira forrado
+com pano de queijo sobre uma tigela grande**, escorrendo por **algumas horas** (a noite toda
+refrigerado é o *ideal*, não o mínimo); a **p. 329** chama de "procedimento usual" o **papel
+absorvente sem fiapos, coberto, 12 h refrigerado**, e afirma que as alternativas (coador com
+pano; hotel pan perfurado sobre outro liso, que recolhe o líquido) **também exigem 12 h**.
+Na prática: **algumas horas já servem; 12 h é o número seguro** — e é sobre as 12 h que a p. 329
+mede o ganho do método a vácuo.
+
+| Método | Tempo | Quando usar |
+|---|---|---|
+| Papel absorvente sem fiapos, coberto, refrigerado | **12 h** | Procedimento usual da p. 329 |
+| Coador ou peneira com pano de queijo sobre tigela | **algumas horas a 12 h** | Procedimento da p. 306 |
+| Hotel pan perfurado sobre hotel pan liso | **12 h** | Volume, cozinha montada |
+| **Vácuo com almofada absorvente** | **imediato** | Volume e pressa — **economiza as 12 h** |
+| Espremer no pano | imediato | **Só emergência** |
+
+- **Corte**: alguns rasgam à mão na hora — bom para porção, mas os pedaços ficam muito molhados.
+  O livro corta com **cortador de batata frita** em pedaços de **~1,25 cm / ½ in** e escorre a
+  noite toda. Fresca é difícil de fatiar à mão; dá para comprar já fatiada.
+- **Método ready-to-bake do livro**: mussarela cortada sobre uma **almofada absorvente** (as de
+  embalagem de carne), embalar a vácuo e **puxar vácuo total**. A pressão espreme a umidade e a
+  almofada absorve. **Assa igual à escorrida no método tradicional** e guarda refrigerada **até a
+  validade original** da embalagem. Escala para grande quantidade.
+- **Emergência**: envolva a bola ou o retângulo num **pano limpo ou papel sem fiapos e esprema**,
+  e **rasgue ou corte imediatamente sobre a pizza já molhada**. Assa muito bem, mas é
+  impraticável em volume.
+- **Mussarela caseira guardada em salmoura**: escorra **a noite toda** antes de assar, ou use o
+  vácuo.
+- **Baixa umidade / pizza cheese não precisa escorrer.**
+
 - **Queijos frescos** (ricota, quark, mascarpone, crème fraîche) **não pedem preparo nenhum** —
   vão de colher, em geral depois de assar.
 - **Alerta de bola inteira:** bolas de fior di latte já vêm porcionadas de fábrica e muita
@@ -300,12 +354,12 @@ para **selar o bloco inteiro a vácuo**.
 
 ---
 
-## 10. Catupiry — a correção do livro para o Brasil
+## 10. Catupiry — o processado que foge da regra dos processados
 
 Catupiry é **queijo processado**, branco, macio, da família do **requeijão**.
 
-- **É espalhável, NÃO fatiável.** Não trate como os outros processados (American, Provel), que
-  `08-queijos-e-coberturas.md` manda comprar fatiados — essa instrução não vale para ele.
+- **É espalhável, NÃO fatiável.** A regra de comprar fatiado vale para American e Provel, não
+  para ele (a exceção também está registrada em `08-queijos-e-coberturas.md`).
 - É comumente **extrudado sobre a pizza**, e vendido em **bisnaga plástica ou saco de confeitar**
   justamente para isso.
 - **É sensível ao calor. Aplicação típica: DEPOIS de assar.**
@@ -355,7 +409,7 @@ pH, mais rápida a coagulação** — e a coalhada contraída empurra umidade pa
 *Staphylococcus aureus*, *Listeria monocytogenes*, salmonela e E. coli.
 
 Temperaturas de trabalho das culturas (só interessa a quem faz queijo — ver
-`15-molhos-brancos-e-queijos-caseiros.md`):
+`22-mussarela-e-queijos-caseiros.md`):
 
 | Cultura | Faixa |
 |---|---|
@@ -397,6 +451,15 @@ mesmo diâmetro:
 
 **Siga a tabela** (a de `08-queijos-e-coberturas.md`), não a frase. Registrado aqui para ninguém
 "corrigir" a gramagem pelo texto corrido.
+
+### Detroit 25×20 cm: 175 g na ficha de queijo, 170 g no quadro de payload
+
+A ficha de queijo da **p. 304** dá **pizza cheese 60 g + Wisconsin brick 115 g = 175 g**; o
+quadro de payload da **p. 348** dá **170 g** na coluna de queijo do mesmo tamanho —
+**trabalhe com 175 g**. É a tabela específica de queijo, e é a única que separa os **dois SKUs**
+que o porcionamento precisa. Os 170 g valem como linha de payload
+(`23-coberturas-tecnicas-e-payload.md`). A Detroit 35×25 cm fecha nos dois quadros:
+115 + 225 = **340 g**.
 
 Razão queijo : massa que sai dessa tabela, útil para conferir ficha:
 **napolitana 100 g de queijo para 250 g de massa = 40%**; **New York 40 cm, 290 g para 600 g =

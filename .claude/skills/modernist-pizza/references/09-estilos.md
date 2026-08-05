@@ -139,7 +139,8 @@ Duas perguntas: **dá para perceber diferença?** E, se dá, **qual é melhor?**
 dos EUA). Estica fácil, aberta com **rolo**, assa até ficar tipo cracker. Borda pequena, a
 parte mais crocante. Servida cortada em quadrados (o livro acha impraticável para comer).
 Problema em Chicago: fazem thin-crust com massa de deep-dish. A versão do livro leva **~10%
-de fubá fino** (tradicional no estilo) e hidratação alta (72%). Aberta a **6 mm**. O fubá
+de fubá fino** (tradicional no estilo) e hidratação alta — a prosa do livro diz 72%, mas o
+**net contents da ficha dá 71,43%**; formule por 71,43%. Aberta a **6 mm**. O fubá
 precisa ser fino — grosso rasga a massa ao abrir e fica duro de mastigar.
 
 **Brazilian thin-crust** — o estilo mais prevalente do Brasil. **Farinha de baixa proteína**,
@@ -170,7 +171,8 @@ pré-gelatinizado a ~82% de hidratação.
 
 **New York** — "napolitana adaptada ao comércio". Crosta mais grossa e resistente, pode ser
 grande e vendida em fatia, aguenta mais cobertura, sobrevive uma hora sob lâmpada de calor,
-reaquece bem e viaja bem em caixa. Assa a **285–315 °C**, então não exige forno a lenha.
+reaquece bem e viaja bem em caixa. Assa a **290–315 °C** (ver `05-fornos-e-cocao.md`, que é o
+dono das faixas de forno), então não exige forno a lenha.
 Hidratação **69,49%** (contra 62,3% da napolitana) para abrir o miolo. Leva **malte
 diastático** (combustível para a fermentação longa) e um pouco de **azeite** (volume,
 manuseio e não ressecar no reaquecimento).

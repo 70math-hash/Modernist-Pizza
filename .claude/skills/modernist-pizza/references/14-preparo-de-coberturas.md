@@ -2,8 +2,9 @@
 
 Fonte: *Modernist Pizza*, Vol. 2, cap. "Toppings" (p. 357–384).
 
-Complementa `08-queijos-e-coberturas.md`, que trata de gramagem, payload e quando aplicar.
-Aqui está **como preparar**.
+Complementa `08-queijos-e-coberturas.md` (gramagem e distribuição) e
+`23-coberturas-tecnicas-e-payload.md` (payload por tamanho, as sete técnicas de pré-cocção,
+fatiar carne, comprar pepperoni). Aqui estão **as receitas e o preparo item a item**.
 
 ---
 
@@ -112,6 +113,11 @@ confira de novo.
 aqueça levemente antes de usar. **Congelado: ao descongelar solta água — descongele num
 coador ou superfície perfurada** para a água escorrer.
 
+**Azeitona assada — p. 359**: escorra e misture com azeite e as ervas/especiarias do perfil da
+pizza. **260 °C / 500 °F por 10–15 min**, até ficar aromática e levemente seca. Concentra o
+sabor e tira a umidade que vazaria na pizza. Ela vai assar uma segunda vez na pizza — **não
+seque a ponto de queimar lá**.
+
 ### Confit (submerso em gordura)
 São **três** métodos no livro, e o primeiro é a panela de pressão.
 
@@ -136,48 +142,19 @@ completo em temperatura ambiente.
 baixo possível**, **2–3 h** conferindo de hora em hora. Esfrie completamente.
 
 **Guardar**: escorra a gordura antes de pôr na pizza, ou guarde o ingrediente **junto com a
-gordura** em pote hermético, refrigerado **até 3 meses**. Para usar: aqueça o pote sob água
-quente e escorra a gordura.
+gordura** em pote hermético, refrigerado **até 3 meses**. Ao guardar, **o ingrediente tem que
+ficar totalmente submerso na gordura**. Para usar: aqueça o pote sob água quente e escorra.
 
-### Vapor, escalfar, refogar, char, grelhar, fritar, sous vide
-Todos aparecem na tabela acima como opção, e cada um tem procedimento próprio (p. 362–368).
+**Fruta em confit**: o livro **não recomenda para a maioria das frutas**. Deram certo, em
+**manteiga clarificada**, marmelo, cereja, tâmara e maçã Granny Smith; em **óleo de coco**,
+manga, goiaba, abacaxi e o próprio coco.
 
-**Vapor**: ambiente fechado a **100 °C / 212 °F**. Panela com **1,25 cm / ½ in de água** e cesta
-de vapor por cima, tampada, fervura em fogo alto; ponha o ingrediente e **tampe na hora**.
-**Confira o ponto aos 5 min** e depois **a cada 2 min**. **Choque em banho de gelo** (água e
-gelo em **partes iguais**, suficiente para submergir tudo), escorra. Guarda **5 dias**
-refrigerado; aqueça levemente ou tempere algumas horas antes de usar.
+> "Confit" aqui é uso impróprio do termo: o sentido original é cozinhar e conservar algo **na
+> própria gordura**.
 
-**Refogar (sauté)**: gordura em frigideira larga, **fogo médio-alto**; quando a gordura borbulha
-(ou o óleo está quase fumegando), entra o ingrediente e mistura para cobrir. **Baixe para médio
-se os pedaços forem grossos**; nos finos mantenha o médio-alto. **Mexa a cada 2–3 min** com
-colher de pau ou espátula de silicone — não deixe sozinho. Se começar a carbonizar em pontos
-sem cozinhar por igual, **junte um pouco de água** e siga. Tire do fogo quando estiver bem
-dourado e macio, esfrie. Guarda **5 dias** refrigerado. Folhosas vão **empilhadas** na panela
-(perdem muito volume) e devem ser temperadas **no fim**, senão você sala demais.
-
-**Escalfar (poach)**: submerso em líquido **logo abaixo da fervura, 60–82 °C / 140–180 °F**.
-O líquido tem que ser **muito saboroso**. Ferver ou fervilhar é mais rápido, mas agressivo
-demais para fruta e legume delicados.
-
-**Char**: queimar de leve a superfície **sem necessariamente cozinhar por dentro** — maçarico,
-salamandra, broiler ou chama de gás. Grade sobre assadeira, ingrediente em cima, calor por
-cima. Para pimentão, depois de carbonizar, tampe a tigela com filme: a pele solta sozinha.
-
-**Fritura rasa**: mesmos passos do refogado, mas com óleo subindo de **1/3 até a metade** da
-altura do ingrediente, a **175 °C / 350 °F** (confira a recuperação da temperatura entre
-levas). Doure de um lado, vire, doure o outro, escorra em papel-toalha. **Não aglomere.**
-
-**Fritura profunda**: **175–190 °C / 350–375 °F** para a maioria; **não passe de 190–200 °C /
-375–390 °F**, senão a superfície queima antes de o interior cozinhar. O procedimento do livro
-pré-aquece a **175 °C / 350 °F**. Frito vai **depois de assar** (assado junto, murcha) — e como
-não tem nada prendendo, posicione para a fatia dobrada segurar.
-
-**Sous vide**: banho ou combi **1–2 °C / 2–3 °F acima da temperatura-alvo do núcleo**;
-**pré-aquecimento de 15–30 min** antes de o alimento entrar. Pedaços de espessura parecida.
-Saco de vácuo, zip ou **frasco de conserva** — no combi dá para usar panela aberta, sem
-embalagem. Regra grossa: **dobrar a espessura quadruplica o tempo**. Sele depois, se quiser.
-Guarda **5 dias** refrigerado.
+### Vapor, escalfar, refogar, char, fritar, sous vide
+Todos aparecem na tabela acima como opção. **O procedimento de cada um, com temperatura, ponto
+e prazo de guarda, está em `23-coberturas-tecnicas-e-payload.md`** (p. 362–368).
 
 ### Caramelizar sob pressão
 Método desenvolvido no *Modernist Cuisine*: **bicarbonato acelera a caramelização**. A
@@ -253,6 +230,13 @@ Tempo: 25 min ativos / 40–45 min inativos.
 **Opção extra-crocante**: corte o rösti no número de fatias da pizza e **frite a 175 °C / 350 °F
 por 2–3 min**, escorra em papel-toalha e ponha uma sobre cada fatia recém-assada.
 
+**Julienne de batata, três caminhos**: (a) mandolina em fatias de **1,5 mm**, empilhar **8–10
+fatias** e cortar em tiras de **1,5 mm**; (b) mandolina com lâmina de julienne; (c) turning
+slicer com lâmina de julienne.
+
+**Acabamento clássico**, muito recomendado pelo livro se couber no perfil da pizza: **sour cream
+ou crème fraîche + cebolinha**.
+
 ### Frico (chips de queijo)
 Queijo duro **finamente ralado** — Parmigiano-Reggiano, Grana Padano, Asiago ou gouda
 curado — **200 g**. Rende 25 quadrados de 7,5 cm.
@@ -293,7 +277,24 @@ Rendimento **1,8 kg**. Tempo: 15–20 min ativos / 2 h inativos.
 
 > Feita **solta**, que é como se usa em pizza. Dá para embutir, mas aí exige muito mais
 > técnica: você teria que pré-cozinhar e fatiar antes de pôr na pizza.
-> **Em Chicago**, a linguiça fresca costuma ser temperada com **alho em vez de erva-doce**.
+
+**Variação com alho (estilo Chicago)**: substitua o **peso somado** de páprica, orégano,
+erva-doce, coentro, pimenta calabresa e pimenta-do-reino por **dentes de alho frescos
+descascados**, adicionados **inteiros junto com a carne, antes de moer**.
+
+**Porcionada crua em pedaços de 2,5 cm**, ela cozinha por completo na pizza e a gordura liberada
+dá sabor extra. Fora esse caso, pré-cozinhe.
+
+**Dois defeitos de linguiça caseira** (p. 376):
+
+| Defeito | Causa |
+|---|---|
+| Fica **coesa e dura demais** depois de cozida | **Sal demais, ou salgada cedo demais** e deixada descansando |
+| Ao cortar a linguiça embutida, **grãozinhos de carne se soltam** (não ligou) | **O moedor esquentou** — cozinhou a superfície dos grãos e cauterizou a ligação. Comece com carne e equipamento **muito frios** |
+
+- Tempero de linguiça precisa ser **moído muito fino**; dá para comprar "sausage spices" já
+  moídos na finura certa.
+- **Tanto a doce quanto a picante levam açúcar** — a picante só tem especiaria a mais.
 
 ---
 
@@ -312,7 +313,7 @@ expostos ao assar** — para evitar, **cubra com um queijo que derrete** (tipo m
 | Morcela (blood sausage) | Renderize a gordura **até a metade** para aplicar antes de assar; **renderize por completo e deixe crocante** no forno ou frigideira para aplicar depois |
 | Chorizo mexicano | **Tire da tripa** e belisque pedaços sobre a pizza · cozinhe antes |
 | Linguiça italiana (picante ou suave) | **Cozinhe antes**, exceto se em pedaços muito pequenos |
-| Pepperoni | Fatie fino |
+| Pepperoni | Fatie fino · o livro registra também "fino ou grosso, conforme o resultado desejado" **(?)** na mesma linha |
 | Salame | Fatie fino · ou fino e em julienne |
 | Hot dog / salsicha | Inteiro (se do tamanho de salsicha Viena) · ou em pedaços de 1 cm |
 | Spam | Fatie em discos · ou grosso em bastões, renderizando a gordura |
@@ -329,16 +330,11 @@ expostos ao assar** — para evitar, **cubra com um queijo que derrete** (tipo m
 | Presunto cru, Serrano, Ibérico | Fatie fino e **rasgue à mão** · ou fino e em julienne |
 | Mortadela | Fatie fino · ou fino e **desfie à mão** |
 | Coppa, presunto de peito de pato, speck, bresaola, lardo | Fatie fino |
-| Pastrami | Fatie fino · ou fino e em julienne |
+| Pastrami | Fatie fino · ou fino e em julienne · ou fino e **desfiado à mão** |
 
 ### Antes **ou** depois de assar
-Terceira categoria da tabela do livro — a mesma carne serve nos dois momentos, mudando só o
-quanto você renderiza.
-
-| Carne | Como preparar |
-|---|---|
-| **Bacon fatiado** | Inteiro, em quadradinhos, lardons ou julienne. **Antes: renderize a gordura pela metade. Depois: renderize por completo e deixe crocante** no forno ou na frigideira |
-| **Tasso ham, chouriço espanhol curado** | Fatie fino · ou fino e desfie à mão · ou fino e em julienne |
+Terceira categoria da tabela do livro (bacon fatiado, tasso ham, chouriço espanhol curado):
+ver `23-coberturas-tecnicas-e-payload.md`.
 
 ---
 
@@ -361,5 +357,5 @@ na direção da fonte de calor dominante**.
   baixo encaracolou para baixo e a de cima para cima. **É o aquecimento diferencial que
   manda na direção.**
 
-> **Nunca renderize a gordura do pepperoni cupping antes** — os cálices de gordura são metade
-> da experiência de comer.
+Regra de uso do pepperoni cupping (não renderizar a gordura antes) e o que decide na compra:
+ver `23-coberturas-tecnicas-e-payload.md`.

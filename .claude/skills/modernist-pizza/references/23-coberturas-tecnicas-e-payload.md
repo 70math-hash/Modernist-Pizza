@@ -3,9 +3,14 @@
 Fonte: *Modernist Pizza*, Vol. 2, cap. 10 "Toppings" (p. 343–383).
 
 Complementa `08-queijos-e-coberturas.md` (as três restrições, payload resumido, distribuição,
-tabela de problemas) e `14-preparo-de-coberturas.md` (cru ou cozido item a item, assar legume,
-confit em forno e fogão, frico, fórmula da linguiça, frios antes/depois, por que o pepperoni
-encaracola). Aqui está o payload tamanho a tamanho e o **como fazer** de cada técnica.
+tabela de problemas). Aqui está o payload tamanho a tamanho e o **como executar** de cada
+técnica de pré-cocção.
+
+**O que fica em `14-preparo-de-coberturas.md`** e não se repete aqui: a tabela de cru-ou-cozido
+item a item, assar legume, assar fruta e azeitona assada, os **três** métodos de confit
+(inclusive na panela de pressão), a caramelização sob pressão (fórmula e passos), rösti, frico,
+a linguiça italiana, as tabelas de frios de **antes** e de **depois** de assar, e o experimento
+de por que o pepperoni encaracola.
 
 ---
 
@@ -44,6 +49,9 @@ prato, não na física.
 
 \* Napolitana: valores de **margherita**. Marinara: **reduza 40 g**.
 (?) O livro imprime "2.8–3.35 g" nessa célula de al taglio — é erro de impressão; a unidade é kg.
+(?) Detroit 25×20: a tabela de queijo da p. 304 dá 60 g de pizza cheese + 115 g de Wisconsin
+brick = **175 g**; este quadro de payload da p. 348 dá 170 g — **trabalhe com 175 g** ao
+porcionar, que é a tabela específica de queijo, com os dois SKUs.
 
 **O número máximo é o ponto imediatamente antes de a qualidade começar a cair.** Não é meta, é
 teto. Os pesos de queijo da tabela são os das receitas ícone do Vol. 3.
@@ -71,7 +79,7 @@ percentual do peso da massa, com subcategorias separadas para molho sozinho e qu
 A regra geral (a maioria antes de assar; folha crua, frio delicado e molho sensível depois)
 está em `08-queijos-e-coberturas.md`. O que segue são as exceções com número.
 
-### Ovo (p. 361)
+### Ovo (p. 352–353)
 
 - Não espere o forno terminar: **adicione o ovo 1–2 min antes de a pizza sair**, para a clara
   firmar e a gema continuar mole.
@@ -157,44 +165,10 @@ no início da assagem (funde com molho e queijo) ou **depois do forno**, como sa
 
 ---
 
-## 5. Assar FRUTA é 135 °C — não é a temperatura do legume
+## 5. As sete técnicas de pré-cocção, com número
 
-> **Correção de leitura.** Os **205 °C / 400 °F** (convecção **190 °C / 375 °F**) de
-> `14-preparo-de-coberturas.md` são a temperatura de **legume**. Fruta assa muito mais baixo.
-
-**Forno deck ou doméstico a 135 °C / 275 °F**, ou **convecção a 120 °C / 250 °F com ventilador
-em velocidade baixa** (p. 360).
-
-1. Apare e corte. Pode temperar com especiarias e ervas antes.
-2. Assadeira forrada com alumínio **+ grade (wire rack) por cima**.
-3. **Borrife a grade com um véu de óleo.**
-4. Fruta sobre a grade, **camada única**. Não aglomere — senão cozinha no vapor.
-5. **Deixe o registro do forno aberto ou a porta entreaberta**, para a água evaporada escapar.
-6. Asse até ficar **apenas macia, não papa**. Pode pegar cor nas bordas.
-7. Esfrie **sobre a grade**.
-8. Guardar hermético: **3 dias refrigerado / 3 meses congelado**. Refrigerada, aqueça levemente
-   antes. Congelada, **descongele em coador ou superfície perfurada** — solta água.
-
-Opcional (já em `14-preparo-de-coberturas.md`): misturar a fruta com 20% do peso em açúcar,
-30–45 min, escorrer no coador e guardar o líquido adoçado.
-
-**Ponto** (vale para fruta e legume): não use termômetro, não cabe. Encoste, ou enfie um
-**espeto de madeira ou garfo** — nunca faca. Se entra e sai fácil, está pronto; se não,
-**mais 3–5 min** e confira de novo.
-
-### Azeitona assada (p. 367)
-
-Escorra, misture com azeite e as ervas/especiarias do perfil da pizza. **260 °C / 500 °F por
-10–15 min**, até ficar aromática e levemente seca. Concentra sabor e tira a umidade que vazaria
-na pizza.
-
-> Ela vai assar uma segunda vez na pizza — **não seque a ponto de queimar lá**.
-
----
-
-## 6. As sete técnicas de pré-cocção, com número
-
-`14-preparo-de-coberturas.md` cita todas na tabela de "cru ou cozido"; aqui está como executar.
+`14-preparo-de-coberturas.md` cita todas na tabela de "cru ou cozido" e traz assar, confit e
+caramelização sob pressão por extenso; aqui está como executar as outras sete.
 
 | Técnica | Temperatura | Ponto / tempo | Guardar |
 |---|---|---|---|
@@ -262,7 +236,7 @@ o amido grudar.
 
 A contrapartida: não tem queijo derretido prendendo — **posicione o frito onde a dobra da fatia
 o segure**. As duas coberturas fritas que cobrem a pizza **inteira**, e por isso dão crocância
-em toda mordida, são o **rösti** e o **frico**.
+em toda mordida, são o **rösti** e o **frico** (receitas em `14-preparo-de-coberturas.md`).
 
 ### Vapor (p. 363)
 
@@ -329,108 +303,7 @@ broiler, salamandra ou chama aberta de gás. Objetivo: enegrecer e dar sabor de 
 
 ---
 
-## 7. Pressão: confit em frasco e os passos de fogão da caramelização
-
-### Confit na panela de pressão (p. 366)
-
-O terceiro método, que falta em `14-preparo-de-coberturas.md` (lá estão o forno baixo a 120 °C
-e o fogão em fogo mínimo).
-
-1. Apare e corte em pedaços de tamanho e espessura parecidos.
-2. **Encha o frasco de conserva até 2/3** com o ingrediente.
-3. **Complete o frasco com a gordura escolhida.**
-4. Feche a tampa — **nem muito apertada, nem muito frouxa**.
-5. **2,5 cm / 1 in de água** na panela de pressão.
-6. Trivet na panela, frasco sobre o trivet.
-7. **Ferva branda com a panela DESTAMPADA.**
-8. Na fervura branda, feche a tampa com segurança.
-9. **Baixe para fogo médio.**
-10. Leve a **1 bar / 15 psi (≈ 117 °C / 243 °F)**.
-11. **Cozinhe 1½ h**, ajustando o fogo para manter a pressão estável.
-12. **Deixe a panela esfriar por completo em temperatura ambiente antes de abrir.**
-13. Tire os frascos e esfrie até temperatura ambiente.
-14. Escorra a gordura antes de usar, ou feche e refrigere **até 3 meses**. Para usar, aqueça o
-    frasco sob água quente e escorra.
-
-**Instant Pot**: passos 1–7 acima, modo **Pressure Cook, 12 psi (High), 1 h**, tampa travada.
-
-**Peça grande de carne que não cabe no frasco**: pule os passos 1–5, ponha a carne direto na
-panela e **adicione gordura suficiente para cobrir por completo** — pode ser mais do que a que a
-própria carne renderiza. **Ao guardar, o ingrediente tem que ficar totalmente submerso.**
-
-**Fruta em confit**: o livro **não recomenda para a maioria das frutas**. Deram certo, em
-**manteiga clarificada**, marmelo, cereja, tâmara e maçã Granny Smith; em **óleo de coco**,
-manga, goiaba, abacaxi e o próprio coco.
-
-> "Confit" aqui é uso impróprio do termo: o sentido original é cozinhar e conservar algo **na
-> própria gordura**.
-
-### Caramelização sob pressão — o que vem depois de "pressurize" (p. 373)
-
-A fórmula base (ingrediente 100% · manteiga 30% · açúcar 20% · bicarbonato 0,5%) e a versão
-Instant Pot estão em `14-preparo-de-coberturas.md`. Os passos de fogão continuam assim:
-
-6. Ferva branda em fogo alto **com a panela destampada**.
-7. Feche a tampa com segurança.
-8. **1 bar / 15 psi (≈ 117 °C / 243 °F)**.
-9. **Cozinhe 1 h**, ajustando o fogo para manter a pressão estável.
-10. Esfrie a panela **por completo em temperatura ambiente** antes de abrir.
-11. Tire os frascos e esfrie até temperatura ambiente.
-12. Frio, está pronto. **Guarde até 3 meses sob refrigeração.**
-
-> Os **120 °C / 250 °F** citados na explicação do método são o acúmulo de calor descrito no
-> texto; **o alvo de operação é 1 bar / 15 psi ≈ 117 °C / 243 °F**. Sobrepressurizar não deixa
-> mais quente — só faz a válvula soltar vapor.
-
----
-
-## 8. Rösti — as três etapas de calor depois do fogão
-
-Batata russet descascada **800 g (100%)** · manteiga derretida **150 g (18,75%)** · sal fino
-**7 g (0,88%)**. Tempo: **ativo 25 min / inativo 40–45 min**.
-
-> **Divergência do livro**: a frigideira indicada é de **25 cm** e o rendimento declarado é um
-> disco de **20 cm (?)**. `14-preparo-de-coberturas.md` diz que a receita é para pizza de 30 cm.
-> Na prática, o disco sai do tamanho da frigideira que você usar.
-
-1. Convecção a **190 °C / 375 °F** ou forno doméstico a **205 °C / 400 °F**.
-2. Mandolina no menor ralador (**1,5 mm**), tiras longas e finas. Mantenha na água. Rende
-   **~650 g** de batata ralada.
-3. Água com gelo, agitar para tirar o amido (ou lavar em água corrente).
-4. Espalhar em assadeira forrada com panos ou papel-toalha e **secar batendo**.
-5. Transferir para tigela.
-6. Despejar a manteiga, adicionar o sal, misturar até cobrir tudo.
-7. Frigideira antiaderente de **25 cm que possa ir ao forno**, fogo médio-alto.
-8. Panela quente: adicione a batata **compactando com espátula de borracha ou colher de pau**
-   num disco do tamanho da frigideira.
-9. **Fogo médio-alto ~5 min**, até as tiras começarem a grudar entre si e pegar cor embaixo.
-10. **Leve a frigideira ao forno** e asse até o topo dourar levemente — **~10 min em convecção
-    ou ~15 min em forno doméstico**.
-11. **Vire o rösti rápido e com cuidado sobre um prato SEM aba** e deslize de volta para a
-    frigideira quente.
-12. Asse até dourar e cozinhar por completo — **~15 min em convecção ou ~20 min em forno
-    doméstico**.
-13. Esfrie sobre grade em assadeira.
-14. Recrocantizar/reaquecer: **5–7 min a 190 °C / 375 °F em convecção ou 205 °C / 400 °F em
-    forno doméstico**.
-15. Corte no **mesmo número de fatias em que a pizza será cortada** e ponha uma cunha sobre cada
-    fatia.
-
-**Opção crocante extra**: corte o rösti no número de fatias da pizza e **frite a 175 °C / 350 °F
-por 2–3 min**. Escorra em papel-toalha e ponha uma sobre cada fatia da pizza recém-assada.
-
-**Julienne de batata, três caminhos**: (a) mandolina em fatias de **1,5 mm**, empilhar **8–10
-fatias** e cortar em tiras de **1,5 mm**; (b) mandolina com lâmina de julienne; (c) turning
-slicer com lâmina de julienne.
-
-Acabamento clássico, muito recomendado pelo livro se couber no perfil da pizza: **sour cream ou
-crème fraîche + cebolinha**.
-
-> **Espessura uniforme é o que faz funcionar; o comprimento importa menos.**
-
----
-
-## 9. Carnes: fatiar, aplicar, comprar
+## 6. Carnes: fatiar, aplicar, comprar
 
 ### Fatiar (p. 375)
 
@@ -445,7 +318,8 @@ crème fraîche + cebolinha**.
 ### Frios: a terceira categoria
 
 As tabelas de **antes de assar** e **depois de assar** estão em `14-preparo-de-coberturas.md`.
-Falta esta, que o livro trata separado:
+Esta é a terceira, que o livro trata separado — a mesma carne serve nos dois momentos, mudando
+só o quanto você renderiza.
 
 **Antes OU depois de assar** (p. 377)
 
@@ -454,20 +328,16 @@ Falta esta, que o livro trata separado:
 | **Bacon fatiado** | Inteiro, em quadradinhos, lardons ou julienne. **Antes: renderize a gordura pela metade. Depois: renderize por completo e deixe crocante** no forno ou na frigideira |
 | **Tasso ham, chouriço espanhol curado** | Fatiar fino · fino e desfiar à mão · fino e em julienne |
 
-Deltas nas outras duas categorias:
-
-- **Pastrami** (depois de assar): além de fino e de fino em julienne, também **fino e desfiado à
-  mão**.
-- **Presunto cozido (não curado)**: se for de **muito alta qualidade, aplique DEPOIS de assar**.
-- **Pepperoni**: fatiar fino; o livro também registra "fino ou grosso, conforme o resultado
-  desejado" **(?)** na mesma linha.
-
 > **Salsicha fatiada em discos encaracola igual pepperoni** — pelo mesmo motivo: a tripa.
+
+**Embutidos emulsionados** (mortadela, bratwurst, hot dog) são difíceis em pizza. Mortadela vai
+**depois de assar** (queima fácil e assar não melhora o sabor). Hot dog tem que estar
+**pré-cozido antes de fatiar**. Os demais só funcionam se você achar **crus** e pré-cozinhar.
 
 ### Pepperoni — decisão de compra (p. 378–379)
 
 O mecanismo do *cupping* e a direção do calor estão em `14-preparo-de-coberturas.md`. O que
-decide na compra:
+decide na compra e no uso:
 
 - **O que faz encaracolar é a TRIPA DE COLÁGENO.** Quem quer *cupping* precisa comprar pepperoni
   com tripa de colágeno; os de **tripa de papel não encaracolam**.
@@ -477,46 +347,21 @@ decide na compra:
   indústria migrou para tripa de papel e a memória se perdeu.
 - A borda do cálice fica **mais escura e mais crocante** que o resto do disco, porque está
   desprotegida do calor direto. É esse contraste de textura que agrada, além da poça de gordura.
+- **Dá para renderizar a gordura de bacon ou de linguiça gorda antes de pôr na pizza. NUNCA
+  faça isso com o pepperoni cupping** — os cálices de gordura são metade da experiência.
 - **36% das pizzas vendidas nos EUA levam pepperoni**; é a cobertura nº 1 em todos os estados
   exceto o Havaí.
 - O livro afirma que **pepperoni funciona muito bem em napolitana**, mesmo na temperatura
   altíssima — apesar da oposição quase universal que encontraram na Itália.
 
-### Linguiça italiana — os passos 7 a 10
+### Linguiça italiana
 
-A fórmula e os passos 1–6 estão em `14-preparo-de-coberturas.md`. Rendimento **1,8 kg**; tempo
-**ativo 15–20 min / inativo 2 h**.
-
-7. Incorpore a mistura de temperos + água gelada na *forcemeat*.
-8. Transfira para a **batedeira planetária com raquete (paddle)**. **Velocidade baixa, 2–3 min**,
-   só até água e temperos ficarem uniformemente distribuídos.
-9. **Refrigere a linguiça por pelo menos 1 h antes de usar.**
-10. **Guarde até 1 semana refrigerada. Congele até 3 meses.**
-
-**Variação com alho (estilo Chicago)**: substitua o **peso somado** de páprica, orégano,
-erva-doce, coentro, pimenta calabresa e pimenta-do-reino por **dentes de alho frescos
-descascados**, adicionados **inteiros junto com a carne, antes de moer**.
-
-**Porcionada crua em pedaços de 2,5 cm**, ela cozinha por completo na pizza e a gordura liberada
-dá sabor extra. Fora esse caso, pré-cozinhe.
-
-**Dois defeitos de linguiça caseira** (p. 376):
-
-| Defeito | Causa |
-|---|---|
-| Fica **coesa e dura demais** depois de cozida | **Sal demais, ou salgada cedo demais** e deixada descansando |
-| Ao cortar a linguiça embutida, **grãozinhos de carne se soltam** (não ligou) | **O moedor esquentou** — cozinhou a superfície dos grãos e cauterizou a ligação. Comece com carne e equipamento **muito frios** |
-
-- Tempero de linguiça precisa ser **moído muito fino**; dá para comprar "sausage spices" já
-  moídos na finura certa.
-- **Tanto a doce quanto a picante levam açúcar** — a picante só tem especiaria a mais.
-- **Embutidos emulsionados** (mortadela, bratwurst, hot dog) são difíceis em pizza. Mortadela vai
-  **depois de assar** (queima fácil e assar não melhora o sabor). Hot dog tem que estar
-  **pré-cozido antes de fatiar**. Os demais só funcionam se você achar **crus** e pré-cozinhar.
+Fórmula, passos 1–10, rendimento, variação com alho de Chicago e os defeitos de linguiça
+caseira: ver `14-preparo-de-coberturas.md`.
 
 ---
 
-## 10. Óleos aromatizados e outras finalizações (p. 382)
+## 7. Óleos aromatizados e outras finalizações (p. 382)
 
 **Aplicar depois de assar** — o sabor fica mais pronunciado. Antes de assar é possível, se você
 preferir. Sabor lipossolúvel é sempre melhor carregado por óleo do que por líquido aquoso.
@@ -548,7 +393,7 @@ vide também entram depois de assar.
 
 ---
 
-## 11. Azeite de oliva: compra e guarda (p. 383)
+## 8. Azeite de oliva: compra e guarda (p. 383)
 
 **Graus** (padrão internacional):
 
@@ -577,10 +422,10 @@ rotulagem é generalizada.
 
 ---
 
-## 12. Enlatados prontos e as coberturas do Brasil
+## 9. Enlatados prontos e as coberturas do Brasil
 
 **Alcachofra e abacaxi em lata e pimentão em conserva não precisam de nada além de ESCORRER**
-(p. 367) — já são cozidos antes de enlatar. Para esses três, o produto de conserva economiza uma
+(p. 359) — já são cozidos antes de enlatar. Para esses três, o produto de conserva economiza uma
 etapa inteira de pré-cocção sem perda.
 
 **Coberturas típicas do Brasil no levantamento do livro** (p. 355): atum em lata, linguiça

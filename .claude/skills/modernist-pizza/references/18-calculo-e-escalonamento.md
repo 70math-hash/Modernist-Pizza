@@ -4,19 +4,18 @@ Fonte: *Modernist Pizza*, Vol. 2 — "Understanding Baker's Percentage" (p. 18�
 "Best Bets for Pizza Sizes" (p. 94).
 
 O método e as definições estão em `02-mistura-e-gluten.md`; a tabela geral de pesos por
-tamanho, em `01-formulas-massas.md`. Aqui estão as contas fechadas, item a item, e as
-correções.
+tamanho, em `01-formulas-massas.md`. Aqui estão as contas fechadas, item a item.
 
 ---
 
-## 1. Peso de bola por tamanho: correções e acréscimos
+## 1. Peso de bola por tamanho: os que dependem da forma
 
 A tabela de "best bets" existe porque **os tamanhos de pizza são ditados pelas formas
 padrão disponíveis** — o livro partiu da forma e derivou o peso, não o contrário.
 
 | Item | Peso | Pizza / forma |
 |---|---|---|
-| New York 50 cm / 20 in | **930 g** | sem forma — `01-formulas-massas.md` traz 1,0 kg, errado |
+| New York 50 cm / 20 in | **930 g** | sem forma |
 | Deep-dish | 230 g | pizza de **21 cm / 8½ in**; forma 21 cm × **5 cm de profundidade** |
 | Deep-dish | 700 g | pizza de **32 cm / 12½ in**; forma 32 cm × **5 cm de profundidade** |
 | Focaccia · NY square | 1 kg · 700 g | meia chapa **46 × 33 cm / 18 × 13 in** |
@@ -38,7 +37,8 @@ volume maior.
 35 cm pesa **400 g** e a de 40 cm pesa **600 g** — as duas abaixo do mínimo.
 
 Conduta do livro: faça pelo menos 800 g, use o que precisa e **guarde o resto para o dia
-seguinte** (ou congele). Capacidade por tipo e tamanho de tigela em `02-mistura-e-gluten.md`.
+seguinte** (ou congele). Capacidade mínima, máxima e multiplicador de cada bacia em
+`17-batedeiras-e-tempos-de-mistura.md`.
 
 ---
 

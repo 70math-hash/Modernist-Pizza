@@ -166,12 +166,18 @@ al taglio 3 h · Detroit 3 h.
 - New York e artisan **exigem** frio. Fermentadas em ambiente ou quente, ficam com sabor
   subdesenvolvido e sem crocância. A 4 °C, boas do dia 1 ao dia 4; a partir do 5º dia a
   atividade cai e a pizza perde sabor e estrutura.
-- Thin-crust em ambiente: 2 e 3 h deram os melhores resultados. Às 6 h já estava
+- Thin-crust **em ambiente (21 °C)**: 2 e 3 h deram os melhores resultados. Às 6 h já estava
   hiperfermentada.
-- Focaccia: 1 h dá miolo fechado e volume estatisticamente menor. Mais tempo = mais slack,
-  mais gás visível em cima; às 4 h fica muito ácida e mole.
-- NY square: 3 h dá miolo pequeno e irregular; 4 h derruba o volume drasticamente.
-- Al taglio: tolera 2–4 h (o livro recomenda 3 h). 1 h é insuficiente.
+
+As três massas de forma abaixo foram testadas em **prova quente, a 27 °C / 80 °F** — a 1, 3 e
+4 h. **Não são leituras da prova em ambiente**, onde a recomendação das três continua sendo 3 h
+a 21 °C:
+- Focaccia **a 27 °C**: 1 h dá miolo fechado e volume estatisticamente menor. Mais tempo = mais
+  slack, mais gás visível em cima; às 4 h fica muito ácida e mole. A recomendação a 27 °C é 2 h.
+- NY square **a 27 °C**: 3 h dá miolo pequeno e irregular; 4 h derruba o volume drasticamente.
+  A recomendação a 27 °C é 2 h.
+- Al taglio **a 27 °C**: tolera 2–4 h. 1 h é insuficiente (cai fora da faixa estatística de
+  volume). A recomendação a 27 °C é 2 h.
 - Margem de tolerância geral: variar a prova final em **15%** do tempo indicado não muda as
   características. Ressalva: o texto do livro traz literalmente "within **+15%** of our
   guidelines" — pode ser um "±" perdido na digitalização. Conte com os 15% **para mais**; para
@@ -331,7 +337,7 @@ Use junto com fermento instantâneo de **0,43% a 1,5%** conforme o estilo — a 
 
 > **De onde vem esta tabela**: do **vol. 1** (texto por OCR), não do vol. 2. O que a sustenta é
 > que os fatores inversos fecham entre si: ×1,33 e ×0,75 (1/1,33), ×2,28 e ×0,44 (1/2,28),
-> ×3 e ×0,33. **Use estes.** Qualquer par que não feche assim é dígito trocado na digitalização.
+> ×3 e ×0,33. **Use estes.** Par que não feche assim é dígito trocado na digitalização.
 
 - Fermento congelado perde viabilidade: **aumente 25%** a quantidade da receita.
 - Se você **não** dissolver o fermento instantâneo, a prova demora **20–30 min a mais**.
@@ -348,6 +354,12 @@ Use junto com fermento instantâneo de **0,43% a 1,5%** conforme o estilo — a 
 Você perde sabor, cor e aroma. Podem ser combinados:
 - **0,8–1% de fermento instantâneo** ⇒ massa pronta em 2–3 h.
 - Água a **27–32 °C**.
+
+> **Não confunda com as receitas Emergency.** Os 27–32 °C acima são o atalho que você aplica
+> **por conta própria a uma receita-mestre**. As fichas *Emergency* publicadas (napolitana,
+> New York, artisan, al taglio — em `11-submasters-e-variacoes.md`) pedem **água a 38 °C /
+> 100 °F**, que é outro ponto de partida, com fórmula própria.
+
 - Massas de alta hidratação: bater até glúten **total** em velocidade alta e reduzir o bulk
   para 30 min.
 - Fermentar em local morno, coberto ou com controle de umidade.

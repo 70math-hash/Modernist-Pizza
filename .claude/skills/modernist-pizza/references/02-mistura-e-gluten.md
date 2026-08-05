@@ -145,22 +145,22 @@ grandes demais, e demora muito com massa de alta hidratação.
 > A única mestre sem opção de garfo é a **al taglio** (79,73%) — e a pizza alla pala, que
 > herda o bloco de mistura dela.
 
-| Tipo | Capacidade | Notas |
-|---|---|---|
-| Planetária de bancada (stand) | 1–2 kg | Casa e produção pequena. Motor fraco para massa seca. |
-| Planetária comercial | 3–8 kg | Cavalo de batalha de pizzaria. Gera bastante atrito/calor. Tigela removível (fácil de limpar). |
-| **Espiral** | bancada a partir de **1 kg**; menor de piso a partir de **3,5 kg**; a do livro (bacia 36 L / 38 qt) mistura de 8 a 15 kg; modelos grandes vão a centenas de kg | A mais eficiente. Gancho **e** bacia giram. Mistura rápido **sem esquentar**. Difícil de limpar (bacia fixa). Recomendada para pizzaria — inclusive pequena, pelos modelos de bancada. |
-| Diving arm / twin-arm | modelos pequenos a partir de **2,5 kg**; os mais comuns, mín. 8 kg; nas fichas, bacia de 6 qt = **3 kg máx.**; industriais: varia | Muito suave, quase não esquenta, mas **muito** lenta. Ótima para inclusões. |
-| Garfo (fork) | 4–240 kg | O mixer que a AVPN e muitos napolitanos recomendam. **Falha a partir de 72% hidratação.** |
-| Processador (Robot Coupe) | bacia 12–16 cup: **1 kg** · Robot Coupe 2–3 qt: **1,2 kg** · industrial: ~30 kg (p. 46; as fichas só dizem "varia") | 45 s a 2 min até glúten total. Crosta mais dura, miolo fechado. Não serve para alta hidratação. Começar com água fria. |
+| Tipo | Notas |
+|---|---|
+| Planetária de bancada (stand) | Casa e produção pequena. Motor fraco para massa seca. |
+| Planetária comercial | Cavalo de batalha de pizzaria. Gera bastante atrito/calor. Tigela removível (fácil de limpar). |
+| **Espiral** | A mais eficiente. Gancho **e** bacia giram. Mistura rápido **sem esquentar**. Difícil de limpar (bacia fixa). Recomendada para pizzaria — inclusive pequena, pelos modelos de bancada. |
+| Diving arm / twin-arm | Muito suave, quase não esquenta, mas **muito** lenta. Ótima para inclusões. |
+| Garfo (fork) | O mixer que a AVPN e muitos napolitanos recomendam. **Falha a partir de 72% hidratação.** |
+| Processador (Robot Coupe) | 45 s a 2 min até glúten total. Crosta mais dura, miolo fechado. Não serve para alta hidratação. Começar com água fria. |
 
-**Regra de carga**: encha a tigela no máximo até a metade. Pouca massa → o gancho gira
-no vazio. Muita massa → sobe pelo gancho, não desenvolve, gera calor e desgasta o motor.
-Cada bacia tem **mínimo e máximo**, e as fichas de receita dão multiplicador por bacia:
-tabela completa em `17-batedeiras-e-tempos-de-mistura.md`. Em resumo: bancada 4,5 qt
-**1–1,25 kg máx.**; bancada 8 qt **1,5–1,75 kg máx.** (1,5 kg para massa dura como a
-brasileira); planetária 12 qt **mín. 2,5–3 kg / máx. 4–6 kg**; planetária 20 qt **6–8 kg**
-(a p. 45 dá 4–8 kg).
+**Regra de carga** — o que vale para qualquer modelo:
+- **Encha a bacia no máximo até a metade.** Passar disso só faz a mistura demorar mais.
+- **Massa de menos**: o gancho gira no vazio e o glúten nunca desenvolve.
+- **Massa demais**: sobe pelo gancho, não se mistura, gera calor e desgasta o motor.
+
+Capacidade em kg — mínimo, máximo e multiplicador de cada bacia, mais as leituras divergentes
+do livro: ver `17-batedeiras-e-tempos-de-mistura.md`.
 
 ---
 

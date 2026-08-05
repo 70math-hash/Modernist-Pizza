@@ -2,6 +2,11 @@
 
 Fonte: *Modernist Pizza*, Vol. 2 — cap. "Sauce"; Vol. 1 — "The Physics of Dough and Sauce".
 
+Este arquivo é a **visão geral**: o que o molho faz, consistência e gramagem por estilo e
+tamanho, quando aplicar, problemas comuns, anatomia do tomate e San Marzano. **Execução e
+compra** — medir consistência, engrossar, as receitas fechadas, correção de sabor,
+mix-and-match, tamanhos de lata e pesto — em `19-molho-de-tomate-avancado.md`.
+
 ---
 
 ## O que o molho faz (além de sabor e umidade)
@@ -27,22 +32,19 @@ definido pelo **tempo e pela temperatura de assagem**.
 - **Napolitana** — o molho **mais aguado** do livro. Assa a 425–480 °C em 60–90 s; a água
   evapora em segundos. Um molho grosso **queimaria**.
 - **New York** — molho **mais grosso**, menos água. Molho aguado aqui ⇒ pizza gomosa com poça
-  no meio. **Atenção aos pares de tempo e temperatura**: o livro dá dois, de lugares
-  diferentes, e eles **não se misturam**. O texto (p. 204) usa **285 °C / 550 °F por 5–6 min**;
-  a tabela de gramagem (p. 208), que é a que o cartão rápido do `SKILL.md` segue, usa
-  **315 °C / 600 °F por 4–5 min**. Use **um par inteiro**, nunca "285–315 °C por 5–6 min".
+  no meio. **Os pares de tempo e temperatura vêm de dois lugares e não se misturam**: a tabela
+  de gramagem por estilo da p. 208 dá **315 °C / 600 °F por 4–5 min**; o texto corrido da
+  p. 204 dá **285 °C / 550 °F por 5–6 min** — **trabalhe com a tabela da p. 208**, que é a
+  específica por estilo. Use **um par inteiro**, nunca "285–315 °C por 5–6 min".
 - **Al taglio** — molho denso: **purê de tomate grosso, sem semente, 100% + 1% de sal**, só
   misturado no fouet até o sal dissolver. **Não é extrato nem chega perto disso** — extrato
   tem no mínimo 24% de sólidos solúveis, purê não. O livro gosta da marca **Sclafani**.
 
-**Não são intercambiáveis** — com uma exceção medida. O molho napolitano **sem aditivo** é
-solto demais para as condições de New York, mas o **Modernist Neapolitan Pizza Tomato Sauce**,
-engrossado com **0,1% de xantana**, funciona nos dois estilos: a alta **pseudoplasticidade** da
-xantana dá um aumento quase instantâneo de viscosidade, que melhora a transferência de calor,
-e isso abre uma faixa térmica que cobre **450 °C / 840 °F e 315 °C / 600 °F**.
-**A ressalva do livro é de sabor, não de física**: o New York / Artisan tem sabor de tomate
-cozido bem mais profundo, com óleo de anchova, alho, orégano, cebola e folha de tomate ou
-manjericão. Um molho só para dois estilos é conveniente, mas apaga o que distingue cada um.
+**Não são intercambiáveis** — com uma exceção medida: o **Modernist Neapolitan Pizza Tomato
+Sauce**, engrossado com **0,1% de xantana**, é o único molho do livro que assa bem na faixa
+napolitana **e** na de New York. **A ressalva do livro é de sabor, não de física**: um molho só
+para dois estilos é conveniente, mas apaga o que distingue cada um. Mecanismo, faixa térmica e
+receita em `19-molho-de-tomate-avancado.md`.
 
 **Temperatura de aplicação**: nunca aplique molho **frio** sobre a massa. Isso derruba a
 temperatura da massa, aumenta o tempo de assagem e pode contribuir para a gum line.
@@ -117,19 +119,18 @@ a **consistência**.
 | **Molho queimado / com marcas de carvão** | Não tem conserto. Ou você pôs molho de menos, ou o molho tinha água de menos: use um molho mais aguado | Se molho **e** crosta estão escuros, foi só overbake: reduza tempo ou temperatura |
 | **Gum line** | Ver 05-fornos-e-cocao.md | Deixar a pizza montada esperando antes de assar **piora** a gum line |
 
-**Teste de molho novo sem gastar pizza**: asse a quantidade de molho que você usaria numa
-forma do mesmo diâmetro da pizza. Você vê exatamente quanta evaporação vai acontecer.
-Depois ajuste: diluir com água/leite/creme, **engrossar com xantana**, ou passar na
-peneira (textura mais sedosa).
+**Teste de molho novo sem gastar pizza**: asse **só o molho**, na temperatura e no tempo do
+estilo, e você vê exatamente quanta evaporação vai acontecer. Peso a testar, recipiente por
+estilo e o passo a passo — teste da frigideira — em `19-molho-de-tomate-avancado.md`.
+Depois ajuste: diluir com água/caldo/creme, **engrossar com xantana**, ou passar na peneira
+(textura mais sedosa).
 
 > **Não engrosse molho de pizza com amido.** O livro testou amidos, pectina e hidrocoloides:
 > quase todos engrossaram, mas deixaram o molho **excessivamente gomoso depois de assado**,
 > mesmo em quantidade pequena. A **única exceção aprovada foi goma xantana a 0,1%**.
-> Detalhe dos testes e das doses em `19-molho-de-tomate-avancado.md`.
 
-**Como engrossar molho fino com xantana**: despeje 1/4 do molho numa tigela, polvilhe a
-xantana **devagar** enquanto bate com mixer de mão, depois incorpore o resto do molho com
-fouet. O efeito é quase instantâneo.
+Doses de xantana, o que mais foi reprovado e **como dispersar** o espessante sem grumo:
+ver `19-molho-de-tomate-avancado.md`.
 
 ---
 
@@ -200,76 +201,31 @@ plástica; se não gostar, passe no moinho).
 Se a lata não tem sal, adicione **~1% do peso total do conteúdo**. Sempre prove antes.
 
 ### Tamanhos de lata (EUA)
-**"Lata #10" não é um peso só — são três, conforme o produto.** #300 e #2,5 são iguais para
-todos; o #10 muda.
-
-| Produto | #300 | #2,5 | #10 | Extra |
-|---|---|---|---|---|
-| Inteiro pelado · cubos · triturado · purê | 400 g / 14 oz | 800–820 g / 28 oz | **2,89–3 kg / 102–106 oz** | — |
-| Molho de tomate / pizza sauce | 400 g / 14 oz | 800–820 g / 28 oz | **2,92–3,15 kg / 103–111 oz** | **227 g / 8 oz** |
-| Extrato / pasta | — | — | **3–3,15 kg / 106–111 oz** | 170 g / 6 oz |
-
-A conversão de volume **não vale** para pizza sauce grossa ou super grossa. Tabela de volumes
-em xícaras em `19-molho-de-tomate-avancado.md`.
+**"Lata #10" não é um peso só — são três, conforme o produto** (#300 e #2,5 são iguais para
+todos). Os três pesos, os volumes em xícaras e o cálculo de escalonamento estão em
+`19-molho-de-tomate-avancado.md`.
 
 ---
 
-## Receita paramétrica: molho de tomate de lata
+## Índice das receitas de molho
 
-Três métodos: **esmagar com as mãos** (fica entre molho e cobertura — o livro considera
-tomate esmagado à mão mais uma *cobertura* que um molho), **moinho de tomate** (disco nem tão
-grande que deixe pedaços, nem tão pequeno que retenha as sementes) ou **mixer de mão**.
+Fórmula, percentual, método, rendimento e conservação de todas elas:
+`19-molho-de-tomate-avancado.md`.
 
-**Regra**: processe a lata **inteira**, sem escorrer — você precisa exatamente da mistura de
-tomate e água que veio na lata. Os demais ingredientes são calculados sobre o peso do tomate
-principal.
+| Receita | Para que serve | Onde |
+|---|---|---|
+| **Paramétricas de lata** — thin-crust/brasileira, napolitana clássica, marinara, New York rápida, deep-dish/borda recheada/Detroit, NY square, al taglio | uma por estilo, feita direto da lata | `19` §5 |
+| **Marinara Pizza Tomato Sauce** | molho separado (1 : 1,5) que resolve o centro ensopado da marinara | `19` §5 |
+| **Modernist Neapolitan Pizza Tomato Sauce** | napolitana — e o único que também serve para New York | `19` §5 |
+| **New York / Artisan Pizza Tomato Sauce** (+ variação amatriciana) | base de metade dos molhos do capítulo; substitui o "molho de tomate enlatado" das paramétricas | `19` §6 |
+| **Derivados** — spicy, spicy vodka, tomate e mostarda, white tomato | variações a partir de um molho já pronto | `19` §7 |
+| **Tomate fresco** — fermentado, slow-roasted, cru, cereja cru, concentrado em banho-maria | quando o insumo é fresco | `19` §8 |
+| **Pesto paramétrico** (7 versões) e como estabilizar | molho não-tomate mais usado em pizza | `19` §12 |
 
-| Molho | Tomate principal (100%) | Outro enlatado | Demais |
-|---|---|---|---|
-| **Thin-crust / brasileira** | triturado | molho de tomate 25% | sal 1,25% · orégano seco 1% |
-| **Napolitana clássica** | **inteiro pelado** | — | **sal 1%** |
-| **Marinara** | inteiro pelado | — | sal a gosto (~1%) |
-| **New York rápida** | triturado | molho de tomate 33,33% | sal 0,33% · orégano 0,33% |
-| **Deep-dish / borda recheada / Detroit** | inteiro pelado (escorrido) | triturado 100% · molho de tomate 66,67% | sal 1,5% · orégano 0,95% · azeite 2,4% |
-| **NY square** | triturado | inteiro pelado 46,88% · extrato 46,88% | alho picado 1,46% · sal 1,25% · orégano 0,42% · manjericão ou folha de tomate rasgada 0,21% |
-| **Al taglio** | **purê grosso** | — | sal 1% |
-
-**Conservação**: napolitana e marinara — 4 dias na geladeira, **não congelar**.
-Thin-crust e al taglio — 3 dias na geladeira, 3 meses congelado.
-New York, deep-dish, NY square — 4 dias na geladeira; 3 meses congelado (deep-dish: 2 meses).
-
-**Molho de deep-dish/Detroit é aplicado DEPOIS de assar** — aqueça em fogo médio-baixo
-enquanto a pizza assa e coloque com colher em cima.
-
-### O dilema da marinara (e a solução)
-Marinara leva **mais** molho que margherita, então sobra umidade e o centro fica ensopado
-mesmo com a massa assada. A gambiarra clássica é levar a pizza para a boca do forno e girar
-alguns segundos para evaporar.
-
-**A solução do livro: faça um molho separado para marinara.**
-Uma lata de tomate inteiro pelado tem em média **2,5 partes de água para 1 de sólidos** —
-calibrado de fábrica para dar a consistência certa de **margherita** ao passar no moinho.
-Para marinara você precisa de **1,5 parte de água para 1 de sólidos**.
-
-Método: escorra e **reserve** o líquido. Passe os tomates no moinho. Ponha o triturado numa
-peneira fina forrada com pano, sobre uma tigela, e **escorra 5 h**. Junte esse líquido ao
-reservado. Pese o triturado, multiplique por **1,5** — essa é a quantidade de líquido que
-você devolve. Misture bem, pese o molho e tempere com **1% de sal fino**.
-
-### Modernist Neapolitan Pizza Tomato Sauce
-Tomate inteiro pelado 800 g (uma lata de 28 oz) · sal fino 8 g (1%) · **goma xantana 0,5 g
-(0,1%)**.
-1. Faça a base pelos métodos acima (tomate + sal).
-2. Separe **160 g** do molho numa tigela pequena.
-3. Polvilhe a xantana **devagar** com o mixer de mão ligado.
-4. Incorpore o resto do molho com fouet.
-5. **Hidrate de um dia para o outro na geladeira** — a receita é 5 min ativos e **12 h
-   inativas**; a viscosidade final só aparece depois disso.
-6. **Corrija o sal** depois de hidratado, se precisar.
-
-Rendimento **~800 g**. **4 dias na geladeira; não congelar.**
-**Escalonar para lata #10**: divida o peso da sua lata por **800** e multiplique o resultado
-pelo peso de **cada um** dos demais ingredientes (lata de 3 kg ⇒ 3,75×).
+**Duas regras da mesa que valem para todas**: processe a lata **inteira, sem escorrer** (exceto
+onde a receita mandar escorrer) — a água que veio na lata é parte da fórmula; e **o molho de
+deep-dish e de Detroit vai DEPOIS de assar**, aquecido em fogo médio-baixo enquanto a pizza
+assa.
 
 ### Tomate fresco na pizza
 Tomate cru solta muita água — e mais ainda em cima de massa no forno. Opções:
@@ -319,7 +275,8 @@ O livro fez experimentos específicos adaptando sopas industrializadas.
 **Vegetais e frutas**: abobrinha caramelizada sob pressão, cebola ao curry, salsa verde,
 pesto (basílico, shiso, espinafre), purês variados.
 
-**Pesto**: estabilizar para não separar. Todos os ingredientes num só passo.
+**Pesto**: tudo junto num só passo, e **estabilizar para o óleo não separar**. As 7 fórmulas
+paramétricas e os dois métodos de estabilização em `19-molho-de-tomate-avancado.md`.
 
 **Ordem de grandeza**: molhos escuros absorvem mais radiação e assam mais rápido que molhos
 claros de mesma consistência — **ajuste o tempo**.

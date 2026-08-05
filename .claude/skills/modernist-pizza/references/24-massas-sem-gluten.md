@@ -75,7 +75,9 @@ massa lisa e homogênea**; pote generosamente oleado.
 **Prova**: **2–3 h a 21 °C / 70 °F**, coberto.
 **Tempo total**: ativo 20–25 min / inativo 4 h.
 **Rende 2 pizzas de 40 cm ou 4 de 23 cm / 9 in.**
-Ferramentas de abertura (rolo, laminadora, prensa): ver `04-divisao-modelagem.md`.
+Ferramentas de abertura: **rolo** (o padrão desta massa), **laminadora** e **prensa de massa** —
+a prensa só funciona bem em massa fina (`05-fornos-e-cocao.md`). Dividir, pré-modelar e
+transferir: `04-divisao-modelagem.md`.
 
 > **Sal a 3%** — o mais alto de todas as massas do livro; a mestre brasileira é 2%.
 > Ambiguidade impressa: a divisão manda **250 g para 20 cm**, mas o rendimento é anunciado em

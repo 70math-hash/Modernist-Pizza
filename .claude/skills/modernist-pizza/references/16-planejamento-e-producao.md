@@ -57,20 +57,13 @@ Napolitana é o caso à parte — **≥3 h** entre bolear e abrir (`03-fermentac
 
 ---
 
-## Sair do frio: temperar por estilo
+## Sair do frio: o que isso custa na escala
 
-| Massa | O que fazer ao sair da geladeira |
-|---|---|
-| **Thin-crust** | **Abre com rolo direto do frio, sem temperar** |
-| Crosta média (New York, artisan, napolitana) | **Temperar 1½–2 h** em ambiente |
+Tempo de tempera por estilo, alvo interno e a ordem de tirar em levas: ver `03-fermentacao.md`.
 
-- Alvo real: **o tempo que a massa levar para chegar a 13 °C / 55 °F**. Nos testes, 2 h levaram
-  a bola a pelo menos 18 °C / 65 °F.
-- Tire **em levas**, na conta do serviço, nunca tudo de uma vez.
-
-> **Ambiguidade do livro registrada.** As receitas-mestre (New York, brasileira) mandam temperar
-> **1½–2 h**; o quadro de prova final dá **2 h**, ou até 13 °C internos. A faixa 1½–2 h é a que
-> a linha de produção consegue cumprir; se a bola sair da geladeira dura, use as 2 h.
+O que o planejamento acrescenta: **quantas bolas temperar por leva** sai da conta de pizzas
+esperadas em cada momento do serviço (seção acima), e a tempera entra no cronograma como uma
+etapa de **2 h** no quadro de p. 25 (abaixo) — ela não é tempo morto, é fila.
 
 Massa que passou 24–48 h no frio **não precisa ter o ponto chamado** — ver `03-fermentacao.md`.
 
@@ -94,10 +87,10 @@ tabela de cross-crusting (amolece muito rápido). **NY square é a que segura a 
 
 ---
 
-## Cross-crusting: o protocolo e os tempos de forno
+## Cross-crusting: o protocolo
 
-A matriz de "qual massa substitui qual" está em `01-formulas-massas.md`. Aqui está o que faltava
-para executar.
+A matriz de "qual massa substitui qual", com os tempos de forno de cada combinação, está em
+`01-formulas-massas.md`. Aqui está só o que faltava para executar.
 
 > **O protocolo.** Depois de **misturar e fazer o bulk** de cada massa, siga as instruções de
 > **dividir, modelar, fermentar e assar do estilo de destino** — e use as **quantidades de massa,
@@ -116,28 +109,10 @@ Caveats de manuseio:
 - As massas toleram temperaturas alternativas: a napolitana funciona em forno doméstico — sem
   leopardagem e mais crocante, mas boa.
 
-### Tempos e correções por combinação (p. 96–99)
+**Leitura de entrega**: a troca também muda quanto a pizza segura depois do forno — ver a
+janela de serviço acima (focaccia é a pior troca da napolitana; NY square é a melhor).
 
-| Pizza de destino | Massa usada | Ajuste declarado |
-|---|---|---|
-| Brasileira | deep-dish · Detroit | assar **3 min** |
-| Napolitana | focaccia | crocante no início, **amolece muito rápido**; fazer **25–27,5 cm** |
-| Napolitana | NY square | **crocância que se mantém**; fazer **25–27,5 cm** |
-| Napolitana | New York | crocante no início; amolece um pouco mais rápido |
-| New York | artisan | quase igual; assar **5½–6 min** |
-| New York | focaccia | crosta crocante; assar **6 min** |
-| New York | NY square | bem mais folhada e crocante; assar **6 min** |
-| Artisan | focaccia | crosta crocante, **sabor ácido**; assar **6 min** |
-| Artisan | NY square | mais folhada e crocante; assar **6 min** |
-| Focaccia | napolitana | miolo comparável; **+30 min de fermentação** |
-| Focaccia | New York | miolo mais denso, lembra pão de forma; assar **13 min** |
-| Focaccia | artisan | textura de pão agradável, mas bem diferente; assar **9–12 min** |
-| Focaccia | Detroit | parecida com **focaccia de restaurante**; miolo mais denso |
-| NY square | napolitana | miolo comparável e bom sabor; **+30 min de fermentação** |
-| NY square | New York · artisan · Detroit | miolo mais denso; **2 min direto no piso** para o fundo |
-| Al taglio | New York · artisan | miolo um pouco mais denso, crocância parecida; assar **9 min** |
-| Al taglio | Detroit | miolo bem mais fechado, **mas volume maior**; fundo crocante |
-| Detroit | al taglio · focaccia · NY square | miolo bem mais aberto; a crocância vem do queijo assado |
+Tempos de forno de cada combinação: `01-formulas-massas.md`.
 
 ---
 
@@ -164,11 +139,17 @@ que permite montar escala.
 3. **A mistura é sempre 10–20 min**, em qualquer fluxo. O que muda o total é fermento e frio,
    não máquina.
 
-> **Duas incoerências do quadro, registradas.** A prova de "1½–2 h" é o rótulo da família
-> inteira; os totais só fecham se a prova chegar a ~3 h nas massas que o capítulo de receitas
-> manda provar mais (deep-dish e Detroit). E o quadro dá **prova 1½–2 h** para a thin-crust,
-> enquanto a receita-mestre em `01-formulas-massas.md` manda **2–3 h a 21 °C** — nesse conflito,
-> **siga a receita**.
+> **O "1½–2 h" de prova é rótulo de família, não número de receita.** Ele abre a faixa da
+> primeira linha, mas quem estica o total até 3¾ h é a **Detroit**, cuja ficha (p. 166) manda
+> **3 h a 21 °C / 2½ h a 27 °C**; brasileira e deep-dish provam **1½ h** e são o piso de 2 h.
+> Nas três, use a ficha do estilo, não o rótulo do quadro.
+
+Duas leituras concorrentes do próprio livro, registradas:
+
+- **Deep-dish, prova ambiente** — a ficha da p. 118 dá **1½ h**; o quadro da p. 75 dá **2–4 h**
+  — **trabalhe com 1½ h**.
+- **Thin-crust, prova ambiente** — a ficha da p. 110 dá **2–3 h**; o quadro da p. 75 dá **2 h**
+  — **trabalhe com 2–3 h**.
 
 ---
 
@@ -184,7 +165,7 @@ A pergunta zero é **"quando isso vai ser comido?"** — trabalhe de trás para 
 | **Água** | Não é grande consideração: **água de torneira serve** | — |
 | **Termômetro** | Calibrado | Calibre **a balança junto**, no mesmo momento |
 | **Pré-fermento** | Tempo de maturação alocado; conferir a maturidade **antes** de misturar | Se não boiar, não entrou no ponto |
-| **Batedeira** | **Capacidade** — nem massa demais nem de menos (`02-mistura-e-gluten.md`) | Dividir em bateladas |
+| **Batedeira** | **Capacidade** — nem massa demais nem de menos (`17-batedeiras-e-tempos-de-mistura.md`) | Dividir em bateladas |
 | **Temperatura da sala** | O livro define **temperatura ambiente = 21–24 °C / 70–75 °F** | Sala quente ⇒ água morna-fria ou fria. Sala fria ⇒ água quente. É a **água** que compensa, nunca o sal e nunca o fermento |
 | **Tipo de massa** | Quase todas dão para frear no frio ou esticar no bulk. **A Detroit é melhor no mesmo dia** | Para as demais, o frio é a alavanca de agenda |
 
@@ -221,13 +202,8 @@ não precisam de versão de emergência. Todas as outras "rápidas" da lista sã
 | Massas do livro em geral | **até 2 dias** de antecedência | — |
 | **Massas diretas** | **+1–2 dias a 4 °C** | O livro diz que assagem e textura ficam **ainda melhores** |
 | **Rebolear** (New York e artisan) | **5 dias no total** | 2 dias de frio ⇒ rebolear ⇒ mais **3 dias** de geladeira |
-| **Batelada mínima de stand mixer** | **800 g de massa** | Abaixo disso a máquina não bate direito |
-| Cascas pré-assadas congeladas | **6 meses** | Embrulhadas em filme |
-
-**A armadilha dos 800 g**: a bola de New York de 35 cm pesa **400 g** e a de 40 cm pesa
-**600 g** — as duas **abaixo do mínimo** de uma batedeira de bancada. Faça pelo menos 800 g,
-use o que precisa e guarde o resto para o dia seguinte (ou congele). Para pizza acima de
-**50 cm**, confira antes se o pote de fermentação comporta o volume maior.
+| Batelada mínima de stand mixer | — | ver `18-calculo-e-escalonamento.md` |
+| Cascas pré-assadas congeladas | — | ver `05-fornos-e-cocao.md` |
 
 Massa que ficou gasosa demais no frio: rebolear e descansar 3–4 h — o *dough CPR* está em
 `03-fermentacao.md`.
@@ -236,15 +212,13 @@ Massa que ficou gasosa demais no frio: rebolear e descansar 3–4 h — o *dough
 
 ## Prova fria: o que ela resolve e o que não resolve
 
-1. **Prova fria NÃO serve para massa de forma.** O livro não recomenda cold-proof nas massas
-   assadas em forma — **dá menos volume**. Focaccia, NY square, al taglio e Detroit vão para
-   **ambiente ou quente**. (p. 78)
-2. **Massa de levain, e levain + fermento comercial, fermentam bem no frio.** (p. 78)
-3. **Al taglio a 96 h de frio é desnecessário** — alguns produtores fazem, o livro não vê ganho.
-4. **Prova fria longa + farinha não maltada** ⇒ **malte diastático (DMP) na mistura, 0,3–1%**,
+1. **Quem pode e quem não pode ir ao frio** — a massa de forma não vai, a de levain vai bem:
+   ver `03-fermentacao.md`.
+2. **Al taglio a 96 h de frio é desnecessário** — alguns produtores fazem, o livro não vê ganho.
+3. **Prova fria longa + farinha não maltada** ⇒ **malte diastático (DMP) na mistura, 0,3–1%**,
    conforme a fração de farinha fermentada. Sem amilase suficiente, caem a atividade de
    fermentação e a cor da crosta. Substituto: **amilase pura** (loja de insumos para cerveja).
-5. **Nápoles × resto do mundo**: em Nápoles a massa fermenta em **ambiente o ano inteiro** —
+4. **Nápoles × resto do mundo**: em Nápoles a massa fermenta em **ambiente o ano inteiro** —
    alguns ajustam o fermento, outros o sal (e aí a massa muda de sabor de estação para estação).
    No resto do mundo, **quase todo mundo faz 24–48 h de frio**.
 
@@ -290,43 +264,19 @@ calor e umidade.
 
 | Decisão | Número |
 |---|---|
-| Estilos que servem | **Deep-dish · NY square · al taglio · Detroit** |
-| **Más escolhas** | **Napolitana e artisan** — servem um convidado por vez, exigem forno especial e alto nível técnico, e não seguram mais que alguns minutos |
-| Reaquecer | **230 °C / 450 °F**, um ou **idealmente dois** aços/pedras **empilhados**, forno ligado **1 h antes**; deslize as formas sobre o aço — **5–7 min** |
-| Congelar cascas | **até 6 meses** em filme; em catering dá para assar fora, congelar, transportar e assar **sem descongelar** |
+| **A solução recomendada** | **NY square, Detroit ou al taglio** — reaquecem muito bem e podem ser feitos com muita antecedência (p. 421). O cheat sheet de p. 109 acrescenta a **deep-dish** |
+| **Más escolhas** | **Napolitana e artisan** — servem um convidado por vez, exigem forno especial e alto nível técnico, e não seguram mais que alguns minutos (têm de sair *à la minute* na frente do convidado) |
+| New York grande | Alimenta várias pessoas e reaquece bem — **é opção, mas o livro não a considera a melhor solução** |
+| Reaquecer | **230 °C / 450 °F**, um ou **idealmente dois** aços/pedras **empilhados**, forno ligado **1 h antes**; deslize as formas sobre o aço — **5–7 min** para reaquecer e recrocantizar o fundo |
 
 - Corte as pizzas já assadas e frias **com faca serrilhada**.
 - **Devolva as fatias às formas em que assaram, cubra**, e reserve até a hora de reaquecer.
+- **Na Detroit**, o molho quente vai **por cima de cada fatia** depois de reaquecer, junto com
+  as demais coberturas de pós-forno.
+- **No al taglio**, coberturas sensíveis ao calor (rúcula, gorgonzola, tapenade) só **depois**
+  de assar.
 - Alternativa de serviço que tira você da cozinha: **estação de coberturas sobre bases
   pré-assadas nuas** — o convidado ou o staff monta.
 
-Procedimento de reaquecimento no forno e escolha de aço: `05-fornos-e-cocao.md`.
-
----
-
-## Pré-assar × par-assar: os números certos
-
-| Termo | Definição do livro | Aplicação |
-|---|---|---|
-| **Parbake** (indústria de pão) | assar até **~90%**, esfriar, terminar depois | **Definição de pão**, não de pizza. Comestível, mas não apetitoso |
-| **Parbake de pizza** | assar **2/3 a 3/4** do caminho, esfriar/congelar, terminar depois | Pizza congelada e catering fora da casa. Funciona bem em thin-crust e médias |
-| **Prebake** | assar **completamente**, esfriar, reaquecer depois | Padrão de NY square, al taglio e pizza gourmet. **Elimina a camada de gel — mas só quando você pré-assa a massa sozinha** |
-
-> **Correção ao que está na skill.** `05-fornos-e-cocao.md` abre com "par-assar = assar ~90%".
-> Os **90% são a definição de pão**; para **pizza** o número é **2/3 a 3/4**, e vale tanto para
-> congelado quanto para catering.
-
-### Quando pré-assar cada estilo
-
-| Estilo | Pré-assar? |
-|---|---|
-| **Al taglio** | **Sempre**, completamente, **com ou sem molho** |
-| **NY square** | Sempre. Procedimento completo: assar a massa até o fim, **virá-la dentro da forma**, então molho e queijo e assar de novo — é o virar que **elimina a camada de gel por completo** |
-| **Detroit** | Pode, mas **não precisa** — ela não faz gum line |
-| **Deep-dish** | **Ajuda, não resolve 100%** (o fundo fica submerso em molho). Em Chicago o livro foi ridicularizado por sugerir isso; a conclusão dele é que a fatia fica melhor |
-| **Thin-crust e médias, para congelar** | Par-assar **com molho**, esfriar, e **pôr o queijo só antes do assar final** — assar queijo duas vezes altera a reologia de derretimento. Pode assar **direto do congelado** |
-
-**Prensa de massa (dough press)** conta como método de pré-assar **e** de modelar, mas **só
-funciona bem em thin-crust**.
-
-Mecanismo da gum line e por que só o pré-assar elimina: `05-fornos-e-cocao.md`.
+Par-assar, pré-assar, prazo de congelamento das cascas e escolha de aço/pedra:
+ver `05-fornos-e-cocao.md`.

@@ -153,8 +153,9 @@ Dura **até 2 meses**.
 1. Tire do congelador **2–3 h antes** e submerja o saco em água a **29 °C / 85 °F** (garanta
    que o saco está hermético para não vazar).
 2. Corte um canto do saco e despeje o levain inativo numa tigela com **a água da receita**.
-3. Adicione **0,4–0,5% de fermento instantâneo** à água. Dissolva fermento e levain inativo
-   juntos.
+3. Adicione **0,4–0,5% de fermento instantâneo** à água — é o número do procedimento geral.
+   **Se o seu estilo tem grade publicada, use a dose dela**: vai de 0,43% (napolitana) a 1,5%
+   (deep-dish). Dissolva fermento e levain inativo juntos.
 
 > **O levain inativo nunca pode passar de 60 °C / 140 °F** — o amido gelatiniza e ele fica
 > inutilizável.

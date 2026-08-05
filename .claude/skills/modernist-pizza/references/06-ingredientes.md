@@ -234,7 +234,7 @@ ar; e colheres-medida variam entre marcas.
 
 | Massa | Mínimo | Na receita mestre | **Máximo** |
 |---|---|---|---|
-| Thin-crust | 0 | 0 | 2–5% |
+| Thin-crust | 0 | 0 | **10%** (ver nota) |
 | Napolitana | 0 | 0 | 10% (ver ressalva abaixo) |
 | Detroit | 0 | 0 | 5% (**usar óleo, não banha**) |
 | Artisan | 0 | 3,2% | 10% |
@@ -242,6 +242,12 @@ ar; e colheres-medida variam entre marcas.
 | NY square | 0 | 3,8% | 10% |
 | Al taglio | 0 | 4,02% | 10% |
 | Focaccia | 0 | 4,04% | 10% |
+
+> **Thin-crust: o teto é 10%, não 2–5%.** A ficha da receita (vol. 2, p. 110) diz literalmente
+> *"you can add up to 10% liquid or solid fat to this dough — add along with the salt"*, e
+> remete ao experimento do vol. 1, p. 318. O quadro geral de gordura traz uma faixa mais
+> conservadora; pela regra da skill, **a ficha manda sobre o quadro**. A gordura entra
+> **junto com o sal** (ver `17-batedeiras-e-tempos-de-mistura.md`).
 | Deep-dish | 5% | 8,68% | 15% |
 | Brasileira | 5% | 9,76% | **30%** (só com gordura sólida/cristalina) |
 
@@ -339,9 +345,13 @@ naturais (sucos de abacaxi, kiwi, mamão), porque uma gota de suco já pode ser 
 
 - **Grãos**: podem ser demolhados, germinados, cozidos al dente ou virados mingau/purê —
   cada preparo dá uma crosta diferente. Sempre incorporar a **glúten médio**.
-- **Nozes**: picar (inteiras rasgam na mistura ou na modelagem). Torrar melhora muito o sabor.
+- **Nozes**: **noz pequena vai inteira e torrada; noz grande** (nogueira, pecã, castanha de
+  caju) **picada grosseiramente e depois torrada**. Torrar melhora muito o sabor —
+  ver `01-formulas-massas.md`.
 - **Sementes**: podem ir inteiras; algumas se beneficiam de demolho.
-- **Não usar inclusões em massa fina** — o tamanho delas rasga a massa na abertura.
+- **Massa fina aceita inclusão** — o livro publica a linha da thin-crust na grade
+  (110 g / 22,45%). O que limita é o **tamanho do pedaço: máximo ~3 mm / ⅛ in** —
+  ver `12-tabelas-de-variacao.md`.
 - **Purês de sabor**: substituem parte ou toda a água. **Mantenha a hidratação igual** para
   não bagunçar a assagem. Testados no livro: pesto, abóbora, ube, espinafre, huitlacoche,
   tomate, chipotle em adobo, shiitake caramelizado sob pressão. Se quiser cor mais dramática,

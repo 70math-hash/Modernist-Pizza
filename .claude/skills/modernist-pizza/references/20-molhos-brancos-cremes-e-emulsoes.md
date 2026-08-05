@@ -2,11 +2,14 @@
 
 Fonte: *Modernist Pizza*, Vol. 2, cap. "Sauce", p. 242–281 (páginas de PDF 250–292).
 
-Delta de `07-molhos.md` (consistência por estilo, gramagem, tomate),
+**Este é o arquivo das fórmulas fechadas de molho não-tomate**: lácteos, emulsões, caldos,
+molhos de massa e sopa, e vegetais — com peso, rendimento, guarda e procedimento.
+
+Molho de tomate está em `07-molhos.md` (consistência por estilo, gramagem, enlatado) e em
 `19-molho-de-tomate-avancado.md` (medir consistência, teste da frigideira, faixas Bostwick,
-espessantes) e `15-molhos-brancos-e-queijos-caseiros.md` (dispersão de espessante,
-béchamel-base, maionese/aioli/vinagrete-base). Aqui estão as fórmulas fechadas, os
-rendimentos, a guarda e os procedimentos que faltavam.
+doses de espessante). O mapa de entrada e as regras gerais de dispersão de espessante estão em
+`15-molhos-brancos-e-queijos-caseiros.md`; queijo caseiro, em
+`22-mussarela-e-queijos-caseiros.md`.
 
 Percentuais são **scaling %** (sobre o ingrediente marcado 100%), **não** percentual de
 padeiro. Onde o cálculo é sobre o **peso total do molho**, está escrito.
@@ -14,6 +17,12 @@ padeiro. Onde o cálculo é sobre o **peso total do molho**, está escrito.
 ---
 
 ## Creme de leite como molho
+
+**Leite é, em si, uma emulsão**: gordura do leite suspensa em água, estabilizada pela
+**caseína**. É instável e sofre um tipo de quebra chamado **creaming** — por isso existe a
+homogeneização. Creme e manteiga também são emulsões. Daí o molho branco mais simples que
+existe ser **creme de leite despejado sobre o queijo** — ou um produto pronto e já grosso
+(iogurte grego, ricota, mascarpone).
 
 Creme regado direto na pizza antes de assar evapora o suficiente para se fundir ao queijo e
 virar um molho cremoso. **O único cuidado é não pôr demais** — senão enfornar vira "carregar
@@ -89,8 +98,36 @@ béchamel e nas sopas engrossadas com roux (gumbo, chowder, bisque):
 | Metilcelulose F50 + xantana | testado, não escolhido |
 
 **Método gelana**: disperse **0,8% de gelana low-acyl** na base → **ferva** para ativar →
-esfrie e **gelifique por completo** → **bata no liquidificador até purê liso**. A béchamel
-modernista pronta está em `15-molhos-brancos-e-queijos-caseiros.md`.
+esfrie e **gelifique por completo** → **bata no liquidificador até purê liso**.
+
+### Béchamel (com roux)
+
+Manteiga sem sal **35 g (7,95%)** · farinha de trigo comum **25 g (5,68%)** · **leite integral
+gelado 440 g (100%)** · sal fino **5 g (1,14%)**. Rende **~450 g**. Ativo 5–10 min / inativo
+15 min.
+
+1. Manteiga + farinha numa panelinha. 2. Fogo médio, mexendo de vez em quando, até **roux
+claro (blond), ~5 min**. 3. Leite **em fio**, levante fervura **batendo sem parar**.
+4. Abaixe e cozinhe brando, mexendo de vez em quando, **~15 min**, até engrossar. 5. Sal e
+acerto de tempero. 6. **Passe na peneira** para um recipiente sobre banho de gelo.
+7. **3 dias refrigerado. Não congele.**
+
+### Modernist Béchamel (sem roux)
+
+**Leite integral gelado 440 g (100%)** · **goma gelana low-acyl 3,5 g (0,8%)** · sal fino
+**5 g (1,14%)**. Rende **~400 g**. Ativo 5–10 min / inativo 15 min.
+
+1. Leite na panelinha; **polvilhe a gelana e deixe hidratar 3–5 min**. 2. Bata para incorporar
+e continue batendo sem parar enquanto leva à fervura em fogo médio. 3. Abaixe e cozinhe brando
+**15 min**, mexendo às vezes. 4. Sal. 5. Peneire para um recipiente sobre banho de gelo **até
+gelificar por completo**. 6. **Bata o gel firme até virar purê.**
+7. **3 dias refrigerado. Não congele.**
+
+> **Melhor usada em temperatura ambiente.** Cabe uma pitada de noz-moscada ralada.
+
+**Derivados** (valem para as duas béchamels, incorporados **depois** que o molho engrossou):
+**Ranchamel** — 50 g de pó de ranch em 475 g de béchamel. **Mornay** — 85 g de gruyère ralado
+em 415 g de béchamel.
 
 ### Dose fechada por sopa (substituindo o roux inteiro)
 
@@ -127,25 +164,35 @@ liquidificador. 5. Bata até liso.
 
 ---
 
-## Molho de queijo e fatia de raclette — o que faltava
-
-Fórmulas em grama em `15-molhos-brancos-e-queijos-caseiros.md`.
+## Molho de queijo e fatia de raclette
 
 ### Modernist Cheese Sauce
 
-Scaling: água **50%** · cerveja de trigo **37,5%** · citrato de sódio **5%** · sal fino
-**2,25%** · iota carragena **0,63%** · **gouda curado ralado 100%** · cheddar forte ralado
-**8,25%**. Rende **~535 g**, ativo 5–10 min. **4 dias refrigerado. Reaqueça para derreter
-antes de usar. Não congele.**
+Água **100 g (50%)** · **cerveja de trigo 75 g (37,5%)** · **citrato de sódio 10 g (5%)** ·
+sal fino 4,5 g (2,25%) · **iota carragena 1,25 g (0,63%)** · **gouda curado ralado 200 g
+(100%)** · cheddar forte ralado 16,5 g (8,25%). Rende **~535 g**, ativo 5–10 min.
+**4 dias refrigerado. Reaqueça para derreter antes de usar. Não congele.**
 
-### Raclette Slice
+1. Bata água, cerveja, citrato, sal e carragena numa panelinha. 2. Leve a fervura branda em
+fogo médio, **batendo sem parar**. 3. **Incorpore os queijos devagar, até ficar completamente
+liso.**
 
-Scaling: água **42,67%** · leite em pó desnatado **0,8%** · citrato de sódio **0,4%** ·
-**queijo 100%**. Rende **~400 g**. Depois de incorporar o queijo, **cozinhe 1 min em fervura
-branda**; divida em **duas formas de bolo de 30 cm / 12 in forradas com filme levemente
-untado**; **cubra com filme encostado na superfície** e deixe esfriar. **4 dias refrigerado.
-Não congele.**
+> Adaptada do *Modernist Cuisine at Home*.
 
+### Raclette Slice (fatia de queijo tipo americano)
+
+Água **160 g (42,67%)** · **leite em pó desnatado 3 g (0,8%)** · **citrato de sódio 1,5 g
+(0,4%)** · **raclette ou gruyère ralado 375 g (100%)**. Rende **~400 g**.
+**4 dias refrigerado. Não congele.**
+
+1. Combine água, leite em pó e citrato numa panelinha; leve a fervura branda em fogo médio,
+**batendo sem parar**. 2. Incorpore o queijo. 3. **Cozinhe 1 min em fervura branda.**
+4. Divida em **duas formas de bolo de 30 cm / 12 in forradas com filme levemente untado**.
+5. **Cubra com filme encostado na superfície** e deixe esfriar.
+
+> **O ingrediente-chave é o citrato de sódio** — ele faz o queijo derreter de um jeito mais
+> "gooey" do que "elástico". A receita dá **dois discos de 30 cm**; escale à vontade, desde que
+> você tenha a forma do tamanho certo para a mistura quente assentar.
 > **O disco entra na pizza na METADE da assagem**, para o queijo derreter por completo.
 
 ### Troca do citrato
@@ -155,6 +202,7 @@ Vale para o Modernist Cheese Sauce **e** para o Raclette Slice.
 
 ### Charcoal Mascarpone
 
+Mascarpone **450 g (100%)** · **carvão ativado alimentício 9 g (2%)**. Só misturar.
 Rende **~450 g**, ativo 1 min. **3 dias refrigerado. Não congele.** Serve como molho **ou**
 como cobertura.
 
@@ -228,6 +276,17 @@ ponha as coberturas **sobre o queijo** e asse.
 ---
 
 ## Molhos de emulsão
+
+**Emulsão primária**: você dispersa óleo em água (ou o contrário) só para homogeneizar — gotas
+grosseiras. **Emulsão secundária**: você bate a emulsão inicial para **diminuir as gotas** —
+mais estável e mais duradoura.
+
+> Regra geral: **com emulsificante suficiente, quanto menores as gotas, mais estável e mais
+> duradoura a emulsão.**
+
+Fouet faz emulsão primária, de gotas grandes que não seguram muito tempo. Para a secundária é
+preciso muito mais energia: liquidificador de bancada ou mixer de mão chega a gotas de
+**~10 mícrons / 0,0004 in** — sensação lisa, menos gordurosa na língua.
 
 **Ferramenta**: processador de alimentos faz emulsão **mais grosseira** que liquidificador —
 lâminas maiores e rotação mais lenta. **Cuidado com o aquecimento**: a energia mecânica que
@@ -308,6 +367,35 @@ fluido.**
 12. **Mantenha em banho a 55 °C / 131 °F por até 3 h. Descarte o resto.** Aplicar antes ou
 depois.
 
+### Mayonnaise
+
+**Gemas grandes 100 g / 5 un. (25%)** · suco de limão-siciliano **30 g (7,5%)** · sal fino 4 g
+(1%) · vinagre de champagne 2 g (0,5%) · **óleo neutro 400 g (100%)**. Rende **~530 g**, ativo
+6 min. (Guarda e momento de aplicar: tabela no fim desta seção.)
+
+1. Bata gemas, limão, sal e vinagre num copo alto com mixer de mão (ou liquidificador) até
+liso. 2. **Batendo, despeje o óleo em fio fino e constante**, movimentando a cabeça do mixer —
+ou, no liquidificador, em **velocidade média-alta**.
+
+### Modernist Mayonnaise (gema sous vide)
+
+**Gemas grandes 45 g / 2 un. (15%)** · água **75 g (25%)** · mostarda Dijon **21 g (7%)** ·
+**goma xantana 0,7 g (0,23%)** · **óleo de semente de uva 300 g (100%)** · sal a gosto. Rende
+**~440 g**.
+
+1. **Embale as gemas a vácuo.** 2. **Sous vide a 67 °C / 153 °F por 30 min.**
+3. Bata água, mostarda e xantana, e faça purê com as gemas cozidas até liso.
+4. Óleo em fio, batendo, até emulsionar por completo.
+
+### Aioli
+
+**Gemas grandes 40 g / 2 un. (17,78%)** · suco de limão 10 g (4,44%) · **1 dente de alho 6 g
+(2,67%)** · sal fino 4 g (1,78%) · **óleo vegetal 225 g (100%) + azeite extravirgem 225 g
+(100%)**. Rende **~500 g**, ativo 5–7 min.
+
+1. Bata gemas, limão, alho e sal em copo alto com mixer até liso. 2. **Combine os dois óleos**
+e despeje em fio fino e constante, batendo.
+
 ### Arugula Mayonnaise
 
 Rúcula **150 g (60%)** · **Garlic Confit 100 g (40%)** · gemas grandes 40 g / 2 un. (16%) ·
@@ -343,6 +431,22 @@ liquidificador em **velocidade média-alta**.
 | Wasabi aioli | **30 g de wasabi fresco ralado** ou **7 g em pó**, direto no aioli | pode ser raiz-forte preparada; vale para **os dois aiolis** |
 | Gochujang aioli | **45 g de gochujang** | outras pimentas em pasta funcionam; vale para os dois aiolis |
 | Garlic confit aioli | troque o dente de alho por **garlic confit** | — |
+
+### Invincible Vinaigrette (estável ao calor)
+
+Vinagre de champagne **80 g (80%)** · vinagre de marmelo 35 g (35%) · suco de pera 20 g (20%) ·
+mostarda Dijon 5 g · **alginato de propilenoglicol (PGA) 0,98 g (0,98%)** · **azeite
+extravirgem 100 g (100%)** · óleo de pistache 55 g (55%) · óleo de nozes 30 g (30%) ·
+**lecitina de soja líquida 1,85 g (1,85%)** · sal a gosto. Rende **~325 g**, ativo 5–10 min.
+É a única emulsão do capítulo que vai **antes** de assar.
+
+1. Vinagres + suco de pera + mostarda + PGA numa panelinha; leve a **60 °C / 140 °F** em fogo
+médio. 2. Mixer de mão **sobre o fogo** até incorporar totalmente; tire do fogo.
+3. Combine os óleos. 4. Despeje óleos e lecitina em fio, batendo, até emulsionar.
+
+> **Use como modelo para qualquer vinagrete** — troque óleos e ácidos à vontade. É
+> **completamente estável ao calor**: pode ser feita com gordura animal ou láctea, para salada
+> quente, ovo e carne cozida.
 
 ### Vegano: Vegenaise testada e aprovada
 
@@ -490,22 +594,34 @@ molho segurar no forno, o ovo fica de fora**: o molho carbonara é espalhado na 
 **assado**; depois que a pizza sai do forno entra um **ovo mole**, ou um fio de **Egg Yolk
 Sauce**.
 
-Scaling: alho 4,55% · manteiga 7,58% · farinha 7,58% · **leite 100%** · lardons 21,21% ·
-parmesão 10,61% · sal 1% · pimenta-do-reino 0,45%. Rende ~500 g. **Simmer ~20 min até
-engrossar.** **3 dias refrigerado. Não congele.**
+Alho picado **15 g (4,55%)** · manteiga sem sal 25 g (7,58%) · farinha 25 g (7,58%) · **leite
+integral gelado 330 g (100%)** · **lardons de bacon renderizados 70 g (21,21%)** · parmesão
+ralado 35 g (10,61%) · sal fino 3,3 g (1%) · pimenta-do-reino moída 1,5 g (0,45%). Rende
+~500 g. Mesma sequência da Alfredo. **Simmer ~20 min até engrossar.**
+**3 dias refrigerado. Não congele.**
 
-### Alfredo — acabamento e guarda
+### Alfredo Sauce
 
-Depois do leite: fervura em fogo médio batendo, abaixe para médio-baixo e **cozinhe brando
-~20 min, mexendo de vez em quando, até engrossar**; então parmesão, sal e caiena. Banho de
-gelo e **filme encostado na superfície** para não criar película. Rende ~500 g. **3 dias
-refrigerado. Não congele.**
+Alho picado **15 g (3,85%)** · manteiga sem sal 35 g (8,97%) · farinha de trigo comum 35 g
+(8,97%) · **leite integral gelado 390 g (100%)** · parmesão ralado 40 g (10,26%) · sal fino
+4 g (1,03%) · **pimenta caiena 0,1 g (0,03%)**. Rende **~500 g**.
+**3 dias refrigerado. Não congele.**
+
+1. Sue o alho na manteiga em fogo médio, **~1 min**, mexendo com frequência. 2. Farinha,
+cozinhe **até dourar claro, 2–3 min**, batendo sem parar. 3. Leite em fio, batendo até
+incorporar. 4. Fervura em fogo médio batendo, depois abaixe para médio-baixo e **cozinhe
+brando ~20 min, mexendo de vez em quando, até engrossar**. 5. Parmesão, sal e caiena.
+6. Banho de gelo, com **filme encostado na superfície** para não criar película.
 
 > **Dosagem da caiena**: para acertar os **0,1 g**, meça **¼ tsp e divida em três partes
 > iguais** — use uma. **Na guarda pode separar água** (película fina na superfície): **bata
 > para reincorporar**. Vale igual para o carbonara.
 
-### Cacio e Pepe — o passo da manteiga avelã
+### Cacio e Pepe (inspirada em Stefano Callegari)
+
+**Farinha Wondra 8 g (5,33%)** · **goma xantana 1,35 g (0,9%)** · água **225 g (150%)** ·
+**manteiga sem sal 150 g (100%)** · pimenta-do-reino em grão quebrada 2 g (1,33%) ·
+**Pecorino Romano finamente ralado 300 g (200%)**.
 
 1. Misture Wondra + xantana **secas**; **polvilhe sobre a água batendo com mixer**. Reserve.
 2. **Derreta a manteiga em fogo médio ATÉ OS SÓLIDOS DO LEITE FICAREM MARRONS** (beurre
@@ -515,11 +631,14 @@ completo.
 5. **Mantenha a 21 °C / 70 °F por até 3 h.** 6. **3 dias refrigerado. Não congele.** Rende
 **~650 g**, ativo 5–10 min.
 
+> Para molho mais solto, **incorpore creme de leite aos poucos** até o ponto desejado.
+
 ### Bagna Cauda
 
-Scaling: **anchova 100%** · manteiga 55,56% · azeite 55,56% · alho 61,11% · suco de vôngole
-83,33% · vinho branco 55,56% · cebolinha 5,56% · tomilho 2,78% · **xantana 0,39%**. Rende
-**~250 g**. Ativo 5–10 min / inativo 10–15 min.
+**Anchova em óleo escorrida 90 g (100%)** · manteiga sem sal 50 g (55,56%) · azeite extravirgem
+50 g (55,56%) · dentes de alho descascados 55 g (61,11%) · **suco de vôngole 75 g (83,33%)** ·
+vinho branco seco 50 g (55,56%) · cebolinha picada 5 g (5,56%) · tomilho picado 2,5 g (2,78%) ·
+**goma xantana 0,35 g (0,39%)**. Rende **~250 g**. Ativo 5–10 min / inativo 10–15 min.
 
 1. Pique a anchova bem fina e **amasse até virar pasta**. 2. Pasta + manteiga + azeite na
 panelinha.
@@ -534,9 +653,10 @@ panelinha.
 
 ### Laksa Sauce
 
-Scaling: pasta de laksa 15,71% · óleo de gergelim torrado 2,14% · **caldo de frango 100%** ·
-leite de coco integral 28,57% · açúcar de palma 4,29% · manteiga 7,14% · farinha 7,14% · sal
-0,43%. Rende **~700 g**. Ativo 15–20 min / inativo 45 min–1 h.
+Pasta de laksa **110 g (15,71%)** · óleo de gergelim torrado 15 g (2,14%) · **caldo de frango
+700 g (100%)** · leite de coco integral 200 g (28,57%) · açúcar de palma picado 30 g (4,29%) ·
+manteiga sem sal 50 g (7,14%) · farinha de trigo comum 50 g (7,14%) · sal fino 3 g (0,43%).
+Rende **~700 g**. Ativo 15–20 min / inativo 45 min–1 h.
 
 1. **Salteie a pasta no óleo em fogo médio até caramelizar levemente, 5–7 min.**
 2. **Deglace com o caldo.** 3. **Cozinhe brando ~10 min.**
@@ -599,9 +719,16 @@ fervura batendo. 10. **Brando 25–30 min.** 11. Sal. 12. Banho de gelo.
 13. **3 dias refrigerado. 3 meses congelado.**
 **Instant Pot**: *Saute* passos 1–2; *Pressure Cook* **12 psi (High) 30 min**; depois 5–13.
 
-### Puttanesca — guarda
+### Puttanesca Sauce
 
-Rende **~500 g**, ativo 10 min. **4 dias refrigerado. 3 meses congelado.**
+Alho picado 15 g (4%) · azeite 20 g (5,33%) · **azeitona sem caroço fatiada 3 mm 60 g (16%)** ·
+alcaparras 30 g (8%) · **filés de anchova em óleo, escorridos e picados finos 4 g / 1 un.
+(1,07%)** · pimenta calabresa em flocos 0,6 g (0,16%) · **tomate triturado em lata 375 g
+(100%)**. Rende **~500 g**, ativo 10 min. **4 dias refrigerado. 3 meses congelado.**
+
+1. Sue o alho no azeite em fogo médio, **~1 min**, mexendo com frequência. 2. Azeitona,
+alcaparra, anchova e calabresa; sue **1–2 min**, mexendo com frequência. 3. Tomate;
+**cozinhe brando até virar pasta, 7–8 min**.
 
 ---
 
@@ -635,18 +762,37 @@ não seca**, porque fica macio rápido. Com o ar selado, **você precisa de meno
 é extraído sem diluir**. O **bicarbonato (alcalinidade)** somado ao calor **intensifica a
 caramelização dos açúcares**.
 
-### Abobrinha sob pressão — divergência dentro do próprio livro
+### Pressure-Caramelized Zucchini (inspirado no DRY)
 
-A receita manda **1 bar / 15 psi por 25 min** no fogão, mas a nota de Instant Pot da **mesma
-página** manda **12 psi (High) por 50 min**. As demais receitas do capítulo repetem o mesmo
-tempo nos dois modos. **Use 25 min e ajuste pelo ponto** — 50 min parece erro de edição
-herdado do paramétrico (esse sim de 50 min). Rende ~500 g; ativo 10 min / inativo 30 min. **2
-dias refrigerado. Não congele.**
+Manteiga sem sal **100 g (25%)** · **abobrinha fatiada fina 400 g (100%)** · **bicarbonato 2 g
+(0,5%)** · sal fino a gosto. Rende **~500 g**. Ativo 10 min / inativo 30 min.
+**2 dias refrigerado. Não congele.**
 
-### Curried Onion
+1. Derreta a manteiga na base da panela de pressão em fogo médio-alto. 2. Abobrinha +
+bicarbonato; misture para o bicarbonato ficar uniforme e a manteiga cobrir todas as fatias.
+Tampe. 3. **1 bar / 15 psi por 25 min.** 4. Despressurize rápido com água morna na borda.
+5. Bata no liquidificador até liso. 6. Sal. 7. Esfrie em banho de gelo.
 
-Rende **~825 g**. Ativo 10–15 min. **4 dias refrigerado. 3 meses congelado.**
+> **Divergência dentro do próprio livro.** A ficha da p. 279 manda **1 bar / 15 psi por
+> 25 min** no fogão; a nota de Instant Pot **da mesma página** manda **12 psi (High) por
+> 50 min** — trabalhe com os **25 min** da ficha. As demais receitas do capítulo repetem o
+> mesmo tempo nos dois modos, e os 50 min parecem erro de edição herdado do paramétrico de
+> vegetal (esse sim de 50 min). Ajuste pelo ponto: se a abobrinha não estiver macia e
+> caramelizada, volte à pressão.
+
+### Curried Onion Sauce
+
+**Cebola amarela fatiada fina 720 g (100%)** · alho picado 20 g (2,78%) · gengibre picado 20 g
+(2,78%) · **ghee 60 g (8,33%)** · mistura de curry 24 g (3,33%) · sal fino 6 g (0,83%). Rende
+**~825 g**. Ativo 10–15 min. **4 dias refrigerado. 3 meses congelado.**
+
+1. Sue cebola, alho e gengibre no ghee em panela grande, fogo médio, **8–10 min**. 2. Curry;
+sue **até o ghee começar a se separar da mistura, 2–3 min**.
+
 **Grosso demais para espalhar? Ajuste a consistência com água.**
+
+> O rendimento é grande de propósito: se você foi atrás dos ingredientes, faça lote grande e
+> congele o resto.
 
 ### French Onion Sauce
 
@@ -662,11 +808,19 @@ Sal.
 > **Pode ficar do jeito que está OU ser batida até virar purê liso de cebola.**
 > **Pareamento recomendado: gruyère ralado + panko tostado por cima.**
 
-### Salsa Verde — contagem e correção de guarda
+### Salsa Verde
 
-Tomatillo **390 g = 11 unidades** · cebola branca em quartos **260 g = 2 unidades** ·
-jalapeño **65 g = 5 unidades**. Rende **~650 g**. Ativo 20–25 min. **3 dias refrigerado e 3
-MESES CONGELADO** — `15-molhos-brancos-e-queijos-caseiros.md` registrava só o refrigerado.
+**Tomatillo sem casca 390 g = 11 un. (100%)** · cebola branca em quartos 260 g = 2 un.
+(66,67%) · jalapeño 65 g = 5 un. (16,67%) · azeite 30 g (7,69%) · sal fino 5 g (1,28%). Rende
+**~650 g**. Ativo 20–25 min. **3 dias refrigerado. 3 meses congelado.**
+
+1. **Chamusque (char)** tomatillo, cebola e jalapeño numa chapa quente ou frigideira grande em
+fogo alto. (Alternativa: sobre grade em assadeira, com **maçarico**.) 2. Tire cabo e sementes
+dos jalapeños — deixar as sementes aumenta a ardência. 3. Junte tudo numa panela média com o
+azeite e **sue em fogo médio até macio**. 4. Bata com mixer de mão até liso. 5. Sal.
+6. Esfrie em banho de gelo.
+
+> Como rende ~650 g, é o congelamento que torna o lote grande decidível.
 
 ---
 

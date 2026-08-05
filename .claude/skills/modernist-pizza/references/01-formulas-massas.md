@@ -265,8 +265,12 @@ de baixa hidratação; o contrário não vale.**
   einkorn, trigo sarraceno). Não passar de 40%.
 - **No-knead** — mistura só até massa homogênea, bulk 12–18 h a 21 °C, fermento bem reduzido.
   **Não serve para pizzas de forma** (a massa não fica forte o bastante).
-- **Your daily pizza** — uma massa grande que rende uma pizza por dia: 14 dias para
-  napolitana/thin-crust/deep-dish, 10 dias para artisan/New York. Mistura só até massa
+- **Your daily pizza** — uma massa grande que rende uma pizza por dia. **A grade publicada tem
+  cinco estilos: thin-crust, brasileira, napolitana, New York e artisan** (fórmulas em
+  `12-tabelas-de-variacao.md`). Duram **10 dias**; **thin-crust e napolitana chegam a 14**.
+  A prosa do livro cita "napolitana, thin-crust ou deep-dish por 14 dias, artisan ou New York
+  por 10", mas **não existe grade de deep-dish** — e a brasileira, que a prosa não cita, tem
+  linha própria. Siga a grade. Mistura só até massa
   homogênea, bulk 1 h a 21 °C, depois geladeira (mín. 23 h antes da primeira pizza).
   Leva **ácido ascórbico ~0,22%** (contra oxidação/cinza) e polidextrose e/ou malte
   diastático, açúcar, xarope de malte (combustível para o fermento durar 10–14 dias).

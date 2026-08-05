@@ -74,7 +74,8 @@ glúten total.
 | Processador | farinha, sal, fermento e amaciante na bacia, liga e despeja a água — **45 s** | | |
 
 > O glúten total tem que coincidir com a massa a **27 °C / 80 °F** ao sair da batedeira —
-> alvo declarado na ficha da napolitana-mestre, acima dos 24–25 °C do DDT geral.
+> alvo declarado na ficha da napolitana-mestre, acima dos **24–25,5 °C** do DDT geral
+> (ver `02-mistura-e-gluten.md`, que arbitra o par correto).
 
 ### New York (p. 133)
 Água + fermento + poolish → farinha e malte em **baixa** até esfarrapada → **média** até glúten
@@ -162,14 +163,14 @@ esfarrapada → **média** até **pouco antes** do glúten total.
 
 ## Carga da bacia: máximo, mínimo e multiplicador
 
-**Esta tabela substitui a "Regra de carga" de `02-mistura-e-gluten.md`** — os números abaixo são
-os que as 10 fichas de receita repetem.
+**Este arquivo é o dono da carga de bacia** — `02-mistura-e-gluten.md` guarda só a regra de bolso
+e remete para cá. Os números abaixo são os que as 10 fichas de receita repetem.
 
 | Batedeira | Mínimo | Máximo | Multiplicador da receita-base |
 |---|---|---|---|
 | Bancada, bacia 4,5 qt | — | **1–1,25 kg** | — (a receita-base já serve) |
 | Bancada, bacia 8 qt | — | **1,5–1,75 kg** | **×1,5 a ×1,75** |
-| Planetária comercial 12 qt / 11,4 L | **2,5–3 kg** | **4–6 kg** | **×4 a ×6** |
+| Planetária comercial 12 qt / 11,4 L | **4 kg** (piso do ×4) | **4–6 kg** | **×4 a ×6** |
 | Planetária comercial 20 qt / 18,9 L | — | **6–8 kg** | **×6 a ×8** |
 | Espiral de bancada | **1 kg** | — | — |
 | Espiral de piso (menor modelo visto) | **3,5 kg** | — | — |
@@ -182,8 +183,33 @@ os que as 10 fichas de receita repetem.
 | Robot Coupe, bacia 2–3 qt | — | **1,2 kg** | — |
 | Processador industrial | — | ~**30 kg**; bacia **até a metade** | — |
 
-Ambiguidade registrada: para a planetária de 20 qt o livro dá **4–8 kg** na p. 45 e **6–8 kg**
-na tabela da p. 34 e nas fichas de receita.
+Fora da tabela: modelos grandes de espiral vão a **centenas de kg** e a diving arm industrial
+**varia**. Os ~30 kg do processador industrial são o número da p. 46; as fichas só dizem "varia".
+
+**Se você não sabe o tamanho da bacia** (a faixa de bolso do quadro geral da p. 32–33):
+planetária **de bancada 1–2 kg**, planetária **comercial 3–8 kg**. Serve para descartar uma
+máquina de cara; para escalar de verdade, use a tabela acima.
+
+**Onde o livro publica mais de um número.** A regra da skill é que a **ficha de receita manda
+sobre o quadro geral** — a coluna do meio é sempre o valor de trabalho.
+
+| Bacia | Ficha de receita (**usar**) | Outra leitura publicada |
+|---|---|---|
+| Bancada 4,5 qt | **1–1,25 kg** | quadro da p. 34 (bacia 4–5 qt): 1–1,5 kg |
+| Bancada 8 qt | **1,5–1,75 kg** | quadro da p. 34: 1,5–2 kg na maioria; 1,5 kg em massa firme tipo brasileira |
+| Planetária 12 qt | **4–6 kg** (×4 a ×6) | quadro da p. 34: 3–6 kg · p. 45: mistura "a partir de 2,5–3 kg" |
+| Planetária 20 qt | **6–8 kg** (×6 a ×8) | p. 45: 4–8 kg (o quadro da p. 34 concorda com a ficha) |
+
+O **2,5–3 kg** da p. 45 é o mínimo absoluto que aquela máquina consegue girar, não uma carga de
+trabalho: a ficha proíbe descer abaixo do ×4. Não escale por ele.
+
+**Encha a bacia no máximo até a metade** — regra de bolso do livro para qualquer batedeira.
+Passar disso só faz a mistura demorar mais. Os dois modos de falha:
+
+| Carga | O que acontece |
+|---|---|
+| **Massa de menos** | O gancho gira no vazio, paira sobre os ingredientes e mal encosta neles; o glúten nunca desenvolve. |
+| **Massa demais** | Sobe pelo gancho, fica sem misturar, alonga o tempo, gera mais calor e desgasta o motor. |
 
 **Exceções — as duas mestres com multiplicador próprio**
 
@@ -194,13 +220,12 @@ na tabela da p. 34 e nas fichas de receita.
 
 **Escale pelo peso da bacia, não pelo multiplicador.** O multiplicador padrão foi calibrado
 para receita de ~1 kg. Onde o rendimento-base é menor e o livro **não** ajustou, a conta não
-fecha: na **deep-dish** (rend. 700 g), ×4–6 dá **2,8–4,2 kg**, abaixo dos 4 kg mínimos
-declarados para a mesma bacia de 12 qt. O livro corrigiu isso na NY square (também 700 g) e
-esqueceu na deep-dish — **incoerência do livro, não regra**.
+fecha: na **deep-dish** (rend. 700 g), ×4–6 dá **2,8–4,2 kg**, abaixo do piso de **4 kg** que a
+própria ficha declara para a bacia de 12 qt (o ×4 sobre receita de ~1 kg). O livro corrigiu isso
+na NY square (também 700 g) e esqueceu na deep-dish — **incoerência do livro, não regra**.
 
 Aviso da própria ficha da thin-crust: **o rendimento-base de ~1 kg não é suficiente para o
-gancho pegar tudo numa bacia de 8 qt.** Abaixo do mínimo o gancho gira no vazio e a massa
-nunca desenvolve — é o modo de falha que mais quebra produção.
+gancho pegar tudo numa bacia de 8 qt** — é o modo de falha que mais quebra produção.
 
 **Cargas que o livro usou no experimento das 5 batedeiras** (referência de lote confortável):
 bancada **2 kg** · espiral **8 kg** · diving arm **4 kg** · garfo **10 kg** · planetária
@@ -219,11 +244,10 @@ bancada **2 kg** · espiral **8 kg** · diving arm **4 kg** · garfo **10 kg** �
 O **processador** some exatamente nas massas de glúten **médio** e/ou hidratação ≥ 72%: a lâmina
 não pega massa mole, passa por ela como se fosse purê.
 
-**Correção**: a advertência de que a **batedeira de garfo falha acima de 72% de hidratação**
-(registrada em `02-mistura-e-gluten.md` e `10-diagnostico.md`) **não é aplicada pelo próprio
-livro** — há bloco de garfo para artisan (72%), focaccia (87,27%) e NY square (74,68%). A
-**única** mestre sem opção de garfo é a **al taglio** (79,73%). Mantenha a ressalva como aviso
-de manuseio, não como impedimento.
+A ressalva do experimento — **garfo falha a partir de 72% de hidratação** — está em
+`02-mistura-e-gluten.md`, com as duas redações do livro e a lista das fichas que mesmo assim
+trazem bloco de garfo. A tabela acima é a prática das fichas: a **única** mestre sem garfo é a
+**al taglio**. Trate a ressalva como aviso de manuseio, não como impedimento.
 
 ### De qual mestre cada sub-mestre herda os tempos
 
@@ -311,9 +335,15 @@ rotina, não manutenção corretiva.
 > força** para ser misturada do que a **focaccia**, a **86,87%**. Quanto menor a hidratação,
 > maior a força necessária.
 
+Os **86,87%** são o número do texto narrativo (p. 39), que é também a hidratação da Direct
+Focaccia. A mestre em net contents dá **87,27%** — é esse que vale para formular; a divergência
+está explicada em `01-formulas-massas.md`.
+
 Consequências diretas:
-- É por isso que a bacia de 5,7–7,6 L aceita 2 kg de massa comum mas só **1,5 kg** de massa
-  brasileira. Massa seca ocupa a capacidade da máquina em **torque**, não em volume.
+- É por isso que o quadro da p. 34 dá 1,5–2 kg para a bacia de 5,7–7,6 L / 6–8 qt na maioria das
+  massas e só **1,5 kg** em massa firme tipo brasileira. Massa seca ocupa a capacidade da máquina
+  em **torque**, não em volume. (Carga de trabalho continua a da ficha, **1,5–1,75 kg** — tabela
+  de carga acima.)
 - Massa seca ⇒ **velocidade mínima** e/ou **raquete no lugar do gancho** (o gancho patina e o
   motor engasga).
 - O motor da batedeira de bancada é o primeiro a morrer: o livro registra que esses motores
@@ -340,7 +370,8 @@ executa**. Se der errado, você descobre onde.
 - **Massa fria demais saindo da batedeira não tem conserto químico** — só **adaptar o
   cronograma** para o tempo maior de fermentação. Só massa quente tem correção ativa.
 - **Duas massas em que o livro quer a massa mais quente**: a **napolitana-mestre** e a
-  **napolitana com poolish**. Nesses dois casos passar de 25 °C não é defeito.
+  **napolitana com poolish**. Nesses dois casos passar de **25,5 °C** não é defeito — a ficha
+  pede 27 °C.
 - **Mármore não esfria massa.** A p. 40 o sugere como alternativa à geladeira, mas a p. 53
   desmonta: *"o mármore está na mesma temperatura do ambiente mesmo estando frio ao toque"*.
   Ele só leva a massa até o equilíbrio com o ambiente — em cozinha a 30 °C, não esfria nada.

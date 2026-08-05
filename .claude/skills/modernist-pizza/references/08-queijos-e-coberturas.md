@@ -38,10 +38,20 @@ Fonte: *Modernist Pizza*, Vol. 2 — caps. "Cheese" e "Toppings".
 | New York | 35/40/45/50/55/60 cm | pizza cheese ralado | 195/290/390/485/535/585 g |
 | Artisan | 35/40/45/50/55/60 cm | pizza cheese ralado | 180/270/360/450/495/540 g |
 | NY square | 46×33 cm | pizza cheese ralado | 425 g |
-| Detroit | 25×20 cm | pizza cheese 60 g + **Wisconsin brick 115 g** | 175 g |
+| Detroit | 25×20 cm | pizza cheese 60 g + **Wisconsin brick 115 g** | **175 g** |
 | Detroit | 35×25 cm | pizza cheese 115 g + **Wisconsin brick 225 g** | 340 g |
 
-**Al taglio** não tem número fixo: depende de assar o queijo na massa ou aplicá-lo depois.
+**Al taglio: o livro também dá dois números.** A tabela de queijo da **p. 304** se recusa a
+publicar gramagem (*"a quantidade varia demais"* — depende de assar o queijo na massa ou
+aplicá-lo depois); o quadro de payload da **p. 348** publica **300 g** para a meia forma de
+60×20 cm e **600 g** para a inteira de 60×40 cm. Use os 300/600 g como ponto de partida e
+calibre pelo seu método (`23-coberturas-tecnicas-e-payload.md`).
+
+> **Detroit 25×20 cm: o livro dá dois números.** A ficha de queijo da **p. 304** soma
+> 60 g + 115 g = **175 g**; o quadro de payload da **p. 348** dá **170 g** na coluna de queijo —
+> **trabalhe com 175 g** para porcionar: é a tabela específica, com os dois SKUs. Os 170 g são a
+> linha de payload (`23-coberturas-tecnicas-e-payload.md`). A Detroit 35×25 cm fecha nos dois
+> quadros: 115 + 225 = 340 g.
 
 ## Por que porcionar importa (para pizzaria)
 1. **Consistência** — cliente quer a mesma pizza toda vez. Mais queijo raramente gera
@@ -73,23 +83,10 @@ papel-manteiga entre as fatias. Se ralar, use o furo **maior**. **Sempre gelado*
 temperatura ambiente amolecem, grudam e empelotam.
 
 **Pasta filata frescos** (fior di latte, mozzarella di bufala, burrata):
-**Precisam ser escorridos** ou você tem poça no meio da pizza. **O livro se contradiz sobre qual
-é o método padrão**: a **p. 306** apresenta como procedimento do livro o **coador ou peneira
-forrado com pano de queijo sobre uma tigela grande**, escorrendo por **algumas horas** (a noite
-toda refrigerado é o *ideal*, não o mínimo); a **p. 329** chama de "procedimento usual" o
-**papel absorvente sem fiapos, coberto, 12 h refrigerado**, e afirma que as alternativas (coador
-com pano, hotel pan perfurado sobre outro liso) **também exigem 12 h**.
-Na prática: **algumas horas já servem**; **12 h é o número seguro** e o que a p. 329 usa como
-base de comparação para o método a vácuo abaixo.
-- **Corte**: alguns rasgam à mão na hora (bom para porção, mas os pedaços ficam muito
-  molhados). O livro corta com **cortador de batata frita** em pedaços de ~1,25 cm e escorre
-  a noite toda.
-- **Emergência**: envolva num pano limpo e **esprema**, e rasgue/corte imediatamente sobre a
-  pizza já molhada. Funciona bem, mas é impraticável em volume.
-- **Método ready-to-bake do livro**: coloque a mussarela cortada sobre uma **almofada
-  absorvente** (aquelas de embalagem de carne), embale a vácuo e puxe vácuo total. A pressão
-  espreme a umidade e a almofada absorve. Guarda refrigerado até a validade original.
-  **Economiza as 12 h** e escala para grandes quantidades.
+**Precisam ser escorridos** ou você tem poça no meio da pizza. **Algumas horas já servem; 12 h é
+o número seguro**, e o método a vácuo com almofada absorvente economiza essas 12 h — métodos,
+corte com cortador de batata frita, saída de emergência e a divergência p. 306 × p. 329 em
+`21-queijo-compra-e-operacao.md`.
 - **Temperar 2 h** antes de usar. Queijo frio esfria a superfície da massa, atrasa a assagem
   e não derrete direito — crítico em napolitana. Tire da geladeira em intervalos de 30 min
   para sempre ter um lote pronto. **Máximo de 2 h fora** (segurança alimentar).
@@ -102,14 +99,9 @@ base de comparação para o método a vácuo abaixo.
 ralada. A maioria das pizzarias compra ralada. Ralada é melhor em pizza **redonda**; fatiada
 funciona melhor em **NY square** (camada uniforme; ralado demora e cai entre a massa e a forma,
 onde queima). O livro fatia pizza cheese em ~3 mm.
-Ralado industrial vem com até **4% de celulose** (limite legal) para não empelotar — o que ajuda
-no serviço, quando ele fica fora da geladeira mais de 2 h. Mas o teste do livro (p. 310) é mais
-fino que o limite legal: a dose preferida é **1,5% de celulose microcristalina** — **3% e 4% não
-trazem benefício nenhum** — e, **se o queijo fica refrigerado até a hora, o melhor para assar é
-o SEM aditivo** (a 4 °C nenhuma amostra empelotou).
-E os dois antiaglomerantes **não são equivalentes**: o ralado com **amido de milho ficou pior**
-que o sem aditivo e que o com celulose em **derretimento, douramento, stretch, textura e sabor**.
-**Evite o ralado com amido.**
+Antiaglomerante do ralado: **1,5% de celulose microcristalina** se o queijo fica na bancada,
+**sem aditivo** se ele fica refrigerado até a montagem, e **nunca o ralado com amido de milho** —
+testes, dosagens e regra de compra em `21-queijo-compra-e-operacao.md`.
 
 **Casca lavada / mofo de superfície** (camembert, brie, époisses, taleggio, munster): moles
 demais para manusear — guarde numa **adega de vinho a 13 °C / 55 °F**: frio o bastante para
@@ -149,13 +141,10 @@ Tabela de classificação por textura, p. 302 (impressa 294).
 | Azuis | roquefort 40% · stilton 38,3% · gorgonzola 48,4% · cabrales | 38–48% | 30–33% |
 | Moles | cream cheese 50% · quark 79% · cabra 60,75% · ricota 72% · mascarpone 47,8% | — | — |
 
-> **(?) O livro tem duas tabelas que não batem.** A tabela de **formas de mussarela** da
-> **p. 323 (impressa 315)** dá **58% de umidade para fior di latte** — igual à di bufala e à
-> mussarela fresca local/importada — e **45–52% para pizza cheese / baixa umidade**. Os 54% e
-> os 47% acima vêm da tabela de classificação da p. 302. Ao citar, dê a **faixa e a origem**
-> (fior di latte **54–58%**, baixa umidade **45–52%**), não escolha um lado. O que não muda:
-> fior di latte tem claramente mais água que pizza cheese e por isso doura mais devagar.
-> Tabela da p. 323 completa em `22-mussarela-e-queijos-caseiros.md`.
+> **(?) Duas tabelas do livro não batem.** Ao citar, dê a **faixa**: fior di latte **54–58%**,
+> baixa umidade **45–52%**. Os 54% e os 47% acima são da p. 302; a tabela de formas de mussarela
+> da p. 323 dá 58% e 45–52%. Divergência destrinchada em `21-queijo-compra-e-operacao.md`.
+> O que não muda: fior di latte tem claramente mais água que pizza cheese e doura mais devagar.
 
 ## Guardar mussarela fresca
 Não há vantagem de sabor ou qualidade em guardar em temperatura ambiente — o livro comparou.
@@ -219,38 +208,14 @@ A tabela do livro (p. 348) tem **duas** colunas de total, e a que decide a físi
 durante a assagem — é ele que compete com o oven spring e alimenta a gum line. O que entra
 depois pesa no prato, não no forno.
 
-| Estilo | Tamanho | Molho | Queijo | Antes | Depois | **No forno** | Total |
-|---|---|---|---|---|---|---|---|
-| Thin-crust | 40 cm | 95 g | 150 g | 135–165 g | 135–150 g | **380–410 g** | 515–560 g |
-| Thin-crust | 50 cm | 170 g | 270 g | 250–300 g | 250–275 g | **690–740 g** | 940 g–1,01 kg |
-| Brasileira | 23 cm | 100 g | 175 g | 165–210 g | 95–135 g | **440–485 g** | 535–620 g |
-| Brasileira | 40 cm | 160 g | 340 g | 300–380 g | 170–250 g | **800–880 g** | 970 g–1,13 kg |
-| **Napolitana\*** | 30 cm | 120 g | 100 g | 125–150 g | 180–210 g | **345–370 g** | 525–580 g |
-| New York | 35 cm | 160 g | 195 g | 130–300 g | 175–225 g | **485–655 g** | 660–880 g |
-| New York | 40 cm | 240 g | 290 g | 195–450 g | 260–335 g | **725–980 g** | 985 g–1,31 kg |
-| New York | 45 cm | 320 g | 390 g | 260–600 g | 350–450 g | **970 g–1,31 kg** | 1,32–1,76 kg |
-| New York | 50 cm | 400 g | 485 g | 325–750 g | 435–560 g | **1,21–1,63 kg** | 1,64–2,19 kg |
-| New York | 55 cm | 440 g | 535 g | 355–825 g | 480–615 g | **1,33–1,8 kg** | 1,81–2,41 kg |
-| New York | 60 cm | 480 g | 585 g | 390–900 g | 525–675 g | **1,45–1,96 kg** | 1,97–2,63 kg |
-| Artisan | 35 cm | 145 g | 180 g | 170–300 g | 110–320 g | **495–625 g** | 605–945 g |
-| Artisan | 40 cm | 215 g | 270 g | 255–450 g | 165–480 g | **740–935 g** | 905 g–1,41 kg |
-| Artisan | 45 cm | 290 g | 360 g | 340–600 g | 220–640 g | **990 g–1,25 kg** | 1,21–1,89 kg |
-| Artisan | 50 cm | 360 g | 450 g | 425–750 g | 275–800 g | **1,23–1,56 kg** | 1,5–2,36 kg |
-| Artisan | 55 cm | 400 g | 495 g | 465–825 g | 300–880 g | **1,36–1,72 kg** | 1,66–2,66 kg |
-| Artisan | 60 cm | 435 g | 540 g | 510–900 g | 330–960 g | **1,48–1,87 kg** | 1,81–2,83 kg |
-| NY square | 46×33 cm | 225 g | 425 g | 800–900 g | 700–800 g | **1,45–1,55 kg** | 2,15–2,35 kg |
-| Al taglio | 60×20 cm | 200 g | 300 g | 550–600 g | 350–575 g | **1,05–1,1 kg** | 1,4–1,67 kg |
-| Al taglio | 60×40 cm | 400 g | 600 g | 1,1–1,2 kg | 700 g–1,15 kg | **2,1–2,2 kg** | 2,8–3,35 kg (?) |
-| Detroit | 25×20 cm | 75 g | 170 g | 185–210 g | 175–200 g | **430–455 g** | 605–655 g |
-| Detroit | 35×25 cm | 150 g | 340 g | 375–425 g | 350–400 g | **865–915 g** | 1,21–1,31 kg |
-
-\* Napolitana: valores para **margherita**. Para **marinara, reduza 40 g**.
-
-**(?)** A célula do al taglio 60×40 cm sai impressa no livro como **"2.8–3.35 g"** — erro óbvio
-de unidade: é **kg**, e fecha com molho + queijo + antes + depois.
-
-Os máximos marcam **o ponto logo antes de a qualidade começar a cair**, não um limite físico.
-Ver `23-coberturas-tecnicas-e-payload.md` para o payload comentado técnica a técnica.
+**A coluna de queijo desse quadro quase sempre repete a tabela "Quanto queijo usar" acima**
+— com duas exceções, a Detroit 25×20 cm (170 g no payload × 175 g na tabela de queijo) e a
+al taglio (300/600 g no payload; a tabela de queijo não publica) — (thin-crust 40 cm
+150 g · brasileira 23 cm 175 g · napolitana 30 cm 100 g · New York 35–60 cm 195–585 g ·
+artisan 35–60 cm 180–540 g · NY square 425 g · Detroit 25×20 cm 170 g, ver a nota dos 175 g ·
+Detroit 35×25 cm 340 g). **Payload completo, tamanho a tamanho, em
+`23-coberturas-tecnicas-e-payload.md`** — inclusive molho, antes, depois, os dois totais, a
+nota de margherita × marinara e o erro de unidade do al taglio 60×40 cm.
 
 **Napolitana não aguenta muita cobertura** — massa mole, assagem curta, crosta que não firma.
 Até a marinara simples faz *tip sag* (e para a AVPN o tip sag é qualidade positiva, não defeito).
@@ -278,11 +243,8 @@ derrubar a temperatura, trabalhe rápido e ressete o timer.
 **Depois de assar** — folhas delicadas, ervas, vegetais laminados finos, frios que devem ser
 só aquecidos (mortadela, capocollo), molhos sensíveis a temperatura (aioli, ranch).
 
-**Ovo é a exceção que o livro faz questão de corrigir** (p. 361): quebrar o ovo na pizza
-recém-saída do forno, contando com o calor residual para firmar a clara, **"nem sempre
-funciona"** — o livro **desaconselha esperar o fim**. Adicione o ovo **1–2 min ANTES de a pizza
-sair do forno**, para a clara firmar com a gema ainda mole. Em **napolitana** (60–90 s de
-assagem) o ovo entra **antes de assar**: a temperatura alta firma a clara no tempo da pizza.
+**Ovo** é a exceção: entra **1–2 min ANTES de a pizza sair do forno** (em napolitana, antes de
+assar) — regra completa em `23-coberturas-tecnicas-e-payload.md`.
 
 ## Distribuição
 

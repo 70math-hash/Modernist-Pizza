@@ -473,31 +473,33 @@ na metade. Montar e finalizar 1–2 min a 285 °C ou sob o broiler, ou com heat 
 
 ## Pré-assar e par-assar
 
-- **Par-assar (parbake)** = assar parcialmente e terminar depois. Os **~90%** que circulam por
-  aí são a definição da **indústria de pão** (assar até ~90%, esfriar, terminar depois) — é de
-  lá que o termo vem, e é a baguete pálida do supermercado. **Para pizza o livro dá um único
-  número: 2/3 a 3/4**, e ele vale para os dois casos — **pizza congelada** e **catering**
-  (par-assar 2/3 a 3/4, congelar, finalizar no local). Funciona bem em thin-crust e médias,
-  especialmente se for congelar. Ao congelar pizza par-assada com molho: **coloque o queijo só
-  na hora de finalizar** (assar queijo duas vezes altera a reologia de derretimento). Pode
-  assar direto do congelado.
-- **Pré-assar (prebake)** = assar completamente e reaquecer depois. É o processo **padrão** de
-  NY square, al taglio e pizza gourmet. **Elimina a gum line.** Pode ser feito também na
-  Detroit (não é necessário — a Detroit não faz gum line) e na deep-dish (onde ajuda, embora
-  não resolva 100% — o fundo continua submerso em molho).
+| Termo | Definição do livro | Aplicação |
+|---|---|---|
+| **Par-assar** (parbake, indústria de pão) | assar até **~90%**, esfriar, terminar depois | **Definição de pão**, não de pizza — é a baguete pálida do supermercado. Comestível, mas não apetitosa |
+| **Par-assar de pizza** | assar **2/3 a 3/4** do caminho, esfriar/congelar, terminar depois | **Pizza congelada** e **catering** fora da casa. Funciona bem em thin-crust e médias, sobretudo se for congelar |
+| **Pré-assar** (prebake) | assar **completamente**, esfriar, reaquecer depois | Processo **padrão** de NY square, al taglio e pizza gourmet. **Elimina a gum line** — mas só quando você pré-assa a massa sozinha |
 
-**Pizza para muita gente**: escolha estilos que reaquecem bem e podem ser feitos com
-antecedência — **NY square, Detroit ou al taglio**. Asse, esfrie, embrulhe em filme e
-congele por até **6 meses**. Para servir: pré-aqueça o forno a **230 °C** com um ou dois
-aços/pedras empilhados 1 h antes; corte as pizzas, devolva às formas, e deslize as formas
-sobre o aço — **5–7 min** para reaquecer e recrocantizar o fundo. Na Detroit, o molho quente
-vai por cima de cada fatia depois. No al taglio, coberturas sensíveis (rúcula, gorgonzola,
-tapenade) só depois de assar.
-> **Napolitana e artisan são péssimas ideias para eventos** — o livro veta os **dois** estilos
-> pelos mesmos motivos: só servem um convidado por vez, exigem forno especial e altíssima
-> habilidade, e não seguram mais que alguns minutos (têm de sair *à la minute* na frente do
-> convidado). New York grande alimenta várias pessoas e reaquece bem — é opção, mas o livro
-> não a considera a melhor solução; a melhor continua sendo NY square, Detroit ou al taglio.
+Os **~90%** que circulam por aí vêm da **indústria de pão**, de onde o termo veio. **Para pizza
+o livro dá um único número: 2/3 a 3/4**, e ele vale para os dois casos, congelado e catering.
+
+### Quando pré-assar cada estilo
+
+| Estilo | Pré-assar? |
+|---|---|
+| **Al taglio** | **Sempre**, completamente, **com ou sem molho** |
+| **NY square** | Sempre. Procedimento completo: assar a massa até o fim, **virá-la dentro da forma**, então molho e queijo e assar de novo — é o virar que **elimina a camada de gel por completo** |
+| **Detroit** | Pode, mas **não precisa** — ela não faz gum line |
+| **Deep-dish** | **Ajuda, não resolve 100%** (o fundo fica submerso em molho). Em Chicago o livro foi ridicularizado por sugerir isso; a conclusão dele é que a fatia fica melhor |
+| **Thin-crust e médias, para congelar** | Par-assar **com molho**, esfriar, e **pôr o queijo só antes do assar final** — assar queijo duas vezes altera a reologia de derretimento. Pode assar **direto do congelado** |
+
+**Prensa de massa (dough press)** conta como método de pré-assar **e** de modelar, mas **só
+funciona bem em thin-crust**.
+
+**Cascas pré-assadas congelam por até 6 meses**, embrulhadas em filme. Em catering dá para
+assar fora, congelar, transportar e assar **sem descongelar**.
+
+Logística de evento (estilos, veto, reaquecimento, estação de coberturas):
+ver `16-planejamento-e-producao.md`.
 
 ---
 
