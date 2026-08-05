@@ -240,7 +240,7 @@ ar; e colheres-medida variam entre marcas.
 | Artisan | 0 | 3,2% | 10% |
 | New York | 0 | 3,39% | 10% |
 | NY square | 0 | 3,8% | 10% |
-| Al taglio | 0 | 3,92% | 10% |
+| Al taglio | 0 | 4,02% | 10% |
 | Focaccia | 0 | 4,04% | 10% |
 | Deep-dish | 5% | 8,68% | 15% |
 | Brasileira | 5% | 9,76% | **30%** (só com gordura sólida/cristalina) |

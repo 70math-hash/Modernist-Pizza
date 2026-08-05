@@ -39,6 +39,13 @@ na tabela abaixo.
 - New York e artisan diferem em **2,5% de água** apenas; esse pouco a mais dá à artisan
   a borda mais larga.
 
+**Prova em temperatura ambiente — o livro se contradiz em duas massas.**
+A regra desta skill: **a ficha de receita manda sobre o quadro geral**.
+- Thin-crust: a ficha da p. 110 dá **2–3 h a 21 °C / 70 °F**; o quadro da p. 75 dá 2 h e o
+  cronograma da p. 25 dá 1½–2 h — trabalhe com a ficha.
+- Deep-dish: a ficha da p. 118 dá **1½ h a 21 °C / 70 °F**; o quadro da p. 75 dá 2–4 h e o
+  cronograma da p. 25 dá 1½–2 h — trabalhe com a ficha.
+
 ---
 
 ## Receitas completas (peso, para o rendimento-base do livro)
@@ -81,6 +88,8 @@ amaciante de carne Adolph's 0,06 g (0,01%, opcional mas **muito recomendado**) �
 sal fino 12,15 g (1,99%)
 Mistura: água+fermento → farinha+amaciante até esfarrapada → sal → vel. média até
 **glúten total** → transferir para pote levemente borrifado com água.
+O glúten total deve coincidir com massa a **27 °C / 80 °F** — alvo da própria ficha (p. 125),
+acima dos 24–25,5 °C do DDT geral da skill (ver 02-mistura-e-gluten.md).
 **Bulk 20–24 h a 21 °C, bem tampado** · dividir 250 g · bolear · fermentar **3 h a 21 °C**.
 Rende quatro pizzas de 30 cm. Tempo total: ~27 h.
 > Este método **não** é o de Nápoles. Saiu de um experimento de nove partes que testou
@@ -98,7 +107,9 @@ Mistura: água+fermento+poolish → farinha+malte até esfarrapada → vel. méd
 → sal → **azeite com a máquina ligada** → glúten total.
 Bench rest 20 min · bolear · **fermentação a frio 1–2 dias a 4 °C**. Temperar 1,5–2 h antes de abrir.
 Multiplicadores por diâmetro: 35 cm→400 g (×0,4) · 40 cm→600 g (×0,6) · 45 cm→800 g (×0,8) ·
-55 cm→1,1 kg (×1,1) · 60 cm→1,2 kg (×1,2).
+55 cm→1,1 kg (×1,1) · 60 cm→1,2 kg (×1,2). A ficha não lista os 50 cm porque trata a
+receita-base (~1 kg) como a pizza de 50 cm (×1,0); a tabela de tamanhos (p. 94) dá **930 g**
+para esse diâmetro — use 930 g.
 > Pode rebolear depois de 2 dias e voltar à geladeira por mais 3 (5 dias no total).
 > O malte alimenta o fermento na fermentação longa; o azeite dá volume, facilita o manuseio
 > e impede a crosta de ressecar no reaquecimento.
@@ -111,6 +122,8 @@ Mesmo procedimento da New York. Bench rest 20 min · dividir **360 g** · bolear
 **frio 1–2 dias a 4 °C**.
 Multiplicadores (para 3 pizzas): 40 cm→400 g (×1,1) · 45 cm→470 g (×1,3) · 50 cm→500 g (×1,4) ·
 55 cm→580 g (×1,6) · 60 cm→620 g (×1,7).
+> Como na New York, pode **rebolear depois de 2 dias** e voltar à geladeira por mais 3
+> (5 dias no total).
 > O livro chama esta de **a melhor massa para quem faz em casa**: fácil de manusear, cabe
 > numa chapa de aço em forno doméstico, resultado bonito.
 
@@ -150,6 +163,8 @@ azeite 30 g (4,76%)
 Mistura (**dupla hidratação + autólise**): 380 g da água + fermento → levain + farinha + malte
 em vel. baixa até glúten baixo → **autólise 30 min** → vel. média até glúten médio →
 sal dissolvido nos 100 g de água restantes → azeite em fio → vel. **alta** até glúten médio.
+A massa não pode sair da batedeira abaixo de **18 °C / 64 °F** nem acima de **24 °C / 75 °F**
+(janela da própria ficha, p. 159 — mais estreita e mais fria que o DDT geral).
 Bulk 2,5 h a 21 °C com 4 dobras · dividir 700 g (forma 60×20) ou não dividir (60×40) ·
 dobra de quatro bordas na forma oleada, descanso 30 min, esticar ·
 fermentar 3 h a 21 °C ou 2 h a 27 °C/65% UR; esticar de novo depois da 1ª hora.
@@ -180,12 +195,16 @@ fermentar 3 h a 21 °C ou **2,5 h a 27 °C**/65% UR; esticar de novo depois da 1
 | Brazilian thin-crust | 125 g / 250 g | 23 cm / 40 cm |
 | Deep-dish | 230 g / 700 g | forma 21×5 cm / 32×5 cm |
 | Napolitana | 250 g | 30 cm |
-| New York | 400/600/800 g, 1,0/1,1/1,2 kg | 35/40/45/50/55/60 cm |
+| New York | 400/600/800/**930** g, 1,1/1,2 kg | 35/40/45/50/55/60 cm |
 | Artisan | 360/400/470/500/580/620 g | 35/40/45/50/55/60 cm |
 | Focaccia | 1 kg | meia chapa 46×33 cm |
 | New York square | 700 g | meia chapa 46×33 cm |
 | Al taglio | 700 g / 1,4 kg | meia forma romana 60×20 / inteira 60×40 |
 | Detroit | 330 g / 500 g | forma meia 25×20 / inteira 35×25 |
+
+> **New York de 50 cm**: a tabela BEST BETS FOR PIZZA SIZES (p. 94) dá **930 g**; a ficha
+> da receita chama a receita-base (~1 kg, multiplicador 1,0) de "uma pizza de 50 cm / 20 in"
+> e por isso omite os 50 cm da lista de multiplicadores. Siga os 930 g da tabela de tamanhos.
 
 ---
 
@@ -199,13 +218,13 @@ de baixa hidratação; o contrário não vale.**
 | Thin-crust | Brazilian thin-crust (mais craquelada) · deep-dish (muito parecida) |
 | Brazilian thin-crust | thin-crust (mais oven spring, crocante) · deep-dish e Detroit (mais densa, assar 3 min) |
 | Deep-dish | thin-crust (quase igual) · napolitana, New York, artisan (abrem bem, sobretudo geladas) |
-| Napolitana | New York (crocante inicial) · focaccia e NY square (crocante que segura; fazer 25–27,5 cm) |
-| New York | napolitana (miolo mais fechado, crosta mais crocante) · artisan (quase igual) · focaccia (crocante, acidez; 6 min) · NY square (mais folhada e crocante; 6 min) |
-| Artisan | idem New York |
-| Focaccia | napolitana (+30 min de fermentação) · New York · artisan · Detroit · al taglio (muito parecida) · NY square |
+| Napolitana | New York (crocante inicial, amolece um pouco mais rápido) · focaccia (crocante no início, mas **amolece muito rápido** depois de assar; 25–27,5 cm) · NY square (crocância **que se mantém**; 25–27,5 cm) |
+| New York | napolitana (miolo mais fechado, crosta mais crocante) · artisan (quase igual; **5½–6 min**) · focaccia (crocante; 6 min) · NY square (mais folhada e crocante; 6 min) |
+| Artisan | napolitana (miolo mais fechado, crosta mais crocante) · New York (quase igual) · focaccia (crocante, **sabor ácido**; 6 min) · NY square (mais folhada e crocante; 6 min) |
+| Focaccia | napolitana (miolo comparável; +30 min de fermentação) · New York (miolo mais denso, lembra pão macio; **13 min**) · artisan (bem diferente de focaccia, mas textura de pão agradável; **9–12 min**) · Detroit (**parecida com focaccia de restaurante**; miolo mais denso) · al taglio (muito parecida) · NY square (miolo um pouco mais denso, crosta crocante) |
 | NY square | napolitana (+30 min) · New York e artisan e Detroit (assar 2 min direto no piso p/ base crocante) · al taglio · focaccia |
 | Al taglio | New York e artisan (9 min) · Detroit (miolo mais fechado, mais volume) · focaccia (quase igual) · NY square |
-| Detroit | New York · al taglio · focaccia · NY square (todas dão miolo mais aberto) |
+| Detroit | New York (miolo um pouco mais denso, crosta crocante e saborosa) · al taglio, focaccia e NY square (miolo **bem mais aberto**; o queijo assado dá crocância) |
 
 **As falhas** (não faça):
 - Focaccia com massa brasileira → densa, pálida, seca.
@@ -228,12 +247,19 @@ de baixa hidratação; o contrário não vale.**
 - **Levain raised** — troca o fermento comercial por levain líquido maduro, ajustando farinha
   e água. Precisa de 5 dias para criar o levain do zero.
 - **Second chance** — usa levain morto (velho demais ou congelado/descongelado) só pelo sabor,
-  com IDY de 0,43% a 0,81% para dar a força de crescimento.
+  com IDY de **0,43% a 1,5%** para dar a força de crescimento (deep-dish 1,5% · Detroit 1,04% ·
+  thin-crust 0,92% · napolitana 0,43%). Grade completa em `12-tabelas-de-variacao.md`.
 - **Compleat wheat** — 100% integral sem o miolo denso: parte de farinha branca e devolve
   farelo e gérmen **torrados** (175 °C, 5–7 min, sem ventilação) e **hidratados** (mín. 10 min),
   incorporados a **glúten médio**; termina o glúten em bulk com dobras.
-- **Grain/nut/seed** — inclusões a glúten médio, sempre. Nozes picadas (inteiras rasgam a massa).
-  Não usar em massa fina.
+- **Grain/nut/seed** — inclusões a glúten médio, sempre; depois bulk com dobras até glúten
+  total. Grãos: de molho, germinados ou cozidos em mingau/purê. Nozes e sementes **torradas**
+  (o livro recomenda muito). Tamanho: a visão geral (p. 101) manda picar a maioria das nozes;
+  a nota da ficha (p. 187) diz **noz pequena inteira e torrada; noz grande (nogueira, pecã,
+  castanha de caju) picada grosseiramente e depois torrada** — siga a ficha.
+  **Massa fina aceita inclusão**: a grade da p. 186 abre justamente com a linha da thin-crust
+  (110 g / **22,45%**). O que limita é o **tamanho do pedaço — máximo ~3 mm / ⅛ in**; pedaço
+  grande impede abrir fina. Grade completa em `12-tabelas-de-variacao.md`.
 - **Country style** — centeio (claro, médio ou escuro) + T85 (ou integral).
 - **Ancient grain** — mistura 60% farinha de pão / 40% grão antigo (espelta, khorasan, emmer,
   einkorn, trigo sarraceno). Não passar de 40%.

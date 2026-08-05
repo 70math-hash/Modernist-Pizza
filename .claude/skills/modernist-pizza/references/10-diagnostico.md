@@ -9,7 +9,7 @@ referência com o detalhe.
 
 | Sintoma | Causa provável | O que fazer |
 |---|---|---|
-| **Hiperfermentada** (marca do dedo não volta, cheiro de álcool, aspecto de balão murcho, rugas) | Tempo/temperatura demais | **Dough CPR**: degasar com firmeza, rebolear, relaxar **3–4 h** em ambiente. Funciona até 10 vezes na mesma massa. **Não funciona para pizza de forma.** → 03 |
+| **Hiperfermentada** (marca do dedo não volta, cheiro de álcool, aspecto de balão murcho, rugas) | Tempo/temperatura demais | **Dough CPR**: degasar com firmeza, rebolear, relaxar **3–4 h** em ambiente. Funciona até 10 vezes na mesma massa. Vale também para **Detroit e deep-dish**; **não vale para focaccia, NY square e al taglio** (reboleadas, não voltam aos cantos da forma). → 03 |
 | **Subfermentada** (volta rápido no teste do dedo) | Tempo/temperatura de menos | Espere mais. Assada: rasga na superfície, fica achatada, miolo fechado, sem sabor. → 03 |
 | **Grudenta demais** | Alta hidratação | Refrigerar durante o bulk · **olear a bancada** (não serve para napolitana; serve para al taglio, focaccia, NY square, Detroit) · **faca de gesseiro** para mover e bolear sem tocar → 04 |
 | **Ressecou / criou pele** | Exposta ao ar | Borrifar água na parte seca, cobrir com filme, esperar alguns minutos. Ou cobrir com pano levemente úmido. Se não resolver, apare. Prevenção: **sempre coberta** → 02 |
@@ -122,7 +122,7 @@ referência com o detalhe.
 | Hot spots no deck | Construção barata | Mapear assando; nunca repetir o ponto; girar |
 | Injeção de vapor não ajuda | É útil para pão, não para pizza | Testado: crosta mole, menos volume, coberturas molhadas. **Desligue** |
 | Combi não segura 300 °C | Limite físico | Pré-aquecer a 300 °C e **assar a 285–290 °C** |
-| Napolitana em forno doméstico | Impossível (máx. 260–290 °C) | Aço + broiler + heat gun na borda dá pizza **crocante**, não macia. Ou forno de bancada (Breville Pizzaiolo) ou forno portátil a propano |
+| Napolitana em forno doméstico | Impossível: o teto do doméstico é **275–285 °C / 525–550 °F** | Aço + broiler + heat gun na borda dá pizza **crocante**, não macia. Ou forno de bancada (Breville Pizzaiolo) ou forno portátil a propano |
 
 ---
 

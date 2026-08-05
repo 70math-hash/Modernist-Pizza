@@ -36,10 +36,19 @@ grumos).
   ou liquidificador.
 
 ## Testar a consistência de um molho novo
-Asse **a quantidade de molho que você usaria** numa frigideira do **mesmo diâmetro da pizza**
-(sauteuse de 30 cm para napolitana, New York e artisan; a própria forma da Detroit ou NY
-square). Você vê exatamente quanta água evapora, sem sacrificar uma pizza inteira.
-Depois ajuste: diluir com água/leite/creme, engrossar com xantana ou amido, ou peneirar.
+**Pese a gramagem de molho recomendada para o MENOR tamanho do seu estilo de pizza** — não é
+"a quantidade que você usaria", é a gramagem do menor tamanho daquele estilo. Asse esse peso
+numa frigideira do diâmetro da pizza: **sauteuse de 30 cm / 12 in** para napolitana, New York
+e artisan; a **própria forma** da Detroit, NY square ou al taglio.
+
+1. Escolha o molho e o estilo de pizza (o estilo decide a temperatura do forno).
+2. Preaqueça o forno na temperatura do estilo. 3. Pese o molho do menor tamanho do estilo.
+4. Despeje na frigideira/forma e **espalhe por igual**. 5. Asse pelo tempo do estilo.
+6. Tire do forno: essa é a consistência que você teria na pizza assada.
+
+Você vê exatamente quanta água evapora, sem sacrificar uma pizza inteira. Depois ajuste:
+**aguado** → engrosse com xantana ou reduza em panela em fogo médio para evaporar umidade;
+**grosso demais** → solte com água, caldo ou creme.
 
 ---
 
@@ -72,6 +81,13 @@ incorporar; continue batendo sem parar enquanto leva à fervura em fogo médio.
 sobre banho de gelo **até gelificar por completo**. 6. **Bata o gel firme até virar purê.**
 7. 3 dias refrigerado, não congele.
 > **Melhor usado em temperatura ambiente.** Pode acrescentar uma pitada de noz-moscada ralada.
+
+> **Os 0,8% de gelana não são exclusividade desta receita.** Saíram de um experimento explícito
+> de **substituição de roux**: testaram gelana low-acyl, iota carragena e metilcelulose F50 +
+> xantana, em béchamel e nas sopas engrossadas com roux (gumbo, chowder, bisque). O melhor
+> resultado foi **dispersar 0,8% de gelana low-acyl na base fria e ferver para ativar**; depois
+> gelificar frio e bater até virar purê. As doses fechadas de cada sopa-molho estão na tabela
+> **Trocar o roux por gelana**, mais abaixo.
 
 **Derivados** (valem para as duas béchamels):
 - **Ranchamel**: 50 g de pó de ranch em 475 g de béchamel, depois de engrossar.
@@ -175,6 +191,11 @@ Alho picado 15 g · manteiga 25 g · farinha 25 g · **leite integral gelado 330
 manteiga sem sal **150 g (100%)** · pimenta-do-reino em grão quebrada 2 g (1,33%) ·
 **Pecorino Romano finamente ralado 300 g (200%)**. Rende ~650 g.
 1. Misture a Wondra com a xantana. **Polvilhe sobre a água enquanto bate com mixer.** Reserve.
+2. **Derreta a manteiga numa panelinha em fogo médio até os sólidos do leite ficarem marrons**
+   — é **manteiga avelã** (*beurre noisette*), não manteiga só derretida. É este passo que
+   define o sabor do molho.
+3. Bata dentro a mistura de Wondra e a pimenta. 4. Junte o Pecorino, mexendo até derreter por
+completo. 5. **Mantenha a 21 °C / 70 °F por até 3 h.** 6. **3 dias refrigerado. Não congele.**
 > Para molho mais solto, incorpore creme de leite aos poucos até o ponto.
 
 ### Bagna Cauda
@@ -186,6 +207,20 @@ cebolinha picada 5 g · tomilho picado 2,5 g · **xantana 0,35 g**.
 Pasta de laksa 110 g · óleo de gergelim torrado 15 g · **caldo de frango 700 g** ·
 leite de coco integral 200 g · açúcar de palma picado 30 g · manteiga 50 g · farinha 50 g ·
 sal 3 g. Refogue a pasta no óleo em fogo médio até **caramelizar levemente, 5–7 min**.
+
+### Trocar o roux por gelana (as quatro sopas-molho)
+Em qualquer uma das quatro, **substitua a manteiga e a farinha** pela dose fechada de
+**gelana low-acyl** da tabela. O método é sempre o mesmo: **polvilhe sobre a base já fria**,
+deixe **hidratar 3–5 min**, bata para incorporar, leve à fervura **batendo sem parar**, acerte
+o sal, gele em banho de gelo **até gelificar por completo** e **bata o gel até virar purê**.
+O purê é **melhor usado em temperatura ambiente**.
+
+| Sopa-molho    | Gelana low-acyl | Onde polvilhar                        |
+|---------------|-----------------|---------------------------------------|
+| Laksa         | **7,2 g**       | sobre a base fria, no passo 5         |
+| Bisque        | **6,6 g**       | depois do creme de leite, no passo 9  |
+| Gumbo         | **7,6 g**       | sobre a base fria, no passo 8         |
+| Clam chowder  | **4,4 g**       | depois do leite, no passo 6           |
 
 Também no capítulo: **molho de gema**, **bisque**, **gumbo**, **clam chowder**, **barbecue**.
 
@@ -201,6 +236,12 @@ bicarbonato, misture para o bicarbonato ficar uniforme e a manteiga cobrir tudo.
 3. **1 bar / 15 psi por 25 min.** 4. Despressurize rápido com água morna na borda.
 5. Bata no liquidificador até liso. 6. Sal. 7. Esfrie em banho de gelo.
 **2 dias refrigerado. Não congele.**
+
+> **O livro se contradiz no tempo de pressão.** A ficha da receita (p. 279) manda **25 min** a
+> 1 bar / 15 psi; a nota de Instant Pot **da mesma página** manda **12 psi (High) por 50 min**.
+> Todas as outras receitas do capítulo repetem o mesmo tempo nos dois modos, e 50 min é o tempo
+> da receita paramétrica de vegetais sob pressão. Na prática: comece com **25 min** e ajuste
+> pelo ponto — se a abobrinha não estiver macia e caramelizada, volte à pressão.
 
 ### Curried Onion
 Cebola amarela fatiada fina **720 g (100%)** · alho picado 20 g (2,78%) ·
@@ -222,7 +263,8 @@ jalapeño 65 g (16,67%) · azeite 30 g (7,69%) · sal 5 g (1,28%). Rende ~650 g.
 fogo alto. (Alternativa: sobre grade em assadeira, com **maçarico**.) 2. Tire cabo e sementes
 dos jalapeños (deixar as sementes aumenta a ardência). 3. Junte tudo numa panela com o azeite
 e **suar em fogo médio até macio**. 4. Bata com mixer até liso. 5. Sal. 6. Esfrie em banho de
-gelo. **3 dias refrigerado.**
+gelo. **3 dias refrigerado — e congela por até 3 meses.** Como rende ~650 g, o congelamento é
+o que torna o lote grande decidível.
 
 ---
 
@@ -240,24 +282,45 @@ gelo. **3 dias refrigerado.**
 *Para guardar (salmoura)*: água 2 kg (100%) · **sal fino 20 g (1%)** ·
 **lactato de cálcio 1,2 g (0,06%)**
 
-> **A salmoura padrão do livro é sempre 1% de sal + 0,06% de lactato de cálcio.**
-> Água de formação (esticar a coalhada): **77 °C / 170 °F com 5% de sal**.
+> **A salmoura de guarda padrão do livro é sempre 1% de sal + 0,06% de lactato de cálcio.**
+> A **água de formação** (para esticar a coalhada) desta receita-mãe e de **todas as que
+> derivam dela** — charcoal, cultivada, cabra, buttermilk, burrata, higher-fat e as
+> infundidas — é **88 °C / 190 °F com 5% de sal**. Os **77 °C / 170 °F** são exclusivos da
+> **Bulk Stretched Fior di Latte**. O que é constante nas duas é o alvo da coalhada:
+> **57 °C / 135 °F** para esticar direito.
+
+Os passos **1 a 12** da receita-mãe são os que **fazem a coalhada** (dissolver o ácido,
+incorporar o leite, aquecer a 32 °C / 90 °F, coalho, cortar, aquecer a 43 °C / 110 °F,
+escorrer 20 min). O **13** já é aquecer a água de formação; **13–17** é o esticamento;
+**18–23** é bolear, resfriar e guardar. Partindo de coalhada comprada, entre no passo **11**.
 
 ### Bulk Stretched Fior di Latte (esticada em massa, sem bolear)
 *Formar*: água **5 kg (100%)** aquecida a **77 °C / 170 °F** · **sal 250 g (5%)**
-Coalhada de fior di latte **4,54 kg (100%)** (do passo 7–12 da receita acima, ou comprada)
+Coalhada de fior di latte **4,54 kg (100%)** (dos **passos 1–12** da receita acima, ou comprada)
 *Guardar*: água 6 kg (100%) · sal 60 g (1%) · lactato de cálcio 3,6 g (0,06%)
+
+> A nota de rodapé sai no PDF como "Follow steps 7-72" — é **OCR de "steps 1-12"**. Confirma:
+> a Modernist Fior di Latte diz literalmente "Follow steps **1-12** of the Uncultured Fior di
+> Latte Mozzarella recipe", e o passo 13 da receita-mãe já é aquecer a água de formação.
+> Começar no 7 pularia dissolver o ácido, incorporar o leite, aquecer a 32 °C / 90 °F e
+> adicionar o coalho. **Vale igual para a Burrata**, cuja nota de rodapé é a mesma.
 
 1. Aqueça a água de formação a **77 °C** num rondeau ou caldeirão grande; adicione o sal.
 2. Misture a salmoura de guarda num pote hermético e refrigere.
 3. Prepare uma hotel pan inteira de **10–15 cm de profundidade com 6–7 L de água gelada**.
    Tenha uma meia hotel pan ao lado para a mussarela pronta.
-4. **Quebre os pedaços grandes de coalhada** e ponha tudo na água morna. Deixe descansar.
+4. **Quebre os pedaços grandes de coalhada** e ponha tudo na água morna. Deixe descansar
+   **5–10 min sem mexer** para amolecer.
+5. Sove dentro da água até formar uma massa única. **Se ficar quente demais para a mão, pode
+   baixar a água para 54–60 °C / 130–140 °F** — esta folga só existe nesta receita.
+6. Estique **3 vezes**: puxe ~60 cm, junte as pontas e gire 90°. Alvo da coalhada:
+   **57 °C / 135 °F**. Se a água esfriar e parar de esticar, troque por água quente nova.
 
 ### Burrata
-**Coalhada de fior di latte 600 g (100%)** · **creme de leite fresco 200 g (33,33%)**
-*Formar*: água 3 kg · sal fino 150 g (5%) · *Guardar*: água 2 kg · sal 20 g (1%) ·
-lactato de cálcio 1,2 g (0,06%)
+**Coalhada de fior di latte 600 g (100%)** (dos **passos 1–12** da receita-mãe) ·
+**creme de leite fresco 200 g (33,33%)**
+*Formar*: água 3 kg aquecida a **88 °C / 190 °F** · sal fino 150 g (5%) ·
+*Guardar*: água 2 kg · sal 20 g (1%) · lactato de cálcio 1,2 g (0,06%)
 
 1. Combine **200 g da coalhada com o creme** numa tigela — esse é o recheio (*stracciatella*).
 2. Divida o recheio em **4 porções**.
@@ -279,11 +342,35 @@ lactato de cálcio 1,2 g (0,06%)
 
 ### As outras do capítulo
 **Cultured Fior di Latte** (fermentação bacteriana em vez de acidificação direta) ·
-**Charcoal Fior di Latte** · **Modernist Goat's Milk Mozzarella** ·
-**Modernist Buttermilk Mozzarella** · **Higher-Fat Fior di Latte** (para chegar perto da
-riqueza da búfala com leite de vaca) · **Paprika-Infused** e **Flavored Oil-Infused Fior di
-Latte** · **Ricotta with Added Fat** · **Fresh Goat Cheese Frankencheese** (técnica para fazer
-queijo que **não estica** — como o azul — esticar).
+**Modernist Fior di Latte** (**SHMP 0,5%** misturado na coalhada escorrida: retém mais umidade
+ao escorrer, derrete melhor e doura menos) · **Charcoal Fior di Latte** ·
+**Modernist Goat's Milk Mozzarella** · **Modernist Buttermilk Mozzarella** ·
+**Higher-Fat Fior di Latte** (~**11% de creme** no leite, levando a gordura a **6,6%**, para
+chegar perto da riqueza da búfala com leite de vaca) · as infundidas: **Herb-**, **Paprika-**,
+**Saffron-**, **Flavored Oil-** e **Vacuum-Infused Fior di Latte** ·
+**Ricotta with Added Fat**, **Goat's Milk Ricotta** e **Buttermilk Ricotta**.
+
+### Frankencheeses
+**Não é "fazer queijo que não estica esticar".** É **emulsionar o queijo de sabor COM pizza
+cheese** (mussarela de baixa umidade) para ficar com **o sabor de um e o derretimento do
+outro** — e assim poder pôr esse queijo antes de assar, não só depois. Emulsificante:
+**SHMP a 0,5%** ou **MDG a 2% + água**.
+
+| Frankencheese      | Sabor / pizza cheese | Emulsificante        | Guarda        |
+|--------------------|----------------------|----------------------|---------------|
+| Queijo de cabra    | **40 / 60**          | SHMP 0,5%            | 10 dias refr. |
+| Queijo azul        | **20 / 80**          | SHMP 0,5%            | 2 sem. refr.  |
+| Parmesão           | **50 / 50**          | MDG 2% + água 10%    | 2 sem. refr.  |
+
+Método (Thermomix ou mixer de mão): junte os dois queijos, polvilhe o emulsificante, aqueça
+devagar mexendo e **bata até ficar liso e homogêneo**; despeje numa forma de 11,5–12,5 cm,
+cubra com filme no contato e **gele pelo menos 3 h até firmar**; rale ou fatie para usar.
+Com SHMP a mistura fecha a **49–54 °C / 120–130 °F**; com MDG sobe para **63–65 °C /
+145–150 °F**.
+
+> Quanto mais suave o queijo, mais dele a mistura aguenta (Brie, Taleggio pedem proporção
+> alta; o azul já resolve com 20%). **Casca lavada não vale a pena**: o sabor se perde na
+> mussarela. O de cabra assou bem tanto a **454 °C / 850 °F** quanto a **315 °C / 600 °F**.
 
 ---
 

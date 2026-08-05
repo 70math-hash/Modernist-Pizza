@@ -79,28 +79,53 @@ durante o serviço** — você ganha um azeite aromatizado e adiciona os dois nu
 **O objetivo é tirar água** — concentra sabor e evita pizza mole. A perda de água na
 superfície, com calor, açúcar e proteína, gera **Maillard**.
 
-**Como fazer**: forno deck ou doméstico a **205 °C / 400 °F**, ou convecção a **190 °C /
+**São dois procedimentos separados, com temperaturas diferentes.** Fruta assa muito mais frio
+que legume — não use os 205 °C do legume para assar fruta.
+
+**Legume — p. 361**: forno deck ou doméstico a **205 °C / 400 °F**, ou convecção a **190 °C /
 375 °F com ventilador na velocidade baixa**. Corte, misture com azeite até cobrir, tempere.
 Assadeira antiaderente ou forrada com alumínio, **lado cortado para baixo**, camada única.
 **Não aglomere** — senão cozinha no vapor em vez de assar. Asse até cozinhar, esfrie, corte
 menor se assou inteiro.
+Legume aguenta temperatura mais alta que fruta. **Sempre cubra com azeite** — conduz o calor
+mais rápido **e** faz o tempero grudar. Se quiser mais douramento, suba a temperatura.
 
-**Ponto**: não dá para usar temperatura interna (o termômetro é grande demais). Encoste ou
-enfie um **espeto de madeira ou garfo** — nunca faca (afiada, entra em qualquer coisa,
-cozida ou não). Se entra e sai fácil, está pronto. Se não, mais 3–5 min e confira de novo.
+**Fruta — p. 360**: forno deck ou doméstico a **135 °C / 275 °F**, ou convecção a **120 °C /
+250 °F com ventilador na velocidade baixa**. Corte (pode temperar com especiarias e ervas
+antes). Assadeira forrada com alumínio **e uma grade (wire rack) por cima**; borrife a grade
+com um **véu de óleo** e disponha a fruta em **camada única**, sem aglomerar. Leve ao forno com
+o **registro aberto ou a porta entreaberta**, para a água evaporada escapar. Asse até ficar
+**apenas macia, não papa** (pode pegar cor nas bordas). **Esfrie sobre a grade.**
+Use fruta **madura** (mais sabor), não verde. Opcional: misture a fruta cortada com **20% do
+peso dela em açúcar**, deixe **30–45 min** na tigela, depois escorra num coador. Isso adoça
+levemente e puxa umidade, acelerando a assagem. Guarde o líquido adoçado para outros usos.
+
+> **Mas lembre**: fruta e legume vão ainda para o forno da pizza. Não doure a ponto de queimar
+> lá.
+
+**Ponto** (vale para os dois): não dá para usar temperatura interna (o termômetro é grande
+demais). Encoste ou enfie um **espeto de madeira ou garfo** — nunca faca (afiada, entra em
+qualquer coisa, cozida ou não). Se entra e sai fácil, está pronto. Se não, mais 3–5 min e
+confira de novo.
 
 **Guardar**: pote hermético, **3 dias refrigerado ou 3 meses congelado**. Refrigerado:
 aqueça levemente antes de usar. **Congelado: ao descongelar solta água — descongele num
 coador ou superfície perfurada** para a água escorrer.
 
-**Fruta**: use fruta **madura** (mais sabor), não verde. Opcional: misture a fruta cortada com
-**20% do peso dela em açúcar**, deixe **30–45 min** na tigela, depois escorra num coador. Isso
-adoça levemente e puxa umidade, acelerando a assagem. Guarde o líquido adoçado para outros usos.
-**Legume**: aguenta temperatura mais alta que fruta. **Sempre cubra com azeite** — conduz o
-calor mais rápido **e** faz o tempero grudar. Se quiser mais douramento, suba a temperatura.
-> **Mas lembre**: eles vão ainda para o forno da pizza. Não doure a ponto de queimar lá.
-
 ### Confit (submerso em gordura)
+São **três** métodos no livro, e o primeiro é a panela de pressão.
+
+**Na panela de pressão** (p. 366): corte em pedaços de tamanho e espessura parecidos. Encha um
+**frasco de conserva até dois terços** com o ingrediente e **complete com a gordura**. Feche a
+tampa **nem muito apertada, nem frouxa**. Ponha **2,5 cm / 1 in de água** na panela, um
+**trivet** dentro e o frasco sobre ele. **Ferva destampado** em fogo alto; quando ferver, feche
+a tampa com segurança e **baixe para fogo médio**. Leve a **1 bar / 15 psi (≈117 °C / 243 °F)**
+e cozinhe **1½ h**, ajustando o fogo para manter a pressão estável. **Esfrie por completo em
+temperatura ambiente antes de abrir**; tire os frascos e deixe chegar à temperatura ambiente.
+> Para **peças grandes de carne** que não cabem no frasco: pule os passos 1–5 e cubra a carne
+> com gordura **direto na panela** (pode precisar de mais gordura do que a que a própria carne
+> solta). Instant Pot: passos 1–7, modo Pressure Cook, **12 psi (High), 1 h**.
+
 **No forno baixo**: corte em pedaços de tamanho e espessura parecidos. Forno a **120 °C /
 250 °F** (convecção: ventilador desligado ou no mínimo). Hotel pan ou assadeira funda
 **cheia até dois terços** com o ingrediente. Cubra **completamente** com a gordura escolhida.
@@ -115,14 +140,54 @@ gordura** em pote hermético, refrigerado **até 3 meses**. Para usar: aqueça o
 quente e escorra a gordura.
 
 ### Vapor, escalfar, refogar, char, grelhar, fritar, sous vide
-Todos aparecem na tabela acima como opção. Frascos de conserva (canning jars) são uma
-alternativa prática para cozinhar no vapor.
+Todos aparecem na tabela acima como opção, e cada um tem procedimento próprio (p. 362–368).
+
+**Vapor**: ambiente fechado a **100 °C / 212 °F**. Panela com **1,25 cm / ½ in de água** e cesta
+de vapor por cima, tampada, fervura em fogo alto; ponha o ingrediente e **tampe na hora**.
+**Confira o ponto aos 5 min** e depois **a cada 2 min**. **Choque em banho de gelo** (água e
+gelo em **partes iguais**, suficiente para submergir tudo), escorra. Guarda **5 dias**
+refrigerado; aqueça levemente ou tempere algumas horas antes de usar.
+
+**Refogar (sauté)**: gordura em frigideira larga, **fogo médio-alto**; quando a gordura borbulha
+(ou o óleo está quase fumegando), entra o ingrediente e mistura para cobrir. **Baixe para médio
+se os pedaços forem grossos**; nos finos mantenha o médio-alto. **Mexa a cada 2–3 min** com
+colher de pau ou espátula de silicone — não deixe sozinho. Se começar a carbonizar em pontos
+sem cozinhar por igual, **junte um pouco de água** e siga. Tire do fogo quando estiver bem
+dourado e macio, esfrie. Guarda **5 dias** refrigerado. Folhosas vão **empilhadas** na panela
+(perdem muito volume) e devem ser temperadas **no fim**, senão você sala demais.
+
+**Escalfar (poach)**: submerso em líquido **logo abaixo da fervura, 60–82 °C / 140–180 °F**.
+O líquido tem que ser **muito saboroso**. Ferver ou fervilhar é mais rápido, mas agressivo
+demais para fruta e legume delicados.
+
+**Char**: queimar de leve a superfície **sem necessariamente cozinhar por dentro** — maçarico,
+salamandra, broiler ou chama de gás. Grade sobre assadeira, ingrediente em cima, calor por
+cima. Para pimentão, depois de carbonizar, tampe a tigela com filme: a pele solta sozinha.
+
+**Fritura rasa**: mesmos passos do refogado, mas com óleo subindo de **1/3 até a metade** da
+altura do ingrediente, a **175 °C / 350 °F** (confira a recuperação da temperatura entre
+levas). Doure de um lado, vire, doure o outro, escorra em papel-toalha. **Não aglomere.**
+
+**Fritura profunda**: **175–190 °C / 350–375 °F** para a maioria; **não passe de 190–200 °C /
+375–390 °F**, senão a superfície queima antes de o interior cozinhar. O procedimento do livro
+pré-aquece a **175 °C / 350 °F**. Frito vai **depois de assar** (assado junto, murcha) — e como
+não tem nada prendendo, posicione para a fatia dobrada segurar.
+
+**Sous vide**: banho ou combi **1–2 °C / 2–3 °F acima da temperatura-alvo do núcleo**;
+**pré-aquecimento de 15–30 min** antes de o alimento entrar. Pedaços de espessura parecida.
+Saco de vácuo, zip ou **frasco de conserva** — no combi dá para usar panela aberta, sem
+embalagem. Regra grossa: **dobrar a espessura quadruplica o tempo**. Sele depois, se quiser.
+Guarda **5 dias** refrigerado.
 
 ### Caramelizar sob pressão
 Método desenvolvido no *Modernist Cuisine*: **bicarbonato acelera a caramelização**. A
-alcalinidade do bicarbonato combinada com o calor de **120 °C / 250 °F** dentro da panela de
-pressão intensifica a caramelização dos açúcares (do próprio alimento e do açúcar adicionado)
-e concentra os sabores.
+alcalinidade do bicarbonato combinada com o acúmulo de calor dentro da panela de pressão
+intensifica a caramelização dos açúcares (do próprio alimento e do açúcar adicionado) e
+concentra os sabores.
+
+> **Cuidado com o número.** Os **120 °C / 250 °F** aparecem só na prosa explicativa do livro.
+> **O procedimento manda trabalhar a 1 bar / 15 psi, cerca de 117 °C / 243 °F** — é esse o
+> valor que você regula na panela.
 
 **Fórmula base**: ingrediente principal **200 g (100%)** · manteiga derretida **60 g (30%)** ·
 açúcar **40 g (20%)** · bicarbonato de sódio **1 g (0,5%)**
@@ -131,7 +196,13 @@ açúcar **40 g (20%)** · bicarbonato de sódio **1 g (0,5%)**
 2. Coloque em **frascos de conserva**; feche as tampas — **nem muito apertadas, nem frouxas**.
 3. Trivet dentro da panela de pressão; frascos sobre o trivet.
 4. Água na panela até **metade da altura dos frascos**.
-5. Pressurize.
+5. **Ferva brandamente em fogo alto com a panela DESTAMPADA.**
+6. Quando ferver, **feche a tampa** com segurança.
+7. Leve a **1 bar / 15 psi (≈117 °C / 243 °F)** dentro da panela.
+8. **Cozinhe 1 h**, ajustando o fogo para manter a pressão estável.
+9. **Esfrie a panela por completo em temperatura ambiente antes de abrir.** Tire os frascos e
+   deixe chegar à temperatura ambiente.
+10. Pronto para a pizza. **Guarda até 3 meses refrigerado.**
 
 > **Sobrepressurizar não deixa mais quente** — só faz a válvula de segurança soltar vapor, e
 > a água volta a ferver. Sobrepressurizar repetidamente **arruína o flange e a vedação**.
@@ -156,14 +227,31 @@ sal fino **7 g (0,88%)**
 3. Transfira para água com gelo e agite para tirar o amido (ou lave em água corrente).
 4. Espalhe numa assadeira forrada com panos ou papel-toalha e **seque batendo**.
 5. Numa tigela, junte a manteiga e o sal e misture até cobrir tudo.
-6. Frigideira antiaderente de **25 cm que possa ir ao forno**, fogo médio-alto.
+6. Frigideira antiaderente de **25 cm / 10 in que possa ir ao forno**, fogo médio-alto.
 7. Quente, adicione a batata **compactando com espátula** num disco do tamanho da frigideira.
-8. Fogo médio-alto até as tiras começarem a grudar entre si e dourar embaixo, **~5 min**;
-   vire e termine no forno.
+8. Fogo médio-alto até as tiras começarem a grudar entre si e pegar cor embaixo, **~5 min**.
+9. **Leve a frigideira inteira ao forno** e asse até o topo dourar levemente: **~10 min em
+   convecção** ou **~15 min em forno doméstico**.
+10. **Só então** vire o rösti rápido e com cuidado sobre um **prato SEM aba** e deslize de volta
+    para a frigideira quente.
+11. Asse até dourar e cozinhar por completo: **~15 min em convecção** ou **~20 min em forno
+    doméstico**.
+12. Esfrie sobre **grade**.
+13. Recrocantize e reaqueça **5–7 min a 190 °C / 375 °F em convecção** ou **205 °C / 400 °F em
+    forno doméstico**.
+14. Corte no **mesmo número de fatias da pizza** e ponha uma cunha sobre cada fatia.
+
+Tempo: 25 min ativos / 40–45 min inativos.
 
 > **Espessura uniforme é o que faz funcionar** — o comprimento importa menos.
 > Este tamanho é para pizza de 30 cm (não queremos cobrir a borda). Para maior, use uma
 > frigideira maior — mas virar fica mais complicado.
+> **(?) Divergência do livro**: a frigideira indicada é de **25 cm / 10 in** e o texto manda
+> usar em **pizza de 30 cm**, mas o campo YIELD da ficha declara **"one 20 cm / 8 in disc"**.
+> Os três números não fecham; siga a frigideira de 25 cm, que é o que o procedimento usa.
+
+**Opção extra-crocante**: corte o rösti no número de fatias da pizza e **frite a 175 °C / 350 °F
+por 2–3 min**, escorra em papel-toalha e ponha uma sobre cada fatia recém-assada.
 
 ### Frico (chips de queijo)
 Queijo duro **finamente ralado** — Parmigiano-Reggiano, Grana Padano, Asiago ou gouda
@@ -195,6 +283,13 @@ pimenta calabresa em flocos **2 g (0,2%)** · pimenta-do-reino grosseiramente mo
 5. Numa tigela, combine sal, açúcar, páprica, manjericão, orégano, erva-doce, coentro,
    calabresa e pimenta-do-reino.
 6. Incorpore a água gelada.
+7. **Incorpore essa mistura na *forcemeat*.**
+8. Passe a *forcemeat* para a **batedeira planetária com raquete** e misture em **velocidade
+   baixa por 2–3 min**, até água e temperos ficarem distribuídos por igual.
+9. **Refrigere pelo menos 1 h antes de usar.**
+10. Guarda **até 1 semana refrigerada** e **até 3 meses congelada**.
+
+Rendimento **1,8 kg**. Tempo: 15–20 min ativos / 2 h inativos.
 
 > Feita **solta**, que é como se usa em pizza. Dá para embutir, mas aí exige muito mais
 > técnica: você teria que pré-cozinhar e fatiar antes de pôr na pizza.
@@ -219,9 +314,14 @@ expostos ao assar** — para evitar, **cubra com um queijo que derrete** (tipo m
 | Linguiça italiana (picante ou suave) | **Cozinhe antes**, exceto se em pedaços muito pequenos |
 | Pepperoni | Fatie fino |
 | Salame | Fatie fino · ou fino e em julienne |
-| Salsicha | Inteira (se do tamanho de salsicha Viena) · ou em pedaços de 1 cm |
+| Hot dog / salsicha | Inteiro (se do tamanho de salsicha Viena) · ou em pedaços de 1 cm |
 | Spam | Fatie em discos · ou grosso em bastões, renderizando a gordura |
-| Presunto cozido (não curado) | Fatie fino · ou em cubos de 6 mm · ou fino e em julienne |
+| Presunto cozido (não curado)\* | Fatie fino · ou em cubos de 6 mm · ou fino e em julienne |
+
+\* **Presunto cozido de qualidade muito alta vai DEPOIS de assar** (nota de rodapé do livro).
+
+> Fatiado em discos e assado, o **hot dog encaracola como o pepperoni** — a tripa é a mesma
+> história (ver abaixo).
 
 ### Depois de assar
 | Carne | Como preparar |
@@ -230,6 +330,15 @@ expostos ao assar** — para evitar, **cubra com um queijo que derrete** (tipo m
 | Mortadela | Fatie fino · ou fino e **desfie à mão** |
 | Coppa, presunto de peito de pato, speck, bresaola, lardo | Fatie fino |
 | Pastrami | Fatie fino · ou fino e em julienne |
+
+### Antes **ou** depois de assar
+Terceira categoria da tabela do livro — a mesma carne serve nos dois momentos, mudando só o
+quanto você renderiza.
+
+| Carne | Como preparar |
+|---|---|
+| **Bacon fatiado** | Inteiro, em quadradinhos, lardons ou julienne. **Antes: renderize a gordura pela metade. Depois: renderize por completo e deixe crocante** no forno ou na frigideira |
+| **Tasso ham, chouriço espanhol curado** | Fatie fino · ou fino e desfie à mão · ou fino e em julienne |
 
 ---
 

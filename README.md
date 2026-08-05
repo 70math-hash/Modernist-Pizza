@@ -34,10 +34,19 @@ Ou deixe no repositório e trabalhe a partir daqui — o Claude Code carrega
 │   ├── 09-estilos.md                 o que define estilo, qualidade, teste triangular
 │   ├── 10-diagnostico.md             sintoma → causa → correção
 │   ├── 11-submasters-e-variacoes.md  os ~30 sub-mestres com fórmula fechada
-│   ├── 12-tabelas-de-variacao.md     as 10 tabelas de variação sobre qualquer mestre
+│   ├── 12-tabelas-de-variacao.md     as 10 grades de variação, com fórmula por estilo
 │   ├── 13-levain.md                  construir, alimentar, guardar, desidratar, ressuscitar
-│   ├── 14-preparo-de-coberturas.md   cru ou cozido, assar, confitar, caramelizar sob pressão
-│   └── 15-molhos-brancos-e-...md     molhos não-tomate, emulsões, queijos caseiros
+│   ├── 14-preparo-de-coberturas.md   cru ou cozido, rösti, frico, linguiça, confit
+│   ├── 15-molhos-brancos-e-...md     espessantes e o mapa das famílias de molho e queijo
+│   ├── 16-planejamento-e-producao.md cronograma, escala, gargalo de forno, evento
+│   ├── 17-batedeiras-e-tempos-...md  tempos de mistura por massa e por batedeira, carga
+│   ├── 18-calculo-e-escalonamento.md net contents, DDW, RCF, peso de bola
+│   ├── 19-molho-de-tomate-avancado.md consistência, correção de sabor, receitas, lata
+│   ├── 20-molhos-brancos-cremes-...md creme, béchamel sem roux, emulsões, caldos
+│   ├── 21-queijo-compra-e-operacao.md comprar, ralar, conservar, congelar, vegano
+│   ├── 22-mussarela-e-queijos-cas.md idade da mussarela, esticar, fior di latte, burrata
+│   ├── 23-coberturas-tecnicas-e-...md payload por tamanho, pré-cocção, carnes, azeite
+│   └── 24-massas-sem-gluten.md       as 7 massas sem glúten fechadas
 └── scripts/
     ├── massa.py                      calculadora (escalona, converte, monta poolish)
     └── massas.json                   as 10 fórmulas + gramagens de molho e queijo
@@ -81,15 +90,19 @@ argentina. Todas em `references/11-submasters-e-variacoes.md`, com fórmula fech
 
 ## Confiabilidade dos números
 
-O volume 2 foi extraído do texto digital do PDF: os números são fiéis. O volume 1 é um PDF
+O volume 2 foi extraído do texto digital do PDF: os números são fiéis, e é dele que vêm as
+fórmulas, os tempos de mistura, as gramagens e as grades de variação. O volume 1 é um PDF
 escaneado e passou por OCR, então as tabelas numéricas vindas dele (especificação de farinhas,
-gramagens por estilo das tabelas de variação) têm risco de dígito trocado. As regras e os
-percentuais são a parte confiável — se um número parecer fora de escala, recalcule pelo
+conversão de fermento, física de forno) têm risco de dígito trocado. As regras e os percentuais
+são a parte confiável — se um número do volume 1 parecer fora de escala, recalcule pelo
 percentual.
+
+Quando o próprio livro se contradiz — e ele se contradiz, entre a ficha de uma receita e o
+quadro geral do capítulo — a skill publica **o valor da ficha** e registra a outra leitura numa
+nota. Nenhum parâmetro aparece com dois valores diferentes sem aviso.
 
 ## O que não está aqui
 
 O capítulo de história (vol. 1, cap. 1), o panorama mundial em profundidade (vol. 1, cap. 2),
-o capítulo de pesquisa de campo (vol. 1, cap. 3, que inclui São Paulo e Buenos Aires), as 8
-receitas individuais de massa sem glúten — o blend e as regras estão em
-`12-tabelas-de-variacao.md` — e o volume 3 inteiro.
+o capítulo de pesquisa de campo (vol. 1, cap. 3, que inclui São Paulo e Buenos Aires) e o
+volume 3 inteiro.

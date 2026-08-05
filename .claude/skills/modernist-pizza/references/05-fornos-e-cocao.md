@@ -172,6 +172,19 @@ emissividade diferente:
 | Deep-dish | 250 °C / 485 °F | 27 min | 180 g / 445 g (**aplicado após assar**) |
 | Focaccia | 245 °C / 475 °F | 12–15 min | 350 g |
 
+> **Ambiguidade da napolitana — o livro dá dois números.** A ficha de receita (tabela de
+> gramagem do cap. de molho) diz **425–480 °C / 800–900 °F**, e é ela que manda nesta tabela.
+> O capítulo de massas (p. 86) diz que a napolitana tradicional assa em forno a lenha a
+> **450–480 °C / 840–900 °F** — é esse o número que `09-estilos.md` carrega. Não é contradição
+> frontal (450–480 cabe dentro de 425–480), mas são duas faixas publicadas para a mesma coisa.
+> **Na dúvida, siga a ficha de receita: 425–480 °C.**
+
+> **Faixa geral do quadro "Some Like It Hot" (p. 405)**: depois de dar 425–480 °C para a
+> napolitana, o livro generaliza — *"assamos os outros estilos numa faixa mais modesta de
+> 245–285 °C / 475–550 °F"*. Ou seja: os **315 °C** que as fichas de New York e de al taglio
+> pedem ficam **fora** dessa faixa geral. A prosa é um resumo grosso; **quem manda é a ficha
+> de receita** de cada estilo.
+
 Faixas do capítulo de fornos (com o forno recomendado):
 napolitana 455–480 °C · New York 290–315 °C · artisan 250–315 °C · al taglio 250–315 °C ·
 thin-crust e brasileira 250–285 °C · deep-dish 250–290 °C · Detroit 250–275 °C ·
@@ -294,10 +307,11 @@ o volume. Ventilador na velocidade **mínima**. Pré-aqueça **30–35 °C acima
 alvo, com aço ou pedra dentro. Convecção forçada aumenta o coeficiente de transferência de
 calor em 10× ou mais — corta até 35% do tempo, dependendo do alimento.
 
-**Forno doméstico** — o mais problemático. Máximo típico 260–290 °C. Paredes finas, pouca
-massa térmica, sensor barato e impreciso (especialmente no topo da faixa), janela de vidro
-que irradia muito menos que as paredes, cantos de trás bem mais quentes, e a porta aberta
-remove uma parede inteira. **Napolitana é impossível.**
+**Forno doméstico** — o mais problemático. Máximo típico **275–285 °C / 525–550 °F** — vá na
+temperatura mais alta que o seu alcançar. Paredes finas, pouca massa térmica, sensor barato e
+impreciso (especialmente no topo da faixa), janela de vidro que irradia muito menos que as
+paredes, cantos de trás bem mais quentes, e a porta aberta remove uma parede inteira.
+**Napolitana é impossível** — o forno não chega às temperaturas que o estilo exige.
 O que realmente importa ao comprar: **potência (W ou BTU/h)**, **massa térmica** e
 **isolamento** — não sonda embutida, presets ou timers. Estabilidade e repetibilidade da
 temperatura importam mais que a precisão absoluta.
@@ -336,8 +350,14 @@ assar o fundo da pizza**. É preciso um reservatório de calor.
 **Aço > pedra.** A condutividade térmica do aço é **mais de 5×** maior que a da pedra; ele
 entrega o calor mais rápido. O melhor resultado: **placa escura (não brilhante) de aço de
 12 mm**, pesadíssima. **Aço de 10 mm** funciona muito bem e é bem mais manejável. Alternativa:
-**alumínio de 2,5 cm**. Pedra é mais leve, existe em tamanhos maiores e é mais barata — mas
-não retém tão bem.
+**alumínio de 2,5 cm**.
+
+**Pedra é o segundo melhor, não um equivalente.** Ela é mais leve, existe em tamanhos maiores
+e é mais barata, mas **não retém calor tão bem** quanto o aço. E o veredito do Vol. 2 é mais
+duro que isso: tentar imitar o piso de um forno de pizza com uma pedra não funciona bem —
+*"mesmo sendo o mesmo material, usar uma pedra de forno não melhora grande coisa o desempenho
+de um forno que não é de pizza"*, porque a pedra do forno de pizza é **muito mais grossa** e
+fica **muito mais quente**. Use pedra quando não houver aço, não como escolha equivalente.
 
 - **Dois aços empilhados** durante o pré-aquecimento: melhor crosta e permite assar em
   sequência sem o aço esfriar. Ou separados, para assar duas pizzas ao mesmo tempo. Cuidado
@@ -453,10 +473,14 @@ na metade. Montar e finalizar 1–2 min a 285 °C ou sob o broiler, ou com heat 
 
 ## Pré-assar e par-assar
 
-- **Par-assar (parbake)** = assar ~90% e terminar depois. Boa para **congelar** thin-crust e
-  médias, e para catering (assar 2/3 a 3/4 e finalizar no local). Ao congelar pizza
-  par-assada com molho: **coloque o queijo só na hora de finalizar** (assar queijo duas vezes
-  altera a reologia de derretimento). Pode assar direto do congelado.
+- **Par-assar (parbake)** = assar parcialmente e terminar depois. Os **~90%** que circulam por
+  aí são a definição da **indústria de pão** (assar até ~90%, esfriar, terminar depois) — é de
+  lá que o termo vem, e é a baguete pálida do supermercado. **Para pizza o livro dá um único
+  número: 2/3 a 3/4**, e ele vale para os dois casos — **pizza congelada** e **catering**
+  (par-assar 2/3 a 3/4, congelar, finalizar no local). Funciona bem em thin-crust e médias,
+  especialmente se for congelar. Ao congelar pizza par-assada com molho: **coloque o queijo só
+  na hora de finalizar** (assar queijo duas vezes altera a reologia de derretimento). Pode
+  assar direto do congelado.
 - **Pré-assar (prebake)** = assar completamente e reaquecer depois. É o processo **padrão** de
   NY square, al taglio e pizza gourmet. **Elimina a gum line.** Pode ser feito também na
   Detroit (não é necessário — a Detroit não faz gum line) e na deep-dish (onde ajuda, embora
@@ -469,8 +493,11 @@ aços/pedras empilhados 1 h antes; corte as pizzas, devolva às formas, e desliz
 sobre o aço — **5–7 min** para reaquecer e recrocantizar o fundo. Na Detroit, o molho quente
 vai por cima de cada fatia depois. No al taglio, coberturas sensíveis (rúcula, gorgonzola,
 tapenade) só depois de assar.
-> **Napolitana é uma péssima ideia para eventos** — só serve um convidado por vez, exige
-> forno especial e altíssima habilidade, e não segura mais que alguns minutos.
+> **Napolitana e artisan são péssimas ideias para eventos** — o livro veta os **dois** estilos
+> pelos mesmos motivos: só servem um convidado por vez, exigem forno especial e altíssima
+> habilidade, e não seguram mais que alguns minutos (têm de sair *à la minute* na frente do
+> convidado). New York grande alimenta várias pessoas e reaquece bem — é opção, mas o livro
+> não a considera a melhor solução; a melhor continua sendo NY square, Detroit ou al taglio.
 
 ---
 

@@ -70,7 +70,11 @@ hidratação isso não acontece.
 
 ## Temperatura final da massa (DDT)
 
-- Alvo: **24–25 °C / 75–78 °F** ao sair da batedeira (tolerância ±3–4 °C).
+- Alvo: **24 °C / 75 °F a 25,5 °C / 78 °F** ao sair da batedeira (p. 83); tolerância
+  ±3–4 °C / 5–7 °F. A p. 32 escreve "24–25 °C / 75–78 °F", par que não fecha
+  (25 °C = 77 °F) — siga o da p. 83.
+- Exceção declarada em ficha: a napolitana-mestre quer **27 °C / 80 °F** ao chegar ao glúten
+  total (p. 125; ver 01-formulas-massas.md). A al taglio quer sair entre **18 e 24 °C**.
 - Ingredientes idealmente a ~21 °C.
 - Massa acima de **27 °C / 80 °F** hidrata e fermenta rápido demais: afeta o sabor e
   fica difícil de manusear.
@@ -113,8 +117,11 @@ Regras que **realmente** importam:
 - Inclusões sólidas (nozes, grãos, farelo) ⇒ só a **glúten médio**, em velocidade baixa,
   1–2 min, até serem envelopadas pela massa. Inclusão de aresta viva (amêndoa laminada)
   rasga a massa.
-- Gordura: adicionar depois de a massa ter pelo menos glúten baixo; despejar em fio,
-  **na direção do centro** da massa, para não espirrar.
+- Gordura **líquida**: adicionar depois de a massa ter pelo menos glúten baixo; despejar em
+  fio, **na direção do centro** da massa, para não espirrar.
+- Gordura **sólida**: entra antes, na **massa esfarrapada** — legenda de foto da deep-dish,
+  "add solid fat at shaggy mass" (banha + manteiga), e metade do ghee na 30% Fat Brazilian
+  (a outra metade depois de incorporada, até glúten total).
 
 ---
 
@@ -127,28 +134,33 @@ as pizzas assadas em 3D (3 por batedeira por massa).
 **Resultado: a batedeira não faz diferença.** Todas atingiram glúten total, todas deram
 massa equivalente ao extensógrafo, todas fizeram napolitana de alta qualidade.
 
-**A única exceção real**: a **batedeira de garfo falha acima de 72% de hidratação**
-(artisan, focaccia, NY square, al taglio). Também não pega bem lotes pequenos nem grandes demais.
+**A única exceção real**: a batedeira de garfo **falha a partir de 72% de hidratação**. O
+resultado medido diz "72% *or higher*" e inclui a artisan, que tem exatamente 72% (as outras
+que falharam: focaccia, NY square, al taglio). A recomendação no fim do mesmo boxe diz
+"mais de 72%" — o número medido é o que vale. Também não pega bem lotes pequenos nem
+grandes demais, e demora muito com massa de alta hidratação.
+
+> Ressalva das fichas: apesar do experimento, as receitas **dão bloco de mistura em garfo**,
+> com tempos completos, para artisan (72%), focaccia (87,27% net) e NY square (74,68%).
+> A única mestre sem opção de garfo é a **al taglio** (79,73%) — e a pizza alla pala, que
+> herda o bloco de mistura dela.
 
 | Tipo | Capacidade | Notas |
 |---|---|---|
 | Planetária de bancada (stand) | 1–2 kg | Casa e produção pequena. Motor fraco para massa seca. |
 | Planetária comercial | 3–8 kg | Cavalo de batalha de pizzaria. Gera bastante atrito/calor. Tigela removível (fácil de limpar). |
-| **Espiral** | ≥8 kg (bacia de 36 L: mín. 8 kg, máx. 15 kg) | A mais eficiente. Gancho **e** bacia giram. Mistura rápido **sem esquentar**. Difícil de limpar (bacia fixa). Recomendada para pizzaria. |
-| Diving arm / twin-arm | mín. 2,5–8 kg | Muito suave, quase não esquenta, mas **muito** lenta. Ótima para inclusões. |
-| Garfo (fork) | 4–240 kg | O mixer que a AVPN e muitos napolitanos recomendam. **Falha acima de 72% hidratação.** |
-| Processador (Robot Coupe) | ~1 kg doméstico, até 30 kg industrial | 45 s a 2 min até glúten total. Crosta mais dura, miolo fechado. Não serve para alta hidratação. Começar com água fria. |
+| **Espiral** | bancada a partir de **1 kg**; menor de piso a partir de **3,5 kg**; a do livro (bacia 36 L / 38 qt) mistura de 8 a 15 kg; modelos grandes vão a centenas de kg | A mais eficiente. Gancho **e** bacia giram. Mistura rápido **sem esquentar**. Difícil de limpar (bacia fixa). Recomendada para pizzaria — inclusive pequena, pelos modelos de bancada. |
+| Diving arm / twin-arm | modelos pequenos a partir de **2,5 kg**; os mais comuns, mín. 8 kg; nas fichas, bacia de 6 qt = **3 kg máx.**; industriais: varia | Muito suave, quase não esquenta, mas **muito** lenta. Ótima para inclusões. |
+| Garfo (fork) | 4–240 kg | O mixer que a AVPN e muitos napolitanos recomendam. **Falha a partir de 72% hidratação.** |
+| Processador (Robot Coupe) | bacia 12–16 cup: **1 kg** · Robot Coupe 2–3 qt: **1,2 kg** · industrial: ~30 kg (p. 46; as fichas só dizem "varia") | 45 s a 2 min até glúten total. Crosta mais dura, miolo fechado. Não serve para alta hidratação. Começar com água fria. |
 
 **Regra de carga**: encha a tigela no máximo até a metade. Pouca massa → o gancho gira
 no vazio. Muita massa → sobe pelo gancho, não desenvolve, gera calor e desgasta o motor.
-
-| Tigela | Quantidade de massa |
-|---|---|
-| Stand 3,8–4,7 L (4–5 qt) | 1–1,5 kg |
-| Stand 5,7–7,6 L (6–8 qt) | 1,5–2 kg (1,5 kg máx. para massa dura como a brasileira) |
-| Planetária 11,4 L (12 qt) | 3–6 kg |
-| Planetária 18,9 L (20 qt) | 6–8 kg |
-| Espiral / diving / garfo | depende da bacia |
+Cada bacia tem **mínimo e máximo**, e as fichas de receita dão multiplicador por bacia:
+tabela completa em `17-batedeiras-e-tempos-de-mistura.md`. Em resumo: bancada 4,5 qt
+**1–1,25 kg máx.**; bancada 8 qt **1,5–1,75 kg máx.** (1,5 kg para massa dura como a
+brasileira); planetária 12 qt **mín. 2,5–3 kg / máx. 4–6 kg**; planetária 20 qt **6–8 kg**
+(a p. 45 dá 4–8 kg).
 
 ---
 
@@ -191,7 +203,8 @@ dividir e bolear, fermentar 3–4 h a 21 °C (ou 4,5–5,5 h para NY). Opcional:
 - **Quantidade na tigela** — demais aumenta atrito; de menos não mistura.
 - **Tipo de farinha** — farinha forte demora mais; farinha fraca mistura rápido e quebra rápido; farelo rasga; centeio absorve mais água.
 - **Água** — alta hidratação demora muito; hidratação baixa emperra a máquina (usar vel. mínima e/ou raquete em vez de gancho).
-- **Gordura** — retarda a formação de glúten (recobre as fitas). Adicionar depois do glúten baixo.
+- **Gordura** — retarda a formação de glúten (recobre as fitas). Líquida: depois do glúten
+  baixo. Sólida: na massa esfarrapada.
 - **Inclusões** — só a glúten médio.
 
 ---

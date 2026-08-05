@@ -162,21 +162,35 @@ def escalar(k, fator, peso_bola=None, n_bolas=None, tamanho=None):
     print()
 
 
+# Capacidades das fichas de receita do vol. 2 (as fichas mandam sobre o quadro geral).
+# Batelada minima de batedeira de bancada: 800 g.
+SEM_GARFO = {"al-taglio"}        # unica mestre sem bloco de mistura em garfo
+SEM_PROCESSADOR = {"artisan", "focaccia", "ny-square", "al-taglio"}
+
+
 def aviso_mixer(total_g):
     kg = total_g / 1000
     print("\nBATEDEIRA (encha no maximo ate a metade da tigela)")
-    if kg <= 1.25:
-        print(f"  {kg:.2f} kg — cabe numa planetaria de bancada 4-5 qt.")
-    elif kg <= 2:
-        print(f"  {kg:.2f} kg — planetaria de bancada 6-8 qt (max. 1,5 kg se a massa for dura).")
+    if kg < 0.8:
+        print(f"  {kg:.2f} kg — ABAIXO do minimo de 800 g de uma batedeira de bancada.")
+        print("  Faca 800 g, use o que precisa e guarde ou congele o resto.")
+    elif kg <= 1.25:
+        print(f"  {kg:.2f} kg — bancada, bacia 4,5 qt (max. 1,25 kg).")
+    elif kg <= 1.75:
+        print(f"  {kg:.2f} kg — bancada, bacia 8 qt (max. 1,75 kg).")
+    elif kg < 4:
+        print(f"  {kg:.2f} kg — diving arm 6 qt (max. 3 kg), ou planetaria 12 qt pelo")
+        print("  quadro da p. 34 (min. 3 kg). As fichas de receita pedem 4 kg na de 12 qt.")
     elif kg <= 6:
-        print(f"  {kg:.2f} kg — planetaria comercial 12 qt.")
+        print(f"  {kg:.2f} kg — planetaria comercial 12 qt (4-6 kg).")
     elif kg <= 8:
-        print(f"  {kg:.2f} kg — planetaria comercial 20 qt, ou espiral.")
+        print(f"  {kg:.2f} kg — planetaria comercial 20 qt (6-8 kg), ou espiral.")
     else:
-        print(f"  {kg:.2f} kg — espiral, diving arm ou garfo.")
-    if MASSA_ATUAL and MASSAS[MASSA_ATUAL]["net"]["agua_pct"] > 72:
-        print("  AVISO: hidratacao > 72% — a batedeira de GARFO falha nesta massa.")
+        print(f"  {kg:.2f} kg — espiral, diving arm ou garfo (min. recomendado 8 kg).")
+    if MASSA_ATUAL in SEM_GARFO:
+        print("  AVISO: esta e a unica mestre SEM bloco de mistura em garfo no livro.")
+    if MASSA_ATUAL in SEM_PROCESSADOR:
+        print("  AVISO: sem opcao de processador — a lamina nao pega massa mole.")
 
 
 MASSA_ATUAL = None

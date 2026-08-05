@@ -26,11 +26,23 @@ definido pelo **tempo e pela temperatura de assagem**.
 
 - **Napolitana** — o molho **mais aguado** do livro. Assa a 425–480 °C em 60–90 s; a água
   evapora em segundos. Um molho grosso **queimaria**.
-- **New York** — molho **mais grosso**, menos água. Assa a 285–315 °C por 5–6 min. Molho
-  aguado aqui ⇒ pizza gomosa com poça no meio.
-- **Al taglio** — molho denso, quase pasta de tomate.
+- **New York** — molho **mais grosso**, menos água. Molho aguado aqui ⇒ pizza gomosa com poça
+  no meio. **Atenção aos pares de tempo e temperatura**: o livro dá dois, de lugares
+  diferentes, e eles **não se misturam**. O texto (p. 204) usa **285 °C / 550 °F por 5–6 min**;
+  a tabela de gramagem (p. 208), que é a que o cartão rápido do `SKILL.md` segue, usa
+  **315 °C / 600 °F por 4–5 min**. Use **um par inteiro**, nunca "285–315 °C por 5–6 min".
+- **Al taglio** — molho denso: **purê de tomate grosso, sem semente, 100% + 1% de sal**, só
+  misturado no fouet até o sal dissolver. **Não é extrato nem chega perto disso** — extrato
+  tem no mínimo 24% de sólidos solúveis, purê não. O livro gosta da marca **Sclafani**.
 
-**Não são intercambiáveis.**
+**Não são intercambiáveis** — com uma exceção medida. O molho napolitano **sem aditivo** é
+solto demais para as condições de New York, mas o **Modernist Neapolitan Pizza Tomato Sauce**,
+engrossado com **0,1% de xantana**, funciona nos dois estilos: a alta **pseudoplasticidade** da
+xantana dá um aumento quase instantâneo de viscosidade, que melhora a transferência de calor,
+e isso abre uma faixa térmica que cobre **450 °C / 840 °F e 315 °C / 600 °F**.
+**A ressalva do livro é de sabor, não de física**: o New York / Artisan tem sabor de tomate
+cozido bem mais profundo, com óleo de anchova, alho, orégano, cebola e folha de tomate ou
+manjericão. Um molho só para dois estilos é conveniente, mas apaga o que distingue cada um.
 
 **Temperatura de aplicação**: nunca aplique molho **frio** sobre a massa. Isso derruba a
 temperatura da massa, aumenta o tempo de assagem e pode contribuir para a gum line.
@@ -107,8 +119,13 @@ a **consistência**.
 
 **Teste de molho novo sem gastar pizza**: asse a quantidade de molho que você usaria numa
 forma do mesmo diâmetro da pizza. Você vê exatamente quanta evaporação vai acontecer.
-Depois ajuste: diluir com água/leite/creme, engrossar com xantana ou amido, ou passar na
+Depois ajuste: diluir com água/leite/creme, **engrossar com xantana**, ou passar na
 peneira (textura mais sedosa).
+
+> **Não engrosse molho de pizza com amido.** O livro testou amidos, pectina e hidrocoloides:
+> quase todos engrossaram, mas deixaram o molho **excessivamente gomoso depois de assado**,
+> mesmo em quantidade pequena. A **única exceção aprovada foi goma xantana a 0,1%**.
+> Detalhe dos testes e das doses em `19-molho-de-tomate-avancado.md`.
 
 **Como engrossar molho fino com xantana**: despeje 1/4 do molho numa tigela, polvilhe a
 xantana **devagar** enquanto bate com mixer de mão, depois incorpore o resto do molho com
@@ -139,8 +156,9 @@ membrana gelatinosa que envolve as sementes. Quanto mais grossa a polpa, menos s
 
 ### San Marzano: a verdade
 San Marzano é uma **variedade**, cultivada em muitos lugares do mundo. O que é regulado é o
-**DOP** — cultivo na área do Agro Sarnese-Nocerino (~155 km²), colheita à mão, regras em cada
-etapa. O rótulo tem que dizer *"Pomodoro S. Marzano dell'Agro Sarnese-Nocerino"* **e** trazer
+**DOP** — cultivo na área do Agro Sarnese-Nocerino (o livro diz **"cerca de 60 milhas
+quadradas"**, ≈155 km²; cite as 60 milhas, o livro não deu mais precisão que isso), colheita
+à mão, regras em cada etapa. O rótulo tem que dizer *"Pomodoro S. Marzano dell'Agro Sarnese-Nocerino"* **e** trazer
 o selo DOP vermelho-amarelo; sem os selos, não é DOP.
 
 É **legal** dizer "produzido na Itália" mesmo com tomate cultivado em outro lugar, desde que a
@@ -182,8 +200,17 @@ plástica; se não gostar, passe no moinho).
 Se a lata não tem sal, adicione **~1% do peso total do conteúdo**. Sempre prove antes.
 
 ### Tamanhos de lata (EUA)
-#300 = 400 g / 14 oz · #2,5 = 800–820 g / 28 oz · #10 = 2,89–3 kg / 102–106 oz.
-Extrato: 170 g / 6 oz e lata #10.
+**"Lata #10" não é um peso só — são três, conforme o produto.** #300 e #2,5 são iguais para
+todos; o #10 muda.
+
+| Produto | #300 | #2,5 | #10 | Extra |
+|---|---|---|---|---|
+| Inteiro pelado · cubos · triturado · purê | 400 g / 14 oz | 800–820 g / 28 oz | **2,89–3 kg / 102–106 oz** | — |
+| Molho de tomate / pizza sauce | 400 g / 14 oz | 800–820 g / 28 oz | **2,92–3,15 kg / 103–111 oz** | **227 g / 8 oz** |
+| Extrato / pasta | — | — | **3–3,15 kg / 106–111 oz** | 170 g / 6 oz |
+
+A conversão de volume **não vale** para pizza sauce grossa ou super grossa. Tabela de volumes
+em xícaras em `19-molho-de-tomate-avancado.md`.
 
 ---
 
@@ -231,8 +258,18 @@ você devolve. Misture bem, pese o molho e tempere com **1% de sal fino**.
 
 ### Modernist Neapolitan Pizza Tomato Sauce
 Tomate inteiro pelado 800 g (uma lata de 28 oz) · sal fino 8 g (1%) · **goma xantana 0,5 g
-(0,1%)**. Faça a base pelos métodos acima; separe 160 g do molho numa tigela pequena; polvilhe
-a xantana devagar com o mixer ligado; incorpore o resto com fouet.
+(0,1%)**.
+1. Faça a base pelos métodos acima (tomate + sal).
+2. Separe **160 g** do molho numa tigela pequena.
+3. Polvilhe a xantana **devagar** com o mixer de mão ligado.
+4. Incorpore o resto do molho com fouet.
+5. **Hidrate de um dia para o outro na geladeira** — a receita é 5 min ativos e **12 h
+   inativas**; a viscosidade final só aparece depois disso.
+6. **Corrija o sal** depois de hidratado, se precisar.
+
+Rendimento **~800 g**. **4 dias na geladeira; não congelar.**
+**Escalonar para lata #10**: divida o peso da sua lata por **800** e multiplique o resultado
+pelo peso de **cada um** dos demais ingredientes (lata de 3 kg ⇒ 3,75×).
 
 ### Tomate fresco na pizza
 Tomate cru solta muita água — e mais ainda em cima de massa no forno. Opções:
@@ -262,8 +299,18 @@ no forno — aplique em **camada fina**, ou intercale com molho de tomate.
 Emissividade do molho branco ≈ **0,1** contra 0,5 do vermelho ⇒ **assa bem mais devagar**.
 
 **Emulsões**: hollandaise sous vide, sabayon, maionese, maionese de rúcula, aioli, vinagrete
-"invencível", barbecue. Molhos sensíveis a temperatura (aioli, ranch) vão **depois de assar**,
-ou como molho de mergulhar.
+"invencível", barbecue. **Não é uma regra só — são três casos:**
+
+| Caso | Exemplos | Quando aplicar |
+|---|---|---|
+| **Emulsão estável ao calor** | holandesa, bearnaise | **antes, durante ou depois** de assar |
+| **Emulsão não estável** | vinagrete, beurre blanc | **depois** — exceto a **Invincible Vinaigrette**, que vai **antes** |
+| **Maionese e aioli** | maionese, aioli | **só depois** — não separam no quente, mas **o calor do forno quebra a emulsão** se forem antes |
+
+Exceções nomeadas: a **Sabayon Sauce** pode entrar **no meio da assagem** e ainda tostar (é o
+que o livro usa para proteger vôngole do calor bruto); o **Ultrastable Beurre Blanc** faz jus
+ao nome. Tabela completa de adaptação de molhos, sopas e caldos em
+`20-molhos-brancos-cremes-e-emulsoes.md`.
 
 **Caldos, sopas e molhos de massa como molho de pizza**: puttanesca, alfredo, gema, cacio e
 pepe, bisque, gumbo, clam chowder. Sopa funciona **desde que a consistência esteja certa**.

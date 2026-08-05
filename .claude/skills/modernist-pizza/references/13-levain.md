@@ -158,8 +158,9 @@ Dura **até 2 meses**.
 
 > **O levain inativo nunca pode passar de 60 °C / 140 °F** — o amido gelatiniza e ele fica
 > inutilizável.
-> As variações Second-Chance publicadas no capítulo de receitas usam **0,43% a 0,81%** de IDY
-> conforme o estilo (ver `12-tabelas-de-variacao.md`).
+> As variações Second-Chance publicadas no capítulo de receitas usam **0,43% a 1,5%** de IDY
+> conforme o estilo — napolitana no piso (0,43%), deep-dish no teto (1,5%). Grade dos 10
+> estilos, com o peso de levain inativo de cada um: ver `12-tabelas-de-variacao.md` §2.
 
 ---
 

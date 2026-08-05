@@ -17,8 +17,12 @@ horas para chegar à temperatura).
 | Direta, ambiente ou quente | brasileira, deep-dish, Detroit | **2–3¾ h** |
 | Pré-fermento, ambiente ou quente | focaccia, NY square, al taglio | **15¾–22 h** |
 | Direta, bulk longo | napolitana | **23¼–27½ h** |
-| Pré-fermento + frio | thin-crust | **37¾–43⅓ h** |
+| Pré-fermento, ambiente ou quente | thin-crust | **37¾–43⅓ h** |
 | Pré-fermento + frio | New York, artisan | **38½–66¾ h** |
+
+> **A thin-crust não exige frio.** No quadro de p. 25 ela aparece como "pré-fermento, ambiente ou
+> quente", e as **24 h de prova fria estão marcadas como opcional** — o total de 37¾–43⅓ h já as
+> inclui. Quem exige frio é a dupla New York / artisan.
 
 ---
 
@@ -49,6 +53,10 @@ elas vão a glúten total e só fazem um *bench rest* de 15–20 min.
 | Glúten **médio** | 2–2½ h | **4–6** | focaccia, NY square, al taglio, qualquer massa com inclusão |
 | Glúten **total** | bench rest 15–20 min | 0 | thin-crust, brasileira, deep-dish, New York, artisan, Detroit |
 | Glúten total (exceção) | **20–24 h a 21 °C** | 0 | **napolitana-mestre** |
+
+> **Napolitana, o passo que falta**: o bulk de 20–24 h produz massa muito forte. Depois de dividir
+> e pré-modelar, as bolas precisam de **no mínimo 3 h** de descanso (ficha de receita: **3–4 h a
+> 21 °C**, coberta) antes de abrir e assar. Sem esse descanso, a bola não estica.
 
 Regra geral: **quanto menos você mistura, mais dobras precisa**. Glúten baixo pode pedir
 8 dobras ou mais.
@@ -122,19 +130,37 @@ fermentação é produzida aqui). O maior ganho de volume, porém, vem do forno.
 | Método | Temperatura | Observações |
 |---|---|---|
 | **Ambiente** | 21 °C / 70 °F | Só funciona bem com controle de temperatura. Sem isso, varia por hora e por dia. |
-| **Frio (cold-proof)** | **4 °C / 39 °F** | 24–96 h. Abaixo disso a levedura desacelera demais. Geladeiras comuns ficam entre 0,5 e 4,4 °C — ajuste para 4 °C se der. |
+| **Frio (cold-proof)** | **4 °C / 39 °F** | 24–96 h. Abaixo disso a levedura desacelera demais. Geladeiras comuns ficam entre 0,5 e 4,4 °C — ajuste para 4 °C se der. **Não serve para toda massa** — ver nota abaixo. |
 | **Quente (proofer)** | **27 °C / 80 °F, 65% UR** | Recomendação do livro para proofer, em todos os casos. Limpar o proofer após cada uso (ou pelo menos deixar a porta aberta secando) para não criar mofo. |
 | **Adega de vinho 13 °C** | — | Testado para focaccia e al taglio: **não recomendado**. Serve para **armazenar levain**, não para fermentar massa. |
+
+> **Frio não é opção universal**: "cold-proofing doesn't work for all types of dough" (p. 78). O
+> livro **não recomenda o frio para as massas assadas em forma** — dá **menos volume**. Na prática:
+> focaccia, NY square, al taglio e Detroit vão a **ambiente ou quente**, nunca a 4 °C. Massas com
+> levain, ou com levain + fermento comercial, fermentam bem no frio.
 
 ### Tabela oficial de tempos por temperatura
 
 **Frio (4 °C)**: thin-crust 24 h · brasileira 24 h · deep-dish 24 h · napolitana com poolish 48 h ·
 New York 48 h · artisan 48 h.
 
-**Ambiente (21 °C)**: thin-crust 2 h · brasileira 1½ h · deep-dish 2–4 h · **napolitana 20–24 h** ·
-focaccia 3 h · NY square 3 h · al taglio 3 h · Detroit 3 h.
+**Ambiente (21 °C)**: thin-crust **2–3 h** · brasileira 1½ h · deep-dish **1½ h** ·
+**napolitana 20–24 h (isso é o BULK, não a prova)** · focaccia 3 h · NY square 3 h ·
+al taglio 3 h · Detroit 3 h.
 
 **Quente (27 °C / 65% UR)**: focaccia 2 h · NY square 2 h · al taglio 2 h · Detroit 2½ h.
+
+> **Thin-crust e deep-dish: o livro se contradiz.** Regra da skill — a **ficha de receita manda
+> sobre o quadro geral**; os valores acima são os das fichas.
+> Thin-crust: a ficha da p. 110 dá **2–3 h**; o quadro da p. 75 dá 2 h e o da p. 25 dá 1½–2 h —
+> trabalhe com 2–3 h.
+> Deep-dish: a ficha da p. 118 dá **1½ h**; o quadro da p. 75 dá 2–4 h e o da p. 25 dá 1½–2 h —
+> trabalhe com 1½ h.
+
+> **Ambiguidade do livro na napolitana**: a p. 75 lista "napolitana 20–24 h" no meio das provas em
+> ambiente, como se fosse prova final. A p. 31, a p. 65 e a ficha de receita (p. 43) dizem outra
+> coisa: as 20–24 h são o **bulk em bloco, sem dobras**; depois de dividir e pré-modelar, as bolas
+> provam **3–4 h a 21 °C** (mínimo 3 h). **Siga a ficha**: bulk 20–24 h + prova 3–4 h.
 
 **Achados do experimento de prova:**
 - New York e artisan **exigem** frio. Fermentadas em ambiente ou quente, ficam com sabor
@@ -146,7 +172,10 @@ focaccia 3 h · NY square 3 h · al taglio 3 h · Detroit 3 h.
   mais gás visível em cima; às 4 h fica muito ácida e mole.
 - NY square: 3 h dá miolo pequeno e irregular; 4 h derruba o volume drasticamente.
 - Al taglio: tolera 2–4 h (o livro recomenda 3 h). 1 h é insuficiente.
-- Margem de tolerância geral: **±15%** do tempo indicado não muda as características.
+- Margem de tolerância geral: variar a prova final em **15%** do tempo indicado não muda as
+  características. Ressalva: o texto do livro traz literalmente "within **+15%** of our
+  guidelines" — pode ser um "±" perdido na digitalização. Conte com os 15% **para mais**; para
+  menos, confira o impresso antes de contar com a mesma folga.
 
 ### Preparo por método
 **Bolas em caixa empilhável**: bolear, dispor em grade com espaço (≈5 cm entre bolas),
@@ -162,8 +191,16 @@ limpo inflado com ar e amarrado frouxo (você vai precisar abrir várias vezes p
 Massa fermentada é **espuma** — logo, isolante. Ela demora muito mais do que parece para
 chegar à temperatura.
 
-- Tirar da geladeira **2 h antes**. Alguns pizzaiolos exigem mínimo de 13 °C / 55 °F
-  internos; nos testes do livro, 2 h levaram a massa a pelo menos 18 °C / 65 °F.
+- Tirar da geladeira **1½–2 h antes** — ou o tempo que a massa levar para chegar a
+  **13 °C / 55 °F** internos. As fichas de receita (p. 110–166) dão **1½–2 h**; o quadro da
+  p. 75 e o texto da p. 24 dão 2 h — trabalhe com 1½–2 h.
+- Os 13 °C são recomendação do **próprio livro** (p. 75), não de terceiros. A p. 24 apresenta o
+  mesmo número como exigência de "alguns pizzaiolos" e registra que, nos testes, 2 h levaram a
+  massa a pelo menos 18 °C / 65 °F. Leitura prática: **13 °C é o piso**, e 2 h costumam passar
+  disso com folga.
+- **Nem toda massa precisa temperar**: a **thin-crust pode ser aberta com rolo direto do frio**,
+  sem temperar. As de **crosta média** (New York, artisan, napolitana com poolish) precisam das
+  1½–2 h.
 - Tirar **em levas**, não tudo de uma vez.
 - **Por que temperar**: massa fria assa mais devagar, esfria o molho (que está em contato
   com ela), e **derruba muito a temperatura do piso do forno**, que depois precisa se recuperar.
@@ -202,7 +239,7 @@ deixar uma marca; ela volta **devagar**, mas a marca continua **claramente visí
 **Se for errar, erre para o lado da hiperfermentação** — alguns padeiros até
 hiperfermentam de propósito, porque abre mais o miolo e melhora o sabor.
 
-**Massa que passou 24–48 h no frio**: não é preciso chamar o ponto. Tire, tempere 2 h,
+**Massa que passou 24–48 h no frio**: não é preciso chamar o ponto. Tire, tempere 1½–2 h,
 abra e asse.
 
 ### Dough CPR (ressuscitar massa hiperfermentada)
@@ -215,9 +252,10 @@ haver perda séria de qualidade.
 4. Boleie de novo, volte ao recipiente, cubra bem e **deixe relaxar 3–4 h em ambiente**.
 
 Funciona muito bem para napolitana; funciona bem para thin-crust, brasileira, New York,
-artisan, deep-dish e Detroit. **Não funciona para pizza de forma** — depois de reboleada,
-a massa não chega mais aos cantos da forma. O passo do descanso de 3–4 h é obrigatório:
-rebolear cria muita tensão.
+artisan, deep-dish **e Detroit** — a p. 77 nomeia a Detroit na lista, apesar de ela ser assada
+em forma. Fora da lista ficam **focaccia, NY square e al taglio**, as de alta hidratação que
+fermentam dentro da forma: reboleadas, não voltam mais aos cantos. O passo do descanso de
+3–4 h é obrigatório: rebolear cria muita tensão.
 
 ---
 
@@ -270,7 +308,8 @@ cozinha oscila. Água de alimentação conforme a estação: 15,5 °C no calor, 
 
 ### Second chance levain
 Levain morto (velho ou congelado/descongelado) não fermenta mais, mas **ainda dá sabor**.
-Use junto com fermento instantâneo de **0,43% a 0,81%** conforme o tipo de pizza.
+Use junto com fermento instantâneo de **0,43% a 1,5%** conforme o estilo — a napolitana no piso
+(0,43%) e a deep-dish no teto (1,5%). Grade dos 10 estilos: `12-tabelas-de-variacao.md` §2.
 
 ---
 
@@ -289,6 +328,10 @@ Use junto com fermento instantâneo de **0,43% a 0,81%** conforme o tipo de pizz
 | Instantâneo | — | ×1,33 | ×3 |
 | Seco ativo | ×0,75 | — | ×2,28 |
 | Fresco | ×0,33 | ×0,44 | — |
+
+> **De onde vem esta tabela**: do **vol. 1** (texto por OCR), não do vol. 2. O que a sustenta é
+> que os fatores inversos fecham entre si: ×1,33 e ×0,75 (1/1,33), ×2,28 e ×0,44 (1/2,28),
+> ×3 e ×0,33. **Use estes.** Qualquer par que não feche assim é dígito trocado na digitalização.
 
 - Fermento congelado perde viabilidade: **aumente 25%** a quantidade da receita.
 - Se você **não** dissolver o fermento instantâneo, a prova demora **20–30 min a mais**.
