@@ -32,7 +32,12 @@ Ou deixe no repositório e trabalhe a partir daqui — o Claude Code carrega
 │   ├── 07-molhos.md                  consistência, gramagem, tomates, receita paramétrica
 │   ├── 08-queijos-e-coberturas.md    derretimento, gramagem, payload
 │   ├── 09-estilos.md                 o que define estilo, qualidade, teste triangular
-│   └── 10-diagnostico.md             sintoma → causa → correção
+│   ├── 10-diagnostico.md             sintoma → causa → correção
+│   ├── 11-submasters-e-variacoes.md  os ~30 sub-mestres com fórmula fechada
+│   ├── 12-tabelas-de-variacao.md     as 10 tabelas de variação sobre qualquer mestre
+│   ├── 13-levain.md                  construir, alimentar, guardar, desidratar, ressuscitar
+│   ├── 14-preparo-de-coberturas.md   cru ou cozido, assar, confitar, caramelizar sob pressão
+│   └── 15-molhos-brancos-e-...md     molhos não-tomate, emulsões, queijos caseiros
 └── scripts/
     ├── massa.py                      calculadora (escalona, converte, monta poolish)
     └── massas.json                   as 10 fórmulas + gramagens de molho e queijo
@@ -69,3 +74,22 @@ capacidade de batedeira.
 | New York square | 74,68% | 2,00% | 0,49% | 3,80% |
 | Al taglio | 79,73% | 2,50% | 0,50% | 4,02% |
 | Focaccia | 87,27% | 2,02% | 0,25% | 4,04% |
+
+Cada mestre tem sub-mestres (direct, poolish, emergency, high-hydration) e as variações
+regionais fiéis — AVPN, apizza de New Haven, Quad Cities, sfincione, pala, Old Forge, al molde
+argentina. Todas em `references/11-submasters-e-variacoes.md`, com fórmula fechada.
+
+## Confiabilidade dos números
+
+O volume 2 foi extraído do texto digital do PDF: os números são fiéis. O volume 1 é um PDF
+escaneado e passou por OCR, então as tabelas numéricas vindas dele (especificação de farinhas,
+gramagens por estilo das tabelas de variação) têm risco de dígito trocado. As regras e os
+percentuais são a parte confiável — se um número parecer fora de escala, recalcule pelo
+percentual.
+
+## O que não está aqui
+
+O capítulo de história (vol. 1, cap. 1), o panorama mundial em profundidade (vol. 1, cap. 2),
+o capítulo de pesquisa de campo (vol. 1, cap. 3, que inclui São Paulo e Buenos Aires), as 8
+receitas individuais de massa sem glúten — o blend e as regras estão em
+`12-tabelas-de-variacao.md` — e o volume 3 inteiro.

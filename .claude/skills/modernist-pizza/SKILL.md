@@ -1,6 +1,6 @@
 ---
 name: modernist-pizza
-description: Motor técnico de pizza baseado no Modernist Pizza (Myhrvold & Migoya), volumes 1 e 2. Traz as 10 massas-mestre com fórmula completa em percentual de padeiro, a física de forno (radiação, condução, emissividade, heat pipe, gum line), fermentação (bulk, dobras, prova fria/ambiente/quente, ponto, dough CPR), farinha (proteína, cinzas, W, granulometria), água, fermento, sal, gordura e melhoradores, molhos, queijos, coberturas e diagnóstico de defeitos. Use SEMPRE que a conversa envolver massa de pizza, hidratação, percentual de padeiro, glúten, autólise, poolish, levain, biga, fermentação a frio, dobras, ponto da massa, abrir/modelar massa, forno (a lenha, a gás, deck, esteira, combi, convecção, doméstico, portátil), aço ou pedra de forno, temperatura e tempo de assagem, leopardagem, cornicione, gum line, borda, miolo/alvéolo, molho de tomate, San Marzano, mussarela/fior di latte/burrata, gramagem de cobertura, ou qualquer defeito de pizza ("massa não estica", "fundo queimado", "centro ensopado", "borda murcha", "queijo não derrete", "massa passou do ponto"). Dispara também para estilos: napolitana, New York, artisan, al taglio, Detroit, focaccia, deep-dish, thin-crust, brasileira, NY square.
+description: Motor técnico de pizza baseado no Modernist Pizza (Myhrvold & Migoya), volumes 1 e 2. Traz as 10 massas-mestre e ~30 sub-mestres com fórmula completa em percentual de padeiro, as 10 tabelas de variação (levain, second-chance, compleat wheat, grãos/nozes/sementes, country, grãos antigos, no-knead, daily pizza, purês de sabor, sem glúten), a física de forno (radiação, condução, emissividade, heat pipe, gum line), fermentação (bulk, dobras, prova fria/ambiente/quente, ponto, dough CPR), o sistema completo de levain (construir, alimentar, guardar a 13 °C, desidratar, ressuscitar), farinha (proteína, cinzas, W, granulometria), água, fermento, sal, gordura e melhoradores, molhos de tomate e não-tomate, queijos caseiros (fior di latte, burrata, ricota), preparo de coberturas (assar, confitar, caramelizar sob pressão, linguiça, frios) e diagnóstico de defeitos. Use SEMPRE que a conversa envolver massa de pizza, hidratação, percentual de padeiro, glúten, autólise, poolish, levain/fermento natural, biga, fermentação a frio, dobras, ponto da massa, abrir/modelar massa, forno (a lenha, a gás, deck, esteira, combi, convecção, doméstico, portátil), aço ou pedra de forno, temperatura e tempo de assagem, leopardagem, cornicione, gum line, borda, miolo/alvéolo, molho de tomate, San Marzano, béchamel, molho branco, mussarela/fior di latte/burrata, gramagem de cobertura, pepperoni que encaracola, ou qualquer defeito de pizza ("massa não estica", "fundo queimado", "centro ensopado", "borda murcha", "queijo não derrete", "massa passou do ponto"). Dispara também para estilos: napolitana, AVPN, New York, New Haven/apizza, Quad Cities, artisan, al taglio, pala, Detroit, focaccia, sfincione, deep-dish, thin-crust, brasileira, NY square, Old Forge, al molde argentina, sem glúten, integral, centeio.
 ---
 
 # Modernist Pizza
@@ -38,6 +38,11 @@ Ingredients)** de *Modernist Pizza*, de Nathan Myhrvold e Francisco Migoya. O vo
 | `references/08-queijos-e-coberturas.md` | Física do derretimento, gramagem de queijo, preparo por categoria, payload de cobertura, quando aplicar |
 | `references/09-estilos.md` | O que define um estilo, atributos universais de qualidade, teste triangular, as 10 famílias |
 | `references/10-diagnostico.md` | **Sintoma → causa → correção.** Comece por aqui em pergunta de problema |
+| `references/11-submasters-e-variacoes.md` | Os ~30 sub-mestres com fórmula fechada: AVPN, napolitana de alta hidratação, napolitana de centeio, apizza (New Haven), Quad Cities, sfincione, pala, Old Forge, al molde argentina, Detroit modernista, deep-dish enriquecida, versões emergency/direct/poolish de cada estilo |
+| `references/12-tabelas-de-variacao.md` | As 10 tabelas de variação aplicáveis a **qualquer** mestre: levain, second-chance, compleat wheat, grãos/nozes/sementes, country, grãos antigos, no-knead, daily pizza, purês de sabor, blend sem glúten |
+| `references/13-levain.md` | Construir do zero, alimentar, estágios (jovem/maduro/passou), guardar a 13 °C, hidratação reduzida, desidratar, congelar, second-chance, problemas |
+| `references/14-preparo-de-coberturas.md` | Cru ou cozido (tabela de ~24 itens), assar, confitar, caramelizar sob pressão, rösti, frico, linguiça, frios antes/depois do forno, por que o pepperoni encaracola |
+| `references/15-molhos-brancos-e-queijos-caseiros.md` | Espessantes e dispersão, béchamel e béchamel modernista, molho de queijo com citrato, maionese/aioli/vinagrete, purês de vegetais, e fazer fior di latte, burrata e ricota em casa |
 
 ---
 
@@ -86,6 +91,18 @@ Temperar massa fria: **2 h** antes de abrir. Tolerância de tempo de prova: **±
 oven spring) · ~85 °C amido "cozido" · 91–93 °C miolo estruturado · **130 °C na superfície:
 Maillard**.
 
+### Conversão de fermento e substituições rápidas
+
+**Fermento**: instantâneo → seco ativo **×1,25** · instantâneo → fresco **×3** · seco ativo →
+fresco **×2,4**. **Poolish**: 3 h = 0,4–0,5% de IDY sobre a farinha do poolish · 8 h = 0,2–0,3% ·
+12–16 h = 0,1–0,2%.
+
+**Variações sobre qualquer mestre** (detalhe em `12-tabelas-de-variacao.md`):
+levain **24–37%** sobre a farinha · second-chance **0,43–0,81%** de IDY · compleat wheat
+(farelo ≈14% da farinha + gérmen ≈2,5% + água de molho ≈15–18%) · grãos/nozes/sementes
+**20–25%** · country **30%** (15 integral + 15 centeio) · grãos antigos **40%** (15/15/10) ·
+no-knead IDY **0,27%** com bulk 12–18 h · daily pizza IDY 0,27% + ácido ascórbico 0,22%.
+
 ### Cinco coisas que quase sempre são a resposta
 
 1. **Não é o peso do molho que impede o centro de subir** — é o calor latente de vaporização.
@@ -109,3 +126,13 @@ Maillard**.
   (22,7 glúten úmido · 7,8 seco · W 268 · 0,45% cinzas), que os autores replicam com
   **60% farinha de bolo + 40% farinha de pão**.
 - Temperaturas estão em °C com o °F original entre barras quando o livro dá os dois.
+- **Confiabilidade dos números.** O volume 2 foi extraído do texto digital do PDF — os números
+  são fiéis. O volume 1 é um PDF escaneado e passou por **OCR**, então tabelas numéricas dele
+  (principalmente a tabela de especificação de farinhas em `06-ingredientes.md` e as gramagens
+  por estilo em `12-tabelas-de-variacao.md`) têm risco de dígito trocado. **As regras e os
+  percentuais são a parte confiável**; se um número parecer fora de escala, recalcule pelo
+  percentual em vez de repetir a grama.
+- **O que ainda não está nesta base**: o capítulo de história (vol. 1, cap. 1), o panorama
+  mundial em profundidade (vol. 1, cap. 2), o capítulo de viagem/pesquisa de campo (vol. 1,
+  cap. 3 — inclui São Paulo e Buenos Aires), as 8 receitas individuais de massa sem glúten
+  (o blend e as regras estão em `12-tabelas-de-variacao.md`) e o volume 3 inteiro.
