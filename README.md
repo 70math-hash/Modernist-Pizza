@@ -46,7 +46,8 @@ Ou deixe no repositório e trabalhe a partir daqui — o Claude Code carrega
 │   ├── 21-queijo-compra-e-operacao.md comprar, ralar, conservar, congelar, vegano
 │   ├── 22-mussarela-e-queijos-cas.md idade da mussarela, esticar, fior di latte, burrata
 │   ├── 23-coberturas-tecnicas-e-...md payload por tamanho, pré-cocção, carnes, azeite
-│   └── 24-massas-sem-gluten.md       as 7 massas sem glúten fechadas
+│   ├── 24-massas-sem-gluten.md       as 7 massas sem glúten fechadas
+│   └── 25-pesquisa-de-campo.md      São Paulo e Buenos Aires vistos de fora
 └── scripts/
     ├── massa.py                      calculadora (escalona, converte, monta poolish)
     └── massas.json                   as 10 fórmulas + gramagens de molho e queijo
@@ -103,6 +104,6 @@ nota. Nenhum parâmetro aparece com dois valores diferentes sem aviso.
 
 ## O que não está aqui
 
-O capítulo de história (vol. 1, cap. 1), o panorama mundial em profundidade (vol. 1, cap. 2),
-o capítulo de pesquisa de campo (vol. 1, cap. 3, que inclui São Paulo e Buenos Aires) e o
-volume 3 inteiro.
+O capítulo de história (vol. 1, cap. 1 — deixado de fora por escopo), as demais cidades do
+capítulo de pesquisa de campo (Nápoles, Roma, Tóquio, Nova York, Chicago, Detroit e as outras;
+só São Paulo e Buenos Aires foram extraídos por extenso) e o volume 3 inteiro.

@@ -224,6 +224,81 @@ Sfincione · Chicago double-crust · pizza montanara / fritta.
 
 ---
 
+## Os nomes que confundem (vol. 1, p. 136–143)
+
+Três rótulos que aparecem em cardápio e em pergunta de aluno e que **o livro se recusa a
+classificar como estilo**. Saber por quê é o que permite responder sem entrar na briga.
+
+### "Pizza romana": cinco coisas diferentes com o mesmo nome
+
+Quando os autores foram a Roma, **os próprios romanos e pizzaioli locais estranharam a ideia de
+que existisse um estilo romano único**. Pelo levantamento do livro, pelo menos **cinco produtos
+distintos** disputam o nome:
+
+| O que chamam de "romana" | O que é de fato |
+|---|---|
+| A maioria das pizzarias bem avaliadas de Roma | **Napolitana do resto da Itália** — napolitana assada em forno mais frio, crosta um pouco mais crocante. Na Itália é chamada de *classico*, inclusive por napolitanos. Praticamente toda cidade italiana fora de Nápoles serve isso |
+| Crosta ultrafina, tipo cracker (Da Remo, Ivo, Ai Marmi, Emma) | Existe, mas é **recente**: Da Remo diz 1976, Ivo anos 1980, Emma 2014. Pizza igualmente fina existe no Meio-Oeste americano e em Nova Jersey desde os anos 1940 — e **em São Paulo, antes disso** |
+| *Pizza bianca* e *pizza rossa* de padaria | **Não é pizza, é pão.** Focaccia vendida em temperatura ambiente. Guias e programas de TV estrangeiros tratam como "pizza romana tradicional" por confundir a origem linguística da palavra |
+| **Pinsa Romana** | Ver abaixo |
+| **Al taglio** | É **formato de venda** (por corte, por peso), não estilo |
+
+> **A frase que resolve**: *"o que chamam de estilo romano é simplesmente pizza al taglio, ou
+> seja, vendida por corte. Isso é uma fatia — retangular — não um estilo."*
+
+**Se São Paulo tivesse que reivindicar uma pizza ultrafina, teria mais direito que Roma.** O
+livro diz isso literalmente: *"se fosse preciso nomear uma cidade para a pizza superfina, seria
+sem dúvida São Paulo."*
+
+### Pinsa Romana
+
+O nome sugere um pão achatado da Roma antiga. **É marketing.** Foi criada por **Corrado di
+Marco em 1981**, e a palavra designa três coisas ao mesmo tempo: o produto, a casca dele, ou a
+**farinha proprietária** de que a casca é feita.
+
+- **O livro aceita a Pinsa como pizza**, pela definição do próprio livro. **Não aceita como
+  estilo**, porque é o produto proprietário de **uma única empresa e seus licenciados** — as
+  *pinserie* são independentes no papel, mas o contrato as aproxima mais de franquia.
+- **Não testaram a farinha de Pinsa** porque ela não é vendida ao público em geral.
+- As alegações de que seria mais "saudável", "leve" e **"digestível"** que pizza convencional
+  **não têm sustentação nenhuma** — jogam com a obsessão italiana por digestibilidade.
+
+### Al taglio: quem inventou o que
+
+Não é estilo, é modelo de venda — mas o modelo tem dois autores e a diferença entre eles é
+operacional:
+
+| | **Angelo Iezzi** (desde 1987) | **Gabriele Bonci** (Pizzarium) |
+|---|---|---|
+| Cobertura | **assada junto** com a base | base pré-assada só com **óleo ou fio de tomate**; cobertura entra **depois de fria** |
+| Guarda | — | vitrine **refrigerada**, reaquece na hora |
+| Venda | tesoura, por peso | tesoura, por peso; folhas cruas saem antes de reaquecer e voltam depois |
+
+**Por que o método Bonci interessa a quem tem pouca gente**: assa-se **na véspera**, com o
+mínimo de mão de obra qualificada; a montagem acontece **antes do serviço**; porcionar por peso
+**não exige técnica**. O resultado é pizza de alta qualidade com **custo de mão de obra baixo** —
+e o cold-holding garante regularidade. É a lógica que a skill descreve em
+`16-planejamento-e-producao.md`.
+
+### "Tomato pie" de Nova Jersey e "bar pizza"
+
+- **Tomato pie**: as duas casas históricas (Papa's, 1912; De Lorenzo's, 1936) fazem **pizzas
+  completamente diferentes** — uma com crosta indistinguível de New York, a outra tipo cracker.
+  E as fotos antigas penduradas nas duas paredes mostram uma pizza que **não se parece com
+  nenhuma das duas hoje**, mas se parecem entre si (borda bem mais fofa). A única coisa em
+  comum entre as "tomato pies" da região é a montagem **queijo embaixo, molho por cima** — e o
+  livro **não aceita ordem de montagem como definição de estilo**, porque dá para fazer isso em
+  qualquer pizza (e é o método preferido do livro para Detroit e deep-dish).
+- **Bar pizza / tavern style**: redonda, fina, molho e cobertura até a borda, **cortada em
+  quadradinhos**. A história oficial — bar dos anos 1940 dando pizza de graça para vender
+  bebida — é contada por **pelo menos seis casas diferentes em seis lugares diferentes**. A
+  evidência mais antiga que os autores acharam é um anúncio de **16 de novembro de 1934**
+  (Roma Gardens, Hackensack, NJ). E a Melrose Pizzeria de St. Louis já cortava pizza fina em
+  quadrados **em 1945, numa pizzaria, não num bar**. Veredito: **não há consistência suficiente
+  entre as amostras para ser um estilo.**
+
+---
+
 ## Cross-crusting: o veredito sobre "cada estilo exige sua massa"
 
 Ver **01-formulas-massas.md** para a tabela completa. O resumo:
