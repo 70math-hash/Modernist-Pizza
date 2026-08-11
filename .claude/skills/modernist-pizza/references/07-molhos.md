@@ -201,8 +201,10 @@ plástica; se não gostar, passe no moinho).
 Se a lata não tem sal, adicione **~1% do peso total do conteúdo**. Sempre prove antes.
 
 ### Tamanhos de lata (EUA)
-**"Lata #10" não é um peso só — são três, conforme o produto** (#300 e #2,5 são iguais para
-todos). Os três pesos, os volumes em xícaras e o cálculo de escalonamento estão em
+**"Lata #10" não é um peso só — são três, conforme o produto.** E os formatos menores também
+não são uniformes: **extrato de tomate só existe em 170 g / 6 oz e em #10** (não tem #300 nem
+#2,5), e **molho de tomate / pizza sauce tem um formato a mais, 227 g / 8 oz**. Os três pesos
+de #10, os volumes em xícaras e o cálculo de escalonamento estão em
 `19-molho-de-tomate-avancado.md`.
 
 ---
@@ -251,7 +253,8 @@ o livro mantém.
 **Lácteos**: béchamel, béchamel modernista, béchamel de alho e cebolinha, molho de queijo
 modernista. Ricota, creme, ou até uma burrata aberta sobre o disco de massa contam como molho
 branco. Com espalháveis de alta gordura (mascarpone, crème fraîche) parte da gordura se separa
-no forno — aplique em **camada fina**, ou intercale com molho de tomate.
+no forno — aplique em **camada fina**; dá também para experimentar intercalá-los com molho de
+tomate (Vol. 2, cap. "Cheese", p. 300).
 Emissividade do molho branco ≈ **0,1** contra 0,5 do vermelho ⇒ **assa bem mais devagar**.
 
 **Emulsões**: hollandaise sous vide, sabayon, maionese, maionese de rúcula, aioli, vinagrete

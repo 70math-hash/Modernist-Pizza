@@ -1,7 +1,10 @@
 # Batedeiras: carga, tempos por massa e operação
 
 Fonte: *Modernist Pizza*, Vol. 2 — "Pizza Dough Recipes" p. 110–171 (blocos *Machine Mixing
-Options* de cada mestre) e "Making Pizza Dough" p. 31–59.
+Options* de cada mestre) e "Making Pizza Dough" p. 3–77 (tipos de batedeira e carga de bacia
+em p. 34–38; o próprio livro remete: "For more on mixers, see page 37-38").
+
+Todas as páginas citadas aqui são **páginas impressas** do volume 2.
 
 Fórmulas em `01-formulas-massas.md` · estágios de glúten, teste da janela, DDT, autólise e
 método van Over em `02-mistura-e-gluten.md` · bulk, dobras e prova em `03-fermentacao.md`.
@@ -170,7 +173,7 @@ e remete para cá. Os números abaixo são os que as 10 fichas de receita repete
 |---|---|---|---|
 | Bancada, bacia 4,5 qt | — | **1–1,25 kg** | — (a receita-base já serve) |
 | Bancada, bacia 8 qt | — | **1,5–1,75 kg** | **×1,5 a ×1,75** |
-| Planetária comercial 12 qt / 11,4 L | **4 kg** (piso do ×4) | **4–6 kg** | **×4 a ×6** |
+| Planetária comercial 12 qt / 11,4 L | o piso declarado é o **×4**, não um peso | **4–6 kg** (a ficha diz "maximum") | **×4 a ×6** |
 | Planetária comercial 20 qt / 18,9 L | — | **6–8 kg** | **×6 a ×8** |
 | Espiral de bancada | **1 kg** | — | — |
 | Espiral de piso (menor modelo visto) | **3,5 kg** | — | — |
@@ -184,11 +187,12 @@ e remete para cá. Os números abaixo são os que as 10 fichas de receita repete
 | Processador industrial | — | ~**30 kg**; bacia **até a metade** | — |
 
 Fora da tabela: modelos grandes de espiral vão a **centenas de kg** e a diving arm industrial
-**varia**. Os ~30 kg do processador industrial são o número da p. 46; as fichas só dizem "varia".
+**varia**. Os ~30 kg do processador industrial são o número da p. 38; as fichas só dizem "varia".
 
-**Se você não sabe o tamanho da bacia** (a faixa de bolso do quadro geral da p. 32–33):
-planetária **de bancada 1–2 kg**, planetária **comercial 3–8 kg**. Serve para descartar uma
-máquina de cara; para escalar de verdade, use a tabela acima.
+**Se você não sabe o tamanho da bacia** (a faixa de bolso que o livro dá em prosa na p. 34,
+a mesma página do quadro): planetária **de bancada 1–2 kg**, planetária **comercial 3–8 kg**,
+e **espiral, diving arm ou garfo de 8 kg para cima**. Serve para descartar uma máquina de cara;
+para escalar de verdade, use a tabela acima.
 
 **Onde o livro publica mais de um número.** A regra da skill é que a **ficha de receita manda
 sobre o quadro geral** — a coluna do meio é sempre o valor de trabalho.
@@ -197,10 +201,10 @@ sobre o quadro geral** — a coluna do meio é sempre o valor de trabalho.
 |---|---|---|
 | Bancada 4,5 qt | **1–1,25 kg** | quadro da p. 34 (bacia 4–5 qt): 1–1,5 kg |
 | Bancada 8 qt | **1,5–1,75 kg** | quadro da p. 34: 1,5–2 kg na maioria; 1,5 kg em massa firme tipo brasileira |
-| Planetária 12 qt | **4–6 kg** (×4 a ×6) | quadro da p. 34: 3–6 kg · p. 45: mistura "a partir de 2,5–3 kg" |
-| Planetária 20 qt | **6–8 kg** (×6 a ×8) | p. 45: 4–8 kg (o quadro da p. 34 concorda com a ficha) |
+| Planetária 12 qt | **4–6 kg** (×4 a ×6) | quadro da p. 34: 3–6 kg · p. 37: "a bacia menor mistura tão pouco quanto 2,5–3 kg" |
+| Planetária 20 qt | **6–8 kg** (×6 a ×8) | p. 37: 4–8 kg (o quadro da p. 34 concorda com a ficha) |
 
-O **2,5–3 kg** da p. 45 é o mínimo absoluto que aquela máquina consegue girar, não uma carga de
+O **2,5–3 kg** da p. 37 é o mínimo absoluto que aquela máquina consegue girar, não uma carga de
 trabalho: a ficha proíbe descer abaixo do ×4. Não escale por ele.
 
 **Encha a bacia no máximo até a metade** — regra de bolso do livro para qualquer batedeira.
@@ -219,13 +223,24 @@ Passar disso só faz a mistura demorar mais. Os dois modos de falha:
 | Al taglio alta hidr. (**1,4 kg**) | **×1,25** | **×3–4** | **×7** | **×5** | não listada | **×2** |
 
 **Escale pelo peso da bacia, não pelo multiplicador.** O multiplicador padrão foi calibrado
-para receita de ~1 kg. Onde o rendimento-base é menor e o livro **não** ajustou, a conta não
-fecha: na **deep-dish** (rend. 700 g), ×4–6 dá **2,8–4,2 kg**, abaixo do piso de **4 kg** que a
-própria ficha declara para a bacia de 12 qt (o ×4 sobre receita de ~1 kg). O livro corrigiu isso
-na NY square (também 700 g) e esqueceu na deep-dish — **incoerência do livro, não regra**.
+para receita de ~1 kg. O que a ficha da deep-dish declara para a bacia de 12 qt é
+"**4–6 kg maximum**; multiplique por **pelo menos 4**, sem passar de 6" — o piso declarado é o
+multiplicador, não um peso. Onde o rendimento-base é menor e o livro **não** ajustou o
+multiplicador, o peso resultante fica abaixo da faixa: na **deep-dish** (rend. 700 g), ×4–6 dá
+**2,8–4,2 kg**, contra os 4–6 kg que a mesma ficha nomeia para essa bacia. O livro ajustou o
+multiplicador na NY square (também 700 g) e não ajustou na deep-dish — **incoerência do livro,
+não regra**.
 
-Aviso da própria ficha da thin-crust: **o rendimento-base de ~1 kg não é suficiente para o
-gancho pegar tudo numa bacia de 8 qt** — é o modo de falha que mais quebra produção.
+> **Isto não está no livro.** Ler "4–6 kg" como faixa de trabalho (e não só como teto) é
+> inferência nossa; o livro só escreve "maximum". Está aqui porque é o que reconcilia a ficha
+> da deep-dish com a da NY square, e porque descer muito abaixo de 4 kg numa bacia de 12 qt cai
+> no modo de falha "massa de menos" descrito logo acima.
+
+O aviso da ficha da thin-crust é **condicional**, não uma sentença sobre o rendimento-base:
+"**se** as quantidades não forem grandes o bastante para o gancho misturar bem numa batedeira
+de bancada ou planetária comercial, comece com a **raquete**" até virar massa homogênea, e só
+então troque pelo gancho. O que a ficha de fato exige da bacia de 8 qt é o **×1,5**, que o
+rendimento-base de ~1 kg não alcança sozinho. É o modo de falha que mais quebra produção.
 
 **Cargas que o livro usou no experimento das 5 batedeiras** (referência de lote confortável):
 bancada **2 kg** · espiral **8 kg** · diving arm **4 kg** · garfo **10 kg** · planetária
@@ -267,12 +282,17 @@ O livro não repete os blocos de máquina nas variações; ele remete. Fórmulas
 | Modernist al taglio · com poolish · Direct · Emergency · **Roman pizza alla pala** | **Al taglio** (p. 159) |
 | Modernist Detroit · **Argentinean al molde** · **Old Forge** | **Detroit** (p. 167) |
 
-**As duas exceções que não herdam nada:**
+**As três exceções que não herdam nada:**
 - **AVPN**: procedimento próprio. À mão na *madia*; à máquina, farinha restante em **4–5
   adições**, velocidade **baixa**, até glúten total, **~15 min**. Costuma ser feita em garfo —
   e a menor garfo que existe faz lotes de **12 kg**.
 - **100% centeio**: exige **raquete**, não gancho, em baixa até esfarrapada → sal → média
   **só até formar uma bola**. Não vai a glúten total.
+- **Pizza gourmet** (p. 165, rend. ~1 kg, quatro discos de 20 cm): também exige **raquete**,
+  não gancho. Tudo junto na bacia — farinha, água, açúcar, sal, **fermento químico** e fermento
+  biológico — e **média até glúten total**, com teste da janela. Vai para bancada **levemente
+  enfarinhada**. A ficha **não dá tempo de mistura** e **não remete** a nenhum bloco *Machine
+  Mixing Options*: não há tempo publicado para essa massa, siga a janela.
 
 ---
 
@@ -293,7 +313,7 @@ O livro não repete os blocos de máquina nas variações; ele remete. Fórmulas
 
 | Destino | Massas |
 |---|---|
-| Bancada **levemente enfarinhada**, coberta com saco ou lona | thin-crust, brasileira, deep-dish, New York, artisan, napolitana com poolish, 100% centeio, todas as emergency |
+| Bancada **levemente enfarinhada**, coberta com saco ou lona | thin-crust, brasileira, deep-dish, New York, artisan, napolitana com poolish, 100% centeio, pizza gourmet, todas as emergency |
 | Pote **levemente borrifado com água** | napolitana-mestre, Modernist HH neapolitan, AVPN |
 | Pote **levemente oleado**, já moldada em retângulo + **1 dobra de quatro bordas** | focaccia, NY square, al taglio, pala, Old Forge, sfincione, Quad Cities variation |
 | Pote **generosamente oleado, virando a massa para cobrir toda a superfície** | **Detroit** |
@@ -315,17 +335,27 @@ O livro não repete os blocos de máquina nas variações; ele remete. Fórmulas
 - **Processador gira a 1.725 rpm** nos modelos de bancada e até **3.600 rpm** nos industriais.
   É daí que vêm os 45 s de mistura **e** o superaquecimento; comece com água fria.
 - **Critério de compra, planetária**: existem modelos com **bacia encamisada** (parede dupla com
-  água circulante de temperatura regulável). É o único jeito de controlar de verdade a
-  temperatura da massa numa planetária, que é a batedeira que **mais gera atrito**.
+  água circulante de temperatura regulável). O livro diz que isso "dá **mais controle** sobre a
+  temperatura da massa" — mais controle, não o único controle: água fria, carga menor e
+  velocidade baixa continuam valendo. Vale considerar porque a planetária "**gera muito atrito
+  e pode superaquecer a massa**" (p. 37).
+- **Quem gera mais atrito, afinal.** O livro se contradiz. Na p. 35 dá o superlativo à
+  **espiral** ("o gancho gira e a bacia também; o movimento combinado resulta no **maior
+  atrito** sobre a massa", o que *acelera* o glúten e encurta a mistura); na p. 37 diz que a
+  espiral "mistura com eficiência **sem elevar a temperatura**" e que a planetária é que
+  superaquece. Não trate nenhuma das duas como "a que menos aquece" — meça a massa na saída.
 
-### Folga do gancho — inspeção de rotina
+### Folga do gancho
 
 > Batedeiras de bancada e planetárias comerciais são projetadas para que o gancho (ou raquete,
 > ou batedor) **não encoste na bacia**. Metal raspando metal é perigoso, e **partículas de metal
 > que caem na massa aparecem na pizza assada — risco à saúde.**
 
-Ouviu raspagem metálica: **pare a máquina e regule a altura do batente**. Isso é checagem de
-rotina, não manutenção corretiva.
+> **Isto não está no livro.** O livro descreve o risco e para aí: não prescreve o que fazer ao
+> ouvir raspagem, nem manda regular altura de gancho ou de bacia. Nossa leitura: raspagem
+> metálica é motivo para **parar a máquina** e não usá-la até a folga ser verificada — em muitas
+> planetárias comerciais esse ajuste é de fábrica e exige ferramenta, então isso é chamado de
+> assistência, não regulagem de rotina.
 
 ---
 
@@ -359,7 +389,7 @@ suspeito quando a massa dá errado.
 | Situação | O que fazer |
 |---|---|
 | Passou do glúten total, massa **ainda não quebrou** — massa de **levain** | Deixar **relaxar bastante tempo na geladeira**. Resolve. |
-| Idem, massa de **fermento comercial** | Mais complicado: o fermento continua fermentando na geladeira (na de levain também, mas menos). **Adapte o cronograma.** |
+| Idem, massa de **fermento comercial** | O livro só diz que é "mais complicado": o fermento continua fermentando na geladeira (na de levain também, mas menos). Não prescreve conduta. Adaptar o cronograma ao ritmo de fermentação é *(inferência nossa)*. |
 | Massa **ropy** (soltando água, viscosa) | Meia batelada nova sem sal → autólise 20 min → sal → misturar na sobremisturada em baixa só até unir (ver `02-mistura-e-gluten.md`) |
 | **Erro fatal** de medida (número lido errado) | Não tem conserto: **refaça**. Ingrediente de massa é barato e a mistura é rápida. |
 
@@ -372,10 +402,11 @@ executa**. Se der errado, você descobre onde.
 - **Duas massas em que o livro quer a massa mais quente**: a **napolitana-mestre** e a
   **napolitana com poolish**. Nesses dois casos passar de **25,5 °C** não é defeito — a ficha
   pede 27 °C.
-- **Mármore não esfria massa.** A p. 40 o sugere como alternativa à geladeira, mas a p. 53
-  desmonta: *"o mármore está na mesma temperatura do ambiente mesmo estando frio ao toque"*.
-  Ele só leva a massa até o equilíbrio com o ambiente — em cozinha a 30 °C, não esfria nada.
-  Contradição do livro; fique com a p. 53.
+- **Mármore não esfria massa.** A **p. 32** o sugere como alternativa à geladeira quando a massa
+  sai acima de 25 °C / 78 °F, mas a **p. 46** desmonta: *"o mármore está na mesma temperatura do
+  ambiente mesmo estando frio ao toque; ele só consegue subir ou baixar a temperatura da massa
+  para trazê-la ao equilíbrio com ele"*. Em cozinha a 30 °C, não esfria nada. Contradição do
+  livro; fique com a p. 46.
 - No experimento das 5 batedeiras, **com água inicial a 21 °C todas as massas saíram dentro de
   2–3 graus da DDT alvo**. Água a 21 °C + carga certa resolve a DDT sozinha — mais um argumento
   para não gastar tempo calculando fator de atrito.

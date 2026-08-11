@@ -1,6 +1,7 @@
 # Mussarela: idade, esticar e fazer em casa
 
-Fonte: *Modernist Pizza*, Vol. 2, cap. "Cheese", p. 315–339 impressas (p. 323–350 do PDF).
+Fonte: *Modernist Pizza*, Vol. 2, cap. "Cheese", p. **315–339 impressas** (323–347 do PDF).
+Páginas citadas aqui são as **impressas**; para achar no PDF, **some 8**.
 
 **Este é o arquivo do queijo caseiro por extenso**: fórmula, passo a passo, temperatura de cada
 etapa e as decisões que mudam o resultado — mussarela, burrata, frankencheese e ricota.
@@ -38,8 +39,8 @@ Os três corolários que mudam a operação:
    a água migra e se distribui de forma mais uniforme dentro do queijo.
 
 Guardar em **temperatura ambiente não tem vantagem** e encurta muito a janela. O livro resume
-como "limitado a 3 dias", mas o número depende da embalagem (teste de p. 313, fior di latte e
-mussarela fresca fatiada avaliadas de 24 em 24 h):
+como "limitado a 3 dias", mas o número depende da embalagem (teste da p. 313 impressa; fior di
+latte e mussarela fresca fatiada avaliadas de 24 em 24 h):
 
 | Embalagem em temperatura ambiente | Aguenta |
 |---|---|
@@ -354,8 +355,9 @@ creme de leite fresco **200 g (33,33%)** · *formar* água 3 kg a **88 °C / 190
    para fora.
 7. Recheie o centro, puxe as bordas e belisque no topo para selar. Deixe **~2 cm / ¾ in de
    queijo sobrando acima do selo** e amarre o barbante nessa sobra.
-8. **Sirva imediatamente**, ou guarde seguindo os passos 20–23 da receita-mãe (13 °C → 4,4 °C →
-   salmoura).
+8. **Sirva imediatamente**, ou guarde seguindo os passos 20–23 da receita-mãe (**4,4 °C →
+   montar a salmoura → pôr na salmoura → guardar**). O banho de **13 °C é o passo 19** e fica
+   **fora** da faixa que a burrata manda seguir.
 9. Repita 5–8 para as demais.
 
 > **Outros recheios**: clotted cream, mascarpone ou **ricota**. Nesse caso omita o creme e os
@@ -394,8 +396,9 @@ conseguiu calcular a gordura final.
 
 ## Mussarelas infundidas
 
-Todas partem da receita-mãe (acidificação direta) com **água fria 180 g (4,69%)** — o dobro da
-original. Todas rendem **~600 g de coalhada**; ativo 20–25 min, inativo 1–1½ h (ervas: 13–17½ h).
+Todas partem da receita-mãe (acidificação direta) com **água fria 180 g (4,69%)** — o **triplo**
+da original (60 g / 1,56%). Todas rendem **~600 g de coalhada**; ativo 20–25 min, inativo
+1–1½ h (ervas: 13–17½ h).
 
 | Versão | Aditivo | % | Como entra | Validade |
 |---|---|---|---|---|
@@ -427,7 +430,8 @@ cheese**, usando sal emulsificante.
 - Alguns queijos ligam melhor com **0,5% de SHMP**; outros com **2% de mono e diglicerídeos
   (MDG) em flocos + água**.
 - A proporção depende da intensidade: queijos suaves (brie, taleggio) exigem proporção alta;
-  **queijo azul, 20% já basta** — é o que desbloqueia item de cardápio com menos queijo caro.
+  **queijo azul, 20% já basta**. É o que viabiliza item de cardápio com pouco queijo caro
+  *(inferência nossa)*.
 - **Casca lavada não vale a pena**: o sabor se perde ao ser combinado com a mussarela.
 - O Frankencheese de queijo de cabra assou bem tanto a **454 °C / 850 °F** quanto a
   **315 °C / 600 °F** — serve nos dois extremos de forno.
@@ -516,7 +520,7 @@ Leite integral **2 kg (100%)** · **ácido cítrico 4 g (0,2%)** · sal fino a g
 
 ## Umidade por forma de mussarela — divergência registrada
 
-Tabela da p. 323:
+Tabela da p. 315 (323 do PDF):
 
 | Forma | Umidade |
 |---|---|

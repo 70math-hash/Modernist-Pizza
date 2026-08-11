@@ -1,6 +1,10 @@
 # Queijos e coberturas
 
-Fonte: *Modernist Pizza*, Vol. 2 — caps. "Cheese" e "Toppings".
+Fonte: *Modernist Pizza*, Vol. 2 — caps. "Cheese" e "Toppings". A física de queijo no forno
+(os dois primeiros itens marcados abaixo) vem do **Vol. 1, p. 373 impressa** (405 do PDF),
+capítulo de fornos — não do capítulo "Cheese" do Vol. 2.
+
+Páginas citadas neste arquivo são as **impressas**; no PDF do Vol. 2, some 8.
 
 ---
 
@@ -9,11 +13,11 @@ Fonte: *Modernist Pizza*, Vol. 2 — caps. "Cheese" e "Toppings".
 ## O que importa fisicamente
 
 - Queijo começa a derreter a **~32 °C / 90 °F** (a gordura do leite derrete e o queijo amolece).
-- Durante a **transição sólido→líquido**, o queijo fica **preso na temperatura de fusão** e
-  **impede** a massa embaixo de assar. Só depois de totalmente derretido é que queijo e massa
-  voltam a esquentar juntos.
-- **Mussarela fica mais BRANCA ao assar.** Ela reflete mais e absorve menos; o calor que entra
-  cai por um fator de 2.
+- **(Vol. 1, p. 373)** Durante a **transição sólido→líquido**, o queijo fica **preso na
+  temperatura de fusão** e **impede** a massa embaixo de assar. Só depois de totalmente
+  derretido é que queijo e massa voltam a esquentar juntos.
+- **(Vol. 1, p. 373) Mussarela fica mais BRANCA ao assar.** Ela reflete mais e absorve menos; o
+  calor que entra cai por um fator de 2.
 - **Queijo com mais umidade** tem proteínas mais frouxamente empacotadas, que se separam mais
   fácil no calor — e demora mais para dourar (porque tem mais água para evaporar). É por isso
   que a napolitana tradicional usa mussarela fresca: ela demora mais para dourar no forno
@@ -56,8 +60,9 @@ calibre pelo seu método (`23-coberturas-tecnicas-e-payload.md`).
 ## Por que porcionar importa (para pizzaria)
 1. **Consistência** — cliente quer a mesma pizza toda vez. Mais queijo raramente gera
    reclamação; **menos** queijo gera — e às vezes o cliente simplesmente não volta.
-2. **Custo** — entre massa, molho e queijo, o **queijo é o mais caro**. Um pouquinho a mais
-   por pizza × centenas de pizzas/dia destrói a margem.
+2. **Custo** — entre os três componentes básicos (massa, molho e queijo), o queijo **pode ser**
+   o mais caro; é assim, hedgeado, que o livro diz. Um pouquinho a mais por pizza × centenas
+   de pizzas/dia destrói a margem.
 3. **Tempo de assagem** — quantidade variável de queijo = tempo de assagem variável.
 
 **Como aplicar**: comece pelo **aro externo**, siga a linha do molho e vá para o meio.
@@ -85,7 +90,7 @@ temperatura ambiente amolecem, grudam e empelotam.
 **Pasta filata frescos** (fior di latte, mozzarella di bufala, burrata):
 **Precisam ser escorridos** ou você tem poça no meio da pizza. **Algumas horas já servem; 12 h é
 o número seguro**, e o método a vácuo com almofada absorvente economiza essas 12 h — métodos,
-corte com cortador de batata frita, saída de emergência e a divergência p. 306 × p. 329 em
+corte com cortador de batata frita, saída de emergência e a divergência p. 298 × p. 321 em
 `21-queijo-compra-e-operacao.md`.
 - **Temperar 2 h** antes de usar. Queijo frio esfria a superfície da massa, atrasa a assagem
   e não derrete direito — crítico em napolitana. Tire da geladeira em intervalos de 30 min
@@ -121,14 +126,14 @@ Se estiver usando como molho, aplique **antes** de assar, em camada fina.
 **Processados** (American, Provel): **compre fatiado**. Cortar você mesmo não
 compensa (gruda no fatiador). O Provel também existe em fios extrudados tipo espaguete.
 
-**Catupiry** (p. 320) é a exceção da categoria: é da família do **requeijão** — **espalhável,
+**Catupiry** (p. 312) é a exceção da categoria: é da família do **requeijão** — **espalhável,
 não fatiável**. Vai **extrudado** sobre a pizza, e é vendido em bisnaga plástica ou bisnaga de
 confeitar justamente para isso. Por ser **sensível ao calor**, entra tipicamente **depois de
 assar**. A instrução de comprar fatiado não se aplica a ele.
 
 ## Umidade e gordura por categoria
 
-Tabela de classificação por textura, p. 302 (impressa 294).
+Tabela de classificação por textura, p. 294 impressa (302 do PDF).
 
 | Categoria | Exemplos | Umidade | Gordura |
 |---|---|---|---|
@@ -142,8 +147,8 @@ Tabela de classificação por textura, p. 302 (impressa 294).
 | Moles | cream cheese 50% · quark 79% · cabra 60,75% · ricota 72% · mascarpone 47,8% | — | — |
 
 > **(?) Duas tabelas do livro não batem.** Ao citar, dê a **faixa**: fior di latte **54–58%**,
-> baixa umidade **45–52%**. Os 54% e os 47% acima são da p. 302; a tabela de formas de mussarela
-> da p. 323 dá 58% e 45–52%. Divergência destrinchada em `21-queijo-compra-e-operacao.md`.
+> baixa umidade **45–52%**. Os 54% e os 47% acima são da p. 294; a tabela de formas de mussarela
+> da p. 315 dá 58% e 45–52%. Divergência destrinchada em `21-queijo-compra-e-operacao.md`.
 > O que não muda: fior di latte tem claramente mais água que pizza cheese e doura mais devagar.
 
 ## Guardar mussarela fresca

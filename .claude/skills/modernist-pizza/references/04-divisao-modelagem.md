@@ -1,6 +1,7 @@
 # Divisão, pré-modelagem e transferência
 
-Fonte: *Modernist Pizza*, Vol. 2 — "Making Pizza Dough" e "Baking Pizza".
+Fonte: *Modernist Pizza*, Vol. 2 — "Making Pizza Dough" e "Baking Pizza". Páginas citadas são
+**páginas impressas** do volume 2.
 
 ---
 
@@ -19,24 +20,32 @@ ela ficar elástica.
 
 ## A bancada
 
-- **Nunca inox** para dividir e modelar — a massa gruda e ganha estrias cinza-pretas.
-  Madeira e mármore são melhores: a massa desliza limpa. Madeira é mais barata.
+- **Inox não é proibido — é a pior das opções aceitáveis.** A frase do livro é hedgeada: "aço
+  inox **não é terrível** para trabalhar massa, mas madeira e mármore (ou granito) **são
+  melhores**" (p. 53). O motivo: a massa desliza mais limpa sobre madeira e mármore, e o inox
+  **tende a manchar a massa de cinza-preto**. Em outros dois trechos o livro endurece o tom
+  ("não recomendado para dividir e modelar", p. 12; "não gostamos de inox como superfície de
+  trabalho", p. 46) — mas em nenhum deles manda trocar a bancada. **Madeira é mais barata** que
+  mármore ou outra pedra; granito e granito composto também servem, e custam mais que madeira.
 - O mármore **não é frio**: ele está na temperatura do ambiente e só puxa a massa para o
   equilíbrio com ele. Se a massa ficar tempo demais ali, muda de temperatura.
-- Opção caseira: compensado cru cortado (1 m² × 1,25 cm de espessura, ou 60 cm² se pesado
-  demais), untado com óleo mineral alimentício com papel-toalha, curado 24 h. Colocar sobre
-  tapete de borracha antiderrapante. Nunca use pano úmido para prender (empena a madeira).
-  Nunca lave.
+- Opção caseira: compensado cru cortado em **quadrado de 1 m × 1 m**, espessura padrão
+  **1,25 cm / ½ in** — ou **60 cm × 60 cm** se a placa maior ficar pesada demais para levantar.
+  Unte com óleo mineral alimentício, esfregando com papel-toalha, e deixe **24 h** antes do
+  primeiro uso; repita a untada quando precisar. Colocar sobre tapete de borracha
+  antiderrapante. Nunca use pano úmido para prender (empena a madeira). Antes de cada uso,
+  passe pano **levemente úmido** só para tirar poeira — **nunca lave**, molhar demais empena.
 
 **Mise en place antes de começar**: farinha de bancada (arroz + pão em partes iguais, ou
 semolina fina), balança, água ou borrifador, peneira, escova/pincel de bancada, raspador
 metálico, saco ou lona plástica, timer, e o recipiente/forma onde a massa vai fermentar
 (seco, enfarinhado ou oleado conforme a receita).
 
-**Farinha de bancada**: use a **peneira** — parece mais lento que jogar com a mão, mas é a
-única forma de conseguir camada uniforme. Use só o suficiente para a massa não encostar na
-bancada. Excesso de farinha faz você "perseguir" a massa; escove e borrife uma névoa de
-água para dar aderência (sem exagerar — água demais escorrega igual).
+**Farinha de bancada**: o livro **prefere a peneira** — parece ineficiente por demorar mais que
+jogar com a mão, mas é a **melhor** forma de distribuir camada uniforme. À mão também vale:
+o livro só pede que você espalhe em camada uniforme. Use só o suficiente para a massa não
+encostar na bancada. Excesso de farinha faz você "perseguir" a massa; escove e borrife uma
+névoa de água para dar aderência (sem exagerar — água demais escorrega igual).
 
 > A superfície da **napolitana nunca deve ser enfarinhada**. O truque é agir rápido e
 > nunca manipular por muito tempo, senão gruda nos dedos.
@@ -168,9 +177,14 @@ transfira; monte **o mais rápido possível** (quanto mais demora, maior a chanc
 e apertar demais ao montar também faz grudar). Em pá **perfurada**, cuidado: a massa entra
 nos furos se você apertar.
 
-**Papel-manteiga** (forno doméstico, sobre aço ou pedra): corte ~5 cm maior que o diâmetro
-(pizza de 30–35 cm ⇒ papel de 38 cm). Abra, monte sobre o papel, leve à pá ou a uma assadeira
-virada de cabeça para baixo, deslize. **Não use em forno a lenha** — o papel queima.
+**Papel-manteiga** (forno doméstico, sobre aço ou pedra): o livro publica **duas medidas**. A
+regra geral é papel **~5 cm / 2 in mais largo que o diâmetro** da pizza (p. 409); a instrução
+ilustrada manda apenas cortar "**um pouco maior** que a pizza" e dá um número único —
+**38 cm / 15 in**, redondo ou quadrado — servindo tanto à de 30 cm quanto à de 35 cm (p. 391),
+o que dá +8 cm num caso e +3 cm no outro. Para 30–35 cm, use os 38 cm; fora dessa faixa, a
+regra dos ~5 cm é a única que o livro generaliza. Abra, monte sobre o papel, leve à pá ou a uma
+assadeira virada de cabeça para baixo, deslize. **Não use para napolitana nem em forno a
+lenha** — na temperatura alta o papel queima.
 
 **Enfornar**: posicione a pá exatamente onde a pizza vai ficar → incline o cabo **poucos
 graus** para cima → puxe a pá para trás em **puxões rápidos e sucessivos**.
@@ -184,8 +198,13 @@ graus** para cima → puxe a pá para trás em **puxões rápidos e sucessivos**
   peel**) para girar a pizza dentro do forno.
 - **Improvisadas**: assadeira virada, papelão firme, base de bolo grande.
 - **Mini loading peel** (com pano rolante) — ótima para casa.
-- Pá **não serve para tirar** pizza de forma: use luva, pano seco, alicate ou grampo de
-  assadeira, raspador longo ou espátula angulada larga.
+- Pá **não tira forma do forno** — serve só para **empurrar** a forma dentro dele. Para tirar a
+  forma: **luva, pano de prato limpo e seco, ou grampo/alicate de assadeira** (p. 388; a p. 409
+  repete a mesma lista, com "alicate de inox").
+- Tirar a **pizza de dentro da forma** é outra operação, com outro utensílio: **raspador de
+  bancada grande ou espátula angulada larga**, que o livro lista justamente para "levantar
+  pizzas de forma sem danificar a pizza" (p. 12). Espátula de borracha quebra o galho, com
+  cuidado para não estragar a crosta.
 
 ### Telas de pizza
 Malha fina com aro. 20 a 60 cm. **Sempre borrifar com óleo antes** de pôr a massa.

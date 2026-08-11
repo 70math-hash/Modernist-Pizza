@@ -1,7 +1,8 @@
 # Molho de tomate: consistência, correção de sabor e receitas
 
-Fonte: *Modernist Pizza*, Vol. 2 — cap. "Sauce", p. 211–250; consistência e espessantes,
-p. 242–248.
+Fonte: *Modernist Pizza*, Vol. 2 — cap. "Sauce", parte de tomate, p. 203–242 (páginas de PDF
+211–250); consistência e espessantes, p. 242–248 (PDF 250–256). O capítulo inteiro vai de
+p. 203 a p. 281.
 
 Este arquivo é a **execução e a compra**: medir e ajustar consistência, engrossar, as receitas
 fechadas, correção de sabor, tomate fresco, tamanhos de lata e pesto. A **visão geral** — o que
@@ -15,7 +16,10 @@ ingrediente marcado 100%, exceto onde estiver escrito "sobre o peso do molho".
 
 ## 1. Medir a consistência antes de molhar pizza
 
-### Teste do dedo (o mais rápido — aparece em 3 receitas do capítulo)
+### Teste do dedo (o mais rápido — aparece em 2 receitas do capítulo)
+
+O livro só o descreve em duas fichas: a **variação amatriciana** do New York / Artisan (p. 227)
+e a **Strawberry Marinara** (p. 228).
 
 Colherada do molho num **prato frio**. Deixe esfriar. Passe o dedo no meio. **O molho tem que
 segurar o rastro do dedo.** Se o rastro fecha, está fino demais para New York/artisan.
@@ -66,7 +70,8 @@ dispare o cronômetro no mesmo instante → leia em cm aos 30 s → lave em águ
 
 **Leitura baixa = molho grosso demais** — é o mesmo diagnóstico de "queimou no teste da
 frigideira"; dilua. **Molho que sai líquido depois de assado** pede espessante **antes** de
-assar. Anote a leitura do molho aprovado: vira seu padrão de conferência de lote.
+assar. O passo 5 do método manda **registrar a medida em cm**; guardar a leitura do molho
+aprovado como padrão de conferência de lote a lote é extensão nossa *(inferência nossa)*.
 
 ### As três consistências e a faixa de forno de cada uma
 
@@ -537,8 +542,10 @@ casca; o problema é o descarte ambiental.
 
 ### Tamanhos de lata (padrão EUA)
 
-**"Lata #10" não é um peso único: são três, conforme o produto.** #300 e #2,5 são iguais para
-todos os produtos; o que muda é o #10.
+**"Lata #10" não é um peso único: são três, conforme o produto.** E a linha de formatos menores
+também muda: **extrato de tomate só tem 170 g / 6 oz e #10** — não existe #300 nem #2,5 de
+extrato; e **molho de tomate / pizza sauce tem um formato a mais, 227 g / 8 oz**. Só inteiro
+pelado, cubos, triturado e purê compartilham exatamente o mesmo trio #300 / #2,5 / #10.
 
 | Produto | Pesos | Volume |
 |---|---|---|

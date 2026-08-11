@@ -1,6 +1,6 @@
 # Molhos brancos, cremes, emulsões e caldos
 
-Fonte: *Modernist Pizza*, Vol. 2, cap. "Sauce", p. 242–281 (páginas de PDF 250–292).
+Fonte: *Modernist Pizza*, Vol. 2, cap. "Sauce", p. 242–281 (páginas de PDF 250–289).
 
 **Este é o arquivo das fórmulas fechadas de molho não-tomate**: lácteos, emulsões, caldos,
 molhos de massa e sopa, e vegetais — com peso, rendimento, guarda e procedimento.
@@ -315,7 +315,11 @@ manteiga sem sal derretida **225 g (300%)** · sal fino 4 g (5,33%) · ácido m�
 6. Copo alto: bata a manteiga, o sal e o ácido málico com mixer de mão.
 7. **Mantenha em banho a 60 °C / 140 °F por até 3 h. Descarte o que sobrar.**
 
-> **Resultado praticamente idêntico ao da versão com sifão.** É a que a pizzaria deve usar.
+> **Resultado praticamente idêntico ao da versão com sifão** — e não exige sifão de chantilly.
+
+Dispensar o sifão e as cargas de N₂O é o que a torna a mais prática numa pizzaria
+*(inferência nossa)*. O livro não recomenda uma versão sobre a outra; a única preferência
+que ele declara é pela **Sous Vide Hollandaise** no lugar do molho de tomate na Detroit.
 
 **Versão com sifão (Sous Vide Hollandaise, inspirada em Daniel Humm)** — mesma sequência em
 outra escala: vinho **130%** · echalote **65%** · vinagre **45%** · **gemas 100 g / 5 un.
@@ -438,7 +442,8 @@ Vinagre de champagne **80 g (80%)** · vinagre de marmelo 35 g (35%) · suco de 
 mostarda Dijon 5 g · **alginato de propilenoglicol (PGA) 0,98 g (0,98%)** · **azeite
 extravirgem 100 g (100%)** · óleo de pistache 55 g (55%) · óleo de nozes 30 g (30%) ·
 **lecitina de soja líquida 1,85 g (1,85%)** · sal a gosto. Rende **~325 g**, ativo 5–10 min.
-É a única emulsão do capítulo que vai **antes** de assar.
+É a única emulsão **não estável** do capítulo que vai **antes** de assar — as estáveis ao calor
+(holandesa, bearnaise) também podem ir antes, durante ou depois.
 
 1. Vinagres + suco de pera + mostarda + PGA numa panelinha; leve a **60 °C / 140 °F** em fogo
 médio. 2. Mixer de mão **sobre o fogo** até incorporar totalmente; tire do fogo.
@@ -544,13 +549,13 @@ rápido**, para não crescer bactéria.
 | Vegetal | cebola 33 · cenoura 25 · alho-poró 8 · tomate 8 · aipo 5 · cogumelo 5 | salsinha 0,75 · louro 0,01 · tomilho 0,1 · cebolinha 1 | pimenta em grão 0,1 · coentro 0,2 · anis-estrelado 0,2 |
 | Ave | cebola 6 · cenoura 5 · alho-poró 5 | salsinha 0,5 · alho 1 | pimenta em grão 0,1 |
 | Carne / boi | cebola 10 · cenoura 10 · aipo 2 · extrato de tomate (marrom) 5 | tomilho 0,8 · alecrim 0,15 | anis-estrelado 0,05 · alho 1 |
-| Caça / cordeiro | cebola 7 · cenoura 7 · aipo 2 | louro 0,01 · tomilho 1 · sálvia 0,2 | anis-estrelado 0,2 · alho 2 |
-| Crustáceo | cenoura 5 · cebola 5 · alho-poró 2 · funcho 2 · champignon 2 · extrato de tomate (marrom) 5 | salsinha 0,25 · tomilho 0,1 · manjericão 0,2 | **pimenta em grão 0,2 (?)** · funcho em grão 0,01 · açafrão 0,005 |
+| Caça / cordeiro | cebola 7 · cenoura 7 · aipo 2 | louro 0,01 · tomilho 1 · sálvia 0,2 | anis-estrelado 0,2 · alho 2 · **pimenta em grão 0,2** |
+| Crustáceo | cenoura 5 · cebola 5 · alho-poró 2 · funcho 2 · champignon 2 · extrato de tomate (marrom) 5 | salsinha 0,25 · tomilho 0,1 · manjericão 0,2 | funcho em grão 0,01 · açafrão 0,005 |
 | Peixe | cenoura 33 · cebola 26 · alho-poró 13 · funcho 13 · extrato de tomate (marrom) 5 | alho 2 | anis-estrelado 0,3 · coentro 0,2 |
 
-> **(?)** A fronteira entre as linhas de caça/cordeiro e crustáceo na coluna de especiaria
-> ficou ambígua na extração: **pimenta-do-reino em grão 0,2** pode pertencer a qualquer uma
-> das duas. Está em crustáceo por coerência culinária (funcho + açafrão + pimenta).
+> **Caldo de crustáceo não leva pimenta em grão** — só funcho em grão e açafrão. A coluna de
+> especiaria da tabela (p. 270) casa linha a linha com a de vegetal/erva, e a pimenta em grão
+> 0,2 cai na terceira linha de **caça/cordeiro**, não na primeira de crustáceo.
 
 ---
 
@@ -840,4 +845,6 @@ podem ir antes. Sabayon pode ir na metade.
 6. **É creme de leite?** Queijo primeiro, creme regado por cima — 50 g napolitana, 120 g New
 York, mascarpone 65 g em Detroit.
 7. **É sopa?** Separe os sólidos e use-os como cobertura **sobre o queijo**.
-8. **Anote o resultado do molho aprovado** — é o seu padrão de conferência de lote.
+8. **Anote o resultado do molho aprovado.** Registrar a medida é o passo 5 do método Bostwick;
+   usar essa leitura como padrão de conferência de lote a lote é extensão nossa
+   *(inferência nossa)*.

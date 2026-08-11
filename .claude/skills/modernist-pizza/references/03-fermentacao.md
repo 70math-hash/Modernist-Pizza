@@ -2,6 +2,9 @@
 
 Fonte: *Modernist Pizza*, Vol. 2 — "Making Pizza Dough"; Vol. 1 — "Yeast / Preferments".
 
+> **Todas as páginas citadas aqui são as páginas impressas**, as mesmas que o próprio livro usa
+> nas suas referências internas ("see page 75"). Sem indicação de volume, é o **vol. 2**.
+
 ---
 
 ## A pergunta que vem antes de tudo
@@ -20,7 +23,7 @@ horas para chegar à temperatura).
 | Pré-fermento, ambiente ou quente | thin-crust | **37¾–43⅓ h** |
 | Pré-fermento + frio | New York, artisan | **38½–66¾ h** |
 
-> **A thin-crust não exige frio.** No quadro de p. 25 ela aparece como "pré-fermento, ambiente ou
+> **A thin-crust não exige frio.** No quadro da p. 17 ela aparece como "pré-fermento, ambiente ou
 > quente", e as **24 h de prova fria estão marcadas como opcional** — o total de 37¾–43⅓ h já as
 > inclui. Quem exige frio é a dupla New York / artisan.
 
@@ -55,8 +58,9 @@ elas vão a glúten total e só fazem um *bench rest* de 15–20 min.
 | Glúten total (exceção) | **20–24 h a 21 °C** | 0 | **napolitana-mestre** |
 
 > **Napolitana, o passo que falta**: o bulk de 20–24 h produz massa muito forte. Depois de dividir
-> e pré-modelar, as bolas precisam de **no mínimo 3 h** de descanso (ficha de receita: **3–4 h a
-> 21 °C**, coberta) antes de abrir e assar. Sem esse descanso, a bola não estica.
+> e pré-modelar, as bolas provam **3 h a 21 °C**, cobertas (ficha-mestre, p. 124; cronograma da
+> p. 17) antes de abrir e assar. Sem esse descanso, a bola não estica — o experimento da p. 88
+> testou descansos de 2, 3 e 4 h e **3 h deu o melhor resultado**.
 
 Regra geral: **quanto menos você mistura, mais dobras precisa**. Glúten baixo pode pedir
 8 dobras ou mais.
@@ -134,7 +138,7 @@ fermentação é produzida aqui). O maior ganho de volume, porém, vem do forno.
 | **Quente (proofer)** | **27 °C / 80 °F, 65% UR** | Recomendação do livro para proofer, em todos os casos. Limpar o proofer após cada uso (ou pelo menos deixar a porta aberta secando) para não criar mofo. |
 | **Adega de vinho 13 °C** | — | Testado para focaccia e al taglio: **não recomendado**. Serve para **armazenar levain**, não para fermentar massa. |
 
-> **Frio não é opção universal**: "cold-proofing doesn't work for all types of dough" (p. 78). O
+> **Frio não é opção universal**: "cold-proofing doesn't work for all types of dough" (p. 70). O
 > livro **não recomenda o frio para as massas assadas em forma** — dá **menos volume**. Na prática:
 > focaccia, NY square, al taglio e Detroit vão a **ambiente ou quente**, nunca a 4 °C. Massas com
 > levain, ou com levain + fermento comercial, fermentam bem no frio.
@@ -152,15 +156,19 @@ al taglio 3 h · Detroit 3 h.
 
 > **Thin-crust e deep-dish: o livro se contradiz.** Regra da skill — a **ficha de receita manda
 > sobre o quadro geral**; os valores acima são os das fichas.
-> Thin-crust: a ficha da p. 110 dá **2–3 h**; o quadro da p. 75 dá 2 h e o da p. 25 dá 1½–2 h —
+> Thin-crust: a ficha da p. 110 dá **2–3 h**; o quadro da p. 75 dá 2 h e o da p. 17 dá 1½–2 h —
 > trabalhe com 2–3 h.
-> Deep-dish: a ficha da p. 118 dá **1½ h**; o quadro da p. 75 dá 2–4 h e o da p. 25 dá 1½–2 h —
+> Deep-dish: a ficha da p. 118 dá **1½ h**; o quadro da p. 75 dá 2–4 h e o da p. 17 dá 1½–2 h —
 > trabalhe com 1½ h.
 
 > **Ambiguidade do livro na napolitana**: a p. 75 lista "napolitana 20–24 h" no meio das provas em
-> ambiente, como se fosse prova final. A p. 31, a p. 65 e a ficha de receita (p. 43) dizem outra
-> coisa: as 20–24 h são o **bulk em bloco, sem dobras**; depois de dividir e pré-modelar, as bolas
-> provam **3–4 h a 21 °C** (mínimo 3 h). **Siga a ficha**: bulk 20–24 h + prova 3–4 h.
+> ambiente, como se fosse prova final. A ficha-mestre (p. 124), o cronograma da p. 17 e o
+> experimento da p. 88 dizem outra coisa: as 20–24 h são o **bulk em bloco, sem dobras**; depois
+> de dividir e pré-modelar, as bolas provam **3 h a 21 °C**, cobertas.
+> **Siga a ficha**: bulk 20–24 h + prova **3 h**.
+> O "3–4 h" que circula por aí está no livro, mas **fora da mestre**: nas grades de variação
+> (daily pizza p. 43, no-knead p. 183–184), no HOW TO de mistura no-knead (p. 47) e no descanso
+> do *dough CPR* (p. 77). Nenhuma dessas é a napolitana-mestre.
 
 **Achados do experimento de prova:**
 - New York e artisan **exigem** frio. Fermentadas em ambiente ou quente, ficam com sabor
@@ -199,8 +207,8 @@ chegar à temperatura.
 
 - Tirar da geladeira **1½–2 h antes** — ou o tempo que a massa levar para chegar a
   **13 °C / 55 °F** internos. As fichas de receita (p. 110–166) dão **1½–2 h**; o quadro da
-  p. 75 e o texto da p. 24 dão 2 h — trabalhe com 1½–2 h.
-- Os 13 °C são recomendação do **próprio livro** (p. 75), não de terceiros. A p. 24 apresenta o
+  p. 75 e o texto da p. 16 dão 2 h — trabalhe com 1½–2 h.
+- Os 13 °C são recomendação do **próprio livro** (p. 75), não de terceiros. A p. 16 apresenta o
   mesmo número como exigência de "alguns pizzaiolos" e registra que, nos testes, 2 h levaram a
   massa a pelo menos 18 °C / 65 °F. Leitura prática: **13 °C é o piso**, e 2 h costumam passar
   disso com folga.
@@ -259,9 +267,14 @@ haver perda séria de qualidade.
 
 Funciona muito bem para napolitana; funciona bem para thin-crust, brasileira, New York,
 artisan, deep-dish **e Detroit** — a p. 77 nomeia a Detroit na lista, apesar de ela ser assada
-em forma. Fora da lista ficam **focaccia, NY square e al taglio**, as de alta hidratação que
-fermentam dentro da forma: reboleadas, não voltam mais aos cantos. O passo do descanso de
-3–4 h é obrigatório: rebolear cria muita tensão.
+em forma. **Focaccia, NY square e al taglio não aparecem na lista** — o livro simplesmente não
+as cita. O passo do descanso de 3–4 h é obrigatório, e a razão é a única que o livro dá:
+"rebolear produz muita tensão na massa e pode deixá-la dificílima de abrir sem rasgar".
+
+> **Isto não está no livro.** O livro não explica *por que* focaccia, NY square e al taglio
+> ficam de fora — pode ser que não tenham sido testadas. Nossa leitura: são as de alta
+> hidratação que fermentam dentro da forma, e uma bola reboleada dificilmente volta a preencher
+> os cantos. Se você quiser tentar mesmo assim, é território não coberto pelo livro.
 
 ---
 
@@ -283,7 +296,7 @@ Se a estética não importa: asse do mesmo jeito.
 
 ## Pré-fermentos
 
-### Biga e sponge: por que não estão neste livro (vol. 1, p. ~298)
+### Biga e sponge: por que não estão neste livro (vol. 1, p. 298)
 
 **Procurou biga no livro e não achou? Ela está lá, num parágrafo só — e é uma recusa
 deliberada, não um esquecimento.**
@@ -308,10 +321,13 @@ paga. Uma biga tradicional a 45–50% de hidratação **não é conversão trivi
 100%**: muda a farinha fermentada, a água da massa final e o tempo de mistura. Isso é
 território seu, não do livro.
 
-> As **6 menções a biga** no livro inteiro: esta, e cinco casas visitadas que usam biga —
-> **Pepe in Grani** (Franco Pepe, um dos poucos pizzaioli que o livro encontrou usando biga),
-> **Dry Milano** e uma casa de fatia em Roma (`25-pesquisa-de-campo.md`). Nenhuma vem com
-> fórmula. No **volume 2 a palavra não aparece nenhuma vez**.
+> As **6 ocorrências de "biga"** no livro inteiro: **duas** nesta passagem de definição (p. 298),
+> **três** em casas visitadas e **uma** no índice remissivo ("bigas, 298"). As casas são **três**,
+> não mais: **Pepe in Grani** (p. 161 — Franco Pepe, "um dos poucos pizzaioli que encontramos
+> usando uma biga"), **Dry Milano** (p. 187 — massa de biga, fermentada a frio, forno a lenha) e
+> **L'Industrie Pizzeria**, no **Brooklyn** (p. 222 — a pizza quadrada é assada em massa de biga).
+> Ver `25-pesquisa-de-campo.md`. Nenhuma vem com fórmula. No **volume 2 a palavra não aparece
+> nenhuma vez**.
 
 ### Farinha fermentada: quanto do pré-fermento você realmente está usando
 
@@ -322,9 +338,16 @@ que diz o quanto os atributos do pré-fermento vão aparecer.
 > tinha para dar** — sabor, tempo de fermentação, estrutura.
 
 A focaccia-mestre é **32% de poolish e 15% de levain**: **quase metade da massa vem de farinha
-fermentada**, e é por isso que ela é a mestre de sabor mais desenvolvido. Se você trocar um
-pré-fermento por outro sem refazer essa conta, muda o resultado sem saber por quê — a aritmética
-está em `18-calculo-e-escalonamento.md`.
+fermentada**. É a **única mestre que leva os dois pré-fermentos**: as demais levam **um só** —
+poolish + fermento instantâneo na thin-crust, New York, artisan e NY square, e **levain** +
+fermento instantâneo na **al taglio de alta hidratação**. Se você trocar um pré-fermento por outro
+sem refazer essa conta, muda o resultado sem saber por quê — a aritmética está em
+`18-calculo-e-escalonamento.md`.
+
+> **Cuidado com a leitura inversa**: o livro não diz que "mais pré-fermento é melhor", e na mesma
+> página adverte — *"exagerar nos pré-fermentos pode deixar a crosta da sua pizza ácida demais.
+> Além disso, você quer assar uma pizza, não um pré-fermento com um pouco de farinha adicionada."*
+> Não aumente pré-fermento em outras massas "para chegar ao nível da focaccia".
 
 ### Poolish
 100% de hidratação: farinha + água em partes iguais + fermento instantâneo.
@@ -343,9 +366,13 @@ Não tem a acidez do levain. Muito usado na América do Norte; raro na Itália.
 estrutura melhor e sabor de fermentação mais pronunciado. Quando "esgota" (a levedura fica
 sem comida), é preciso começar de novo.
 
-**Por que usar**: zero manutenção; adianta a hidratação da farinha; reduz o tempo de
-mistura (e portanto o risco de superaquecer a massa); dá miolo visualmente melhor;
-flexibiliza o cronograma.
+**Por que usar** — o quadro "Why Use a Poolish?" (vol. 1, p. 300): zero manutenção; a mistura
+molhada e já totalmente hidratada é fácil de incorporar (vai direto na água); **reduz o tempo de
+mistura e o desenvolvimento da massa, produzindo miolo visualmente melhor**; flexibiliza o
+cronograma (dá para ajustar o fermento e ter o poolish pronto entre 3 e 18 h).
+
+Menos tempo de batedeira também significa menos fricção e menos calor na massa — mas isso é
+leitura nossa, não está no quadro do livro *(inferência nossa)*.
 
 ### Levain
 Farinha + água + levedura selvagem + bactérias lácticas. Do zero, leva no mínimo **5 dias**.
@@ -386,11 +413,18 @@ Use junto com fermento instantâneo de **0,43% a 1,5%** conforme o estilo — a 
 - Se você **não** dissolver o fermento instantâneo, a prova demora **20–30 min a mais**.
 - Em massa de hidratação ≤55%, pode não haver água suficiente para dissolver o fermento;
   vão sobrar grânulos, mas eles se dissolvem durante a fermentação.
-- **Fresco × instantâneo: mesma cepa, sem diferença de sabor.** Os napolitanos usam fresco
-  por tradição, não por resultado.
+- **Fresco × instantâneo: mesma espécie, cepas diferentes — mas sem diferença na pizza.**
+  "Quase todos contêm a espécie *Saccharomyces cerevisiae*, **mas as cepas variam**"; o
+  instantâneo é feito "com uma cepa de ação rápida de *S. cerevisiae*". O que o livro nivela é o
+  **resultado**, não a biologia: *"não há diferença na pizza resultante"* e *"fermento é fermento
+  é fermento"*. Em Nápoles, no norte da Itália, em São Paulo e em Buenos Aires a maioria usa
+  fresco, e sobre a escolha de tipo o livro observa: *"muitas vezes a preferência por um tipo de
+  fermento em vez de outro é mais hábito do que escolha consciente"*.
+  **Mesmo resultado não é mesma dose**: para trocar, use sempre a tabela de conversão acima
+  (×3 de instantâneo para fresco).
 - Faixas de uso: prova em **ambiente** ⇒ 0,01–0,08%. Prova **longa no frio** ⇒ 0,25–0,5%.
 
-### O veredito: qual fermento usar (vol. 1, p. 329)
+### O veredito: qual fermento usar (vol. 1, p. 297)
 
 Entre os experimentos do *Modernist Bread* e os do *Modernist Pizza*, **o favorito claro é o
 instantâneo**: incorpora melhor na massa que o seco ativo e tem **mais células vivas**. O livro

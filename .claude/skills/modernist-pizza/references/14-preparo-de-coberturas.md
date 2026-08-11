@@ -25,33 +25,33 @@ cruas**, que vão depois. Frutas e legumes **secos**: reidrate num líquido sabo
 
 ---
 
-## Tabela: usar cru ou não
+## Tabela: usar cru ou não (p. 358–359)
 
 | Ingrediente | Cru? | Métodos recomendados se cozinhar |
 |---|---|---|
-| Maçã, pera, caqui Fuyu | **Sim** — sem miolo, fatiado fino na mandolina (mais grosso se for cozinhar) | assar |
-| Alcachofra baby | **Não** — pré-cozimento é obrigatório | refogar · sous vide |
-| Frutas vermelhas, groselha | Sim — mas podem estourar e molhar o topo | grelhar · assar |
-| Brócolis (floretes) | Sim — com azeite, sal e pimenta | grelhar · vapor |
-| **Brócolis-rabe** | **Não** (os talos são duros demais) | escalfar · refogar |
-| Couve-flor (floretes) | Sim — com azeite, sal e pimenta | vapor · assar |
-| Milho (grãos) | Sim | assar · refogar |
-| **Berinjela** | **Não** | assar · fritar · refogar |
-| Figo | Sim — sem cabinho, em quartos, oitavos ou rodelas | vapor · assar |
-| Alho | Sim — fatiado fino ou picado, com azeite e sal | assar · char · refogar |
+| Maçã, pera, caqui Fuyu | **Sim** — sem miolo, fatiado fino na mandolina (mais grosso se for cozinhar) | assar · refogar · sous vide · grelhar |
+| Alcachofra baby | **Não** — pré-cozimento é obrigatório | assar · grelhar · vapor · escalfar |
+| Frutas vermelhas, groselha | Sim — mas podem estourar e molhar o topo | refogar |
+| Brócolis (floretes) | Sim — com azeite, sal e pimenta | vapor · assar |
+| **Brócolis-rabe** | **Não** (os talos são duros demais) | assar · refogar |
+| Couve-flor (floretes) | Sim — com azeite, sal e pimenta | assar · fritar · refogar · vapor |
+| Milho (grãos) | Sim | assar · char · refogar |
+| **Berinjela** | **Não** | assar · refogar · sous vide |
+| Figo | Sim — sem cabinho, em quartos, oitavos ou rodelas | assar · escalfar · grelhar |
+| Alho | Sim — fatiado fino ou picado, com azeite e sal | assar · confit · refogar |
 | **Abóbora, butternut, delicata** | **Não** | assar · refogar · sous vide |
-| Folhas (espinafre, couve, rúcula, escarola) | Sim — **depois de assar** | assar · escalfar · grelhar |
-| Cogumelo | Sim — com azeite, sal e pimenta | assar · confit · refogar |
-| Azeitona | Sim (tecnicamente já vem em salmoura) | assar |
+| Folhas (espinafre, couve, rúcula, escarola) | Sim — **depois de assar** | refogar |
+| Cogumelo | Sim — com azeite, sal e pimenta | assar · refogar |
+| Azeitona | Sim (tecnicamente já vem em salmoura — **nunca existe crua**) | assar |
 | Cebola | Sim — fatiada fina, azeite e sal | assar · char · refogar · confit |
 | Pimentão (todas as variedades, inclusive picantes) | Sim — azeite, sal e pimenta | assar · char |
-| Abacaxi | Sim — em pedaços de uma mordida | assar · grelhar |
-| **Batata** | **Não** | refogar · assar · confit · fritar |
+| Abacaxi | Sim — em pedaços de uma mordida | assar · grelhar · refogar |
+| **Batata** | **Não** | assar · confit · fritar |
 | **Marmelo** | **Não** | assar · escalfar · vapor · **caramelizar sob pressão** |
 | Radicchio | Sim — fatiado fino ou rasgado, **depois de assar** | refogar |
 | **Ruibarbo** | **Não** | assar · escalfar |
-| Frutas de caroço | Sim — sem caroço, fatiado fino ou em metades/quartos/oitavos | assar · refogar |
-| Abobrinha e abóbora de verão | Sim — em bastões, fatias ou pedaços | escalfar · assar · refogar |
+| Frutas de caroço | Sim — sem caroço, fatiado fino ou em metades/quartos/oitavos | assar · refogar · escalfar |
+| Abobrinha e abóbora de verão | Sim — em bastões, fatias ou pedaços | assar · refogar |
 | **Tupinambo (sunchoke)** | **Não** | assar |
 | Tomate | Sim — em metades, quartos ou oitavos | assar · **concasse** |
 

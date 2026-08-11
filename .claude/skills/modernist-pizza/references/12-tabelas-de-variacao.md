@@ -194,9 +194,12 @@ ou mais, até glúten total → **descanso 30 min coberto** → seguir a mestre.
 
 **Regras operacionais:**
 
-- **Massa fina tem variação com inclusão** (110 g sobre 490 g de farinha). O que o livro
-  exige é **tamanho máximo de 3 mm / ⅛ in** nos pedaços — o que limita a abertura é o
-  pedaço grande, não a inclusão em si.
+- **Massa fina: o livro se contradiz, e você precisa dos dois lados.** A grade tem linha de
+  thin-crust (110 g sobre 490 g de farinha), e a nota da grade (p. 179) diz: em massa fina,
+  use inclusões que **não sejam grandes demais** — pedaços, nacos ou cubos grandes limitam a
+  sua capacidade de abrir a massa fina —, com **máximo de cerca de 3 mm / ⅛ in**. Já o texto
+  que apresenta a variação (p. 101) diz: *"não recomendamos usar esse tipo de inclusão em
+  massa fina, porque o tamanho das inclusões vai fazer a massa rasgar na modelagem"*.
 - **Sal na inclusão: 1% sobre o peso do grão** (não sobre a água nem sobre a farinha).
   Inclusão sem tempero dilui o sabor da crosta.
 - Grãos podem ser **demolhados, germinados, ou cozidos em mingau/purê** — cada preparo dá uma
@@ -206,6 +209,13 @@ ou mais, até glúten total → **descanso 30 min coberto** → seguir a mestre.
 - **Qualquer preparo quente (mingau, purê, torra) precisa esfriar antes de entrar na massa.**
 - Napolitana: dá para usar **grano arso (farinha queimada) como inclusão**, para somar sabor
   tostado.
+
+> **Isto não está no livro.** O livro não escolhe entre a linha de thin-crust da grade e a
+> recomendação contrária da p. 101 — as duas ficam de pé, sem que ele reconcilie. Como a
+> skill precisa dizer o que fazer: trate o teto de 3 mm como **condição de uso**, não como
+> conforto. Pedaço maior que isso em massa fina rasga na abertura, que é exatamente o
+> defeito que a p. 101 prevê. Na primeira vez, ou quando não der para controlar o tamanho
+> do pedaço, siga a recomendação conservadora e deixe a inclusão fora da massa fina.
 
 ## 5. Country style (centeio + integral)
 
@@ -236,9 +246,14 @@ extra; siga a mestre no resto.
 
 > **Não esqueça o fubá** — na thin-crust e na deep-dish ele é adicional às farinhas, não
 > entra na conta dos 100%.
-> A grade da p. 188 pede **farinha integral comum** — as colunas são "all-purpose, bread flour
-> ou mix (~70%)", "whole wheat flour (~15%)" e "light, medium ou dark rye flour (~15%)".
-> **T85 não aparece nesta grade**; a menção a T85 vem do vol. 1 p. 100, fora daqui.
+> As colunas da grade (p. 180) são "all-purpose, bread flour ou mix (~70%)", "whole wheat
+> flour (~15%)" e "light, medium ou dark rye flour (~15%)" — ou seja, a **grade imprime
+> farinha integral comum**. Mas o texto que apresenta a variação (p. 101) diz que **"as
+> receitas pedem farinha T85"**, que tem um pouco menos de farelo e gérmen que a integral
+> comum e por isso dá um miolo mais aberto, leve, ainda com sabor de integral — e completa:
+> **"se você não achar T85, integral comum serve"**. Ou seja: **T85 é o padrão do texto,
+> integral comum é o substituto que a grade imprime** — e os pesos da grade valem para os
+> dois, já que o livro autoriza a troca sem mexer em quantidade *(inferência nossa)*.
 
 ## 6. Grãos antigos
 

@@ -1,6 +1,9 @@
 # Queijo: compra, preparo e conservação
 
-Fonte: *Modernist Pizza*, Vol. 2, cap. 9 "Cheese", p. 293–322.
+Fonte: *Modernist Pizza*, Vol. 2, cap. 9 "Cheese", p. **285–314 impressas** (293–322 do PDF).
+
+**Todas as páginas citadas aqui são as impressas** — as mesmas que o livro usa no índice e nas
+remissões internas ("see page 304"). Para achar no PDF, **some 8**.
 
 Complementa `08-queijos-e-coberturas.md` (física do derretimento, gramagem por estilo, preparo
 por categoria, tabela de umidade e gordura por categoria, tabela de problemas) e
@@ -13,13 +16,13 @@ fresca**, **antiaglomerante do ralado** e a **divergência de umidade da fior di
 
 ## 1. Tamanho do ralo não muda nada. O peso muda tudo
 
-Experimento (p. 310): o **mesmo bloco** de pizza cheese em quatro formatos — fatiado a
+Experimento (p. 302): o **mesmo bloco** de pizza cheese em quatro formatos — fatiado a
 **3 mm / 0,12 in** e ralado **fino, médio e grosso**. Porções de **peso igual**, cobertura
 completa sem falhas, mesmo tempo e mesma temperatura, em pizza New York.
 
 **Resultado: derretimento e douramento praticamente iguais nos quatro.**
 
-Complemento (p. 306): tentaram deixar a mussarela quase congelada e ralar a
+Complemento (p. 298): tentaram deixar a mussarela quase congelada e ralar a
 **2–3 mm de diâmetro** procurando derretimento mais uniforme — **não mudou o resultado de
 forma significativa**.
 
@@ -28,8 +31,11 @@ forma significativa**.
 
 ### O que você está comprando no ralado industrial
 
-- O pré-ralado de mercado é **projetado para pizza que assa em 4–6 minutos**. Se a sua assa em
-  **90 s** (napolitana), esse produto não foi feito para ela.
+- **Muitos** dos queijos usados em pizza existem pré-ralados, e eles são **projetados para
+  funcionar melhor em pizza que assa em 4–6 minutos**. Isso é o que o livro diz — e não é
+  desqualificação para napolitana: o próprio capítulo assou **pizza cheese** em massa e
+  temperatura napolitanas com bom resultado (seção 3). O que barra a troca em napolitana é a
+  **regra AVPN**, não o derretimento.
 - Barra (log) é **marginalmente mais barata** que ralado, mas ralar custa **mão de obra** —
   faça a conta antes de trocar (e leia a armadilha do processador na seção 6).
 - Ralando você mesmo: use **o maior furo possível**, exceto em queijo muito duro.
@@ -72,7 +78,7 @@ permite até 4%.
 
 O livro viu pizzaiolos respeitados usando **scamorza** e **caciocavallo** em napolitana, junto
 com ou **no lugar** de fior di latte e bufala. Testou scamorza, caciocavallo e pizza cheese em
-massa napolitana, em temperatura napolitana (p. 306):
+massa napolitana, em temperatura napolitana (p. 298):
 
 - **Todos derreteram de forma semelhante e ficaram visualmente quase iguais**, com diferenças
   pequenas de separação de gordura e de douramento.
@@ -80,8 +86,10 @@ massa napolitana, em temperatura napolitana (p. 306):
 - **Caciocavallo** deu salinidade e caráter mais marcados, por ser maturado mais tempo que a
   scamorza.
 
-É o achado que mexe no custo do prato: em napolitana o queijo é o insumo mais caro da pizza, e
-esses três derretem parecido a 425–480 °C.
+É o achado que mexe no custo do prato: entre os **três componentes básicos** da pizza — queijo,
+molho e massa — o queijo **pode ser** o mais caro (p. 305; é assim, hedgeado e genérico, que o
+livro diz — não "é sempre", nem especificamente sobre napolitana). E os três queijos acima
+derretem parecido a 425–480 °C.
 
 **Ambiguidade a registrar:** o mesmo capítulo diz que o pizza cheese, apesar de derreter
 perfeitamente, **é melhor aproveitado em temperaturas mais baixas** — e que **para AVPN só vale
@@ -111,7 +119,7 @@ Maturação de referência:
 O livro publica dois quadros com valores diferentes para os mesmos queijos. Nenhum dos dois é
 erro de leitura — são leituras concorrentes do próprio livro.
 
-| Queijo | Classificação por textura (p. 302) | Formas de mussarela (p. 323) |
+| Queijo | Classificação por textura (p. 294) | Formas de mussarela (p. 315) |
 |---|---|---|
 | **Fior di latte** | **54%** | **58%** |
 | Mozzarella di bufala | 58% | 58% |
@@ -180,18 +188,18 @@ Notas de uso:
 ### Escorrer mussarela fresca (fior di latte, bufala, fresca fatiada)
 
 **Sem escorrer você tem poça no meio da pizza.** O livro dá dois procedimentos e **eles não
-batem no tempo**: a **p. 306** apresenta como procedimento da casa o **coador ou peneira forrado
+batem no tempo**: a **p. 298** apresenta como procedimento da casa o **coador ou peneira forrado
 com pano de queijo sobre uma tigela grande**, escorrendo por **algumas horas** (a noite toda
-refrigerado é o *ideal*, não o mínimo); a **p. 329** chama de "procedimento usual" o **papel
+refrigerado é o *ideal*, não o mínimo); a **p. 321** chama de "procedimento usual" o **papel
 absorvente sem fiapos, coberto, 12 h refrigerado**, e afirma que as alternativas (coador com
 pano; hotel pan perfurado sobre outro liso, que recolhe o líquido) **também exigem 12 h**.
-Na prática: **algumas horas já servem; 12 h é o número seguro** — e é sobre as 12 h que a p. 329
+Na prática: **algumas horas já servem; 12 h é o número seguro** — e é sobre as 12 h que a p. 321
 mede o ganho do método a vácuo.
 
 | Método | Tempo | Quando usar |
 |---|---|---|
-| Papel absorvente sem fiapos, coberto, refrigerado | **12 h** | Procedimento usual da p. 329 |
-| Coador ou peneira com pano de queijo sobre tigela | **algumas horas a 12 h** | Procedimento da p. 306 |
+| Papel absorvente sem fiapos, coberto, refrigerado | **12 h** | Procedimento usual da p. 321 |
+| Coador ou peneira com pano de queijo sobre tigela | **algumas horas a 12 h** | Procedimento da p. 298 |
 | Hotel pan perfurado sobre hotel pan liso | **12 h** | Volume, cozinha montada |
 | **Vácuo com almofada absorvente** | **imediato** | Volume e pressa — **economiza as 12 h** |
 | Espremer no pano | imediato | **Só emergência** |
@@ -260,9 +268,10 @@ espalha), *melt time* e *stretchability* (fios coesos e quanto esticam antes de 
 
 **A armadilha:** no processador, a força com que o operador empurra o queijo varia com a
 **altura e a força física de quem opera** — e isso **muda a espessura do ralo**. Empurrando
-fraco sai ralo **mais fino**, e ralo mais fino **gasta mais queijo por pizza**. Com pessoas
-diferentes na mesma máquina em turnos diferentes, o consumo de queijo varia sem ninguém notar,
-e o desvio aparece no fechamento do mês, não na bancada.
+fraco sai ralo **mais fino**, e **pode haver consumo maior de queijo** quando o ralo sai mais
+fino. Aqui o livro para. Com pessoas diferentes na mesma máquina em turnos diferentes, o consumo
+varia sem ninguém notar e o desvio aparece no fechamento do mês, não na bancada
+*(inferência nossa)*.
 
 Duas saídas: **pesar o ralado por pizza** (o formato não importa, seção 1) ou **terceirizar** —
 o empório ou o distribuidor fatia **na espessura que você especificar**.
@@ -319,8 +328,10 @@ ralado, provolone, cheddar, gorgonzola esfarelado, parmesão ralado), avaliados 
 | **12 semanas** | Assaram bem (parmesão sem variação nenhuma), **mas com separação de óleo visível** — a matriz proteica colapsou e não segura mais a gordura | Granulosos já crus; ainda choram líquido, mas o líquido evapora na assagem |
 
 - **Não congele queijo mole.** O prejuízo é pizza ensopada.
-- **Semiduros a duros: 6 a 12 semanas**, e essa é a janela inteira. Depois disso, conte com
-  **oiling off** — óleo separando na pizza, indesejável na maioria dos estilos.
+- **Semiduros a duros: o livro recomenda guardar de 6 a 12 semanas.** Mas o **oiling off** — óleo
+  separando na pizza, indesejável na maioria dos estilos — **já foi observado em 12 semanas**,
+  dentro da janela recomendada, não depois dela. Ou seja: 12 semanas é teto **com** o defeito
+  presente, não teto limpo.
 
 ---
 
@@ -349,8 +360,10 @@ queijos; refrigerados avaliados **semanalmente por 6 semanas**, os de ambiente *
 **Teto do livro: no máximo 4 dias em temperatura ambiente, em saco Cryovac.**
 
 **Sem cilindro e sem seladora de câmara**, o saco zip purgado com CO₂ do **sifão de chantilly**
-é a alternativa válida — quase **triplica** a validade refrigerada. Se o queijo vem em bloco, dá
-para **selar o bloco inteiro a vácuo**.
+é a alternativa válida — mas dimensione o estoque pelo ganho real: leva a validade refrigerada
+de **2 semanas para mais de 3**, cerca de **1,5×**. Quem chega perto de triplicar é o **Cryovac
+com CO₂ de cilindro** (5 semanas, ~2,5×) — exatamente o recurso que você não tem nesse cenário.
+Se o queijo vem em bloco, dá para **selar o bloco inteiro a vácuo**.
 
 ---
 
@@ -439,18 +452,26 @@ sem fiapos. Fita de pH funciona, custa menos e é **menos precisa**.
 
 ---
 
-## 13. Onde o livro contradiz a si mesmo na gramagem de queijo
+## 13. A frase da p. 299 × a tabela da p. 304: leia com o peso de massa junto
 
-A p. 307 afirma: *"para pizza New York ou artisan você precisa de menos queijo do que numa
-thin-crust porque ela esquenta mais rápido."* A tabela oficial da p. 304 diz o contrário no
-mesmo diâmetro:
+> **Isto não está no livro.** O livro não declara contradição nenhuma aqui — a leitura abaixo é
+> nossa. Está registrada para ninguém "corrigir" a gramagem pelo texto corrido, e para ninguém
+> sair atribuindo ao livro uma incoerência que ele não tem no caso mais citado.
 
-| Diâmetro | Thin-crust | New York | Artisan |
+A p. 299 afirma: *"para pizza New York ou artisan você precisa de menos queijo do que numa
+thin-crust porque ela esquenta mais rápido."* Em **peso absoluto**, no mesmo diâmetro, a tabela
+da p. 304 dá o contrário — mas essa mesma tabela publica também o **peso de massa**, e é aí que
+a frase se resolve:
+
+| 40 cm | Thin-crust | New York | Artisan |
 |---|---|---|---|
-| 40 cm | **150 g** | **290 g** | **270 g** |
+| Queijo | **150 g** | **290 g** | **270 g** |
+| Massa | 275 g | 600 g | 400 g |
+| Queijo : massa | **54,5%** | **48,3%** | **67,5%** |
 
-**Siga a tabela** (a de `08-queijos-e-coberturas.md`), não a frase. Registrado aqui para ninguém
-"corrigir" a gramagem pelo texto corrido.
+Normalizada por massa, a frase do livro **fecha para New York** (48,3% contra 54,5% da
+thin-crust) e **não fecha para artisan** (67,5%). Em qualquer caso, **porcione pela tabela**
+(a de `08-queijos-e-coberturas.md`), não pela frase.
 
 ### Detroit 25×20 cm: 175 g na ficha de queijo, 170 g no quadro de payload
 

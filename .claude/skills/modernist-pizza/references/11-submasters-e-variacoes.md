@@ -1,6 +1,7 @@
 # Sub-masters e variações de ingrediente — fórmulas completas
 
-Fonte: *Modernist Pizza*, Vol. 2, "Pizza Dough Recipes" (p. 110–179).
+Fonte: *Modernist Pizza*, Vol. 2, "Pizza Dough Recipes" (p. 110–171, numeração impressa —
+da Thin-Crust Pizza Dough à Old Forge Pizza Dough).
 
 As 10 mestres estão em `01-formulas-massas.md`. Aqui estão as **outras 30 receitas
 quantificadas** do capítulo. Todas com net contents (a fórmula real).

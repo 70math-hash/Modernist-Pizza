@@ -1,7 +1,10 @@
 # Planejamento e produção
 
-Fonte: *Modernist Pizza*, Vol. 2 — "Making Pizza Dough", p. 11–30 e p. 60–88;
+Fonte: *Modernist Pizza*, Vol. 2 — "Making Pizza Dough", p. 3–22 e p. 52–80;
 "Pizza Dough Recipes", p. 81–109; "Baking Pizza", p. 387–421.
+
+**Convenção de página**: todo número de página deste arquivo é a **página impressa** (a do rodapé
+do livro). Se você lê o PDF, some 8 — página do PDF = impressa + 8.
 
 ---
 
@@ -29,28 +32,40 @@ Fonte: *Modernist Pizza*, Vol. 2 — "Making Pizza Dough", p. 11–30 e p. 60–
 
 ## Bolear em ondas: a bola tem prazo, o bulk não
 
+> **Isto não está no livro.** A tese, a fórmula de ondas, a coluna de "janela útil" e o
+> cronograma fechado abaixo são **método nosso**, não do *Modernist Pizza*. O livro não trata de
+> escalonar boleamento a partir de um bulk único; o que ele diz sobre escalonar serviço é outra
+> coisa — "se você decidir não fazer prova fria, faça pelo menos massa **em bateladas espaçadas
+> de 2 h**" (p. 16), ou seja, bateladas de **mistura**, não ondas de boleamento. O que é do livro
+> aqui são as **provas de bola de cada ficha-mestre** (coluna do meio) e o achado de que a
+> napolitana precisa de **no mínimo 3 h** entre bolear e abrir. Está aqui porque quem monta
+> escala de sábado precisa de alguma conta; teste a sua antes de apostar o serviço nela.
+
 O erro de escala mais comum não é misturar massa de menos — é **bolear tudo de uma vez**. O
 bulk em bloco é tolerante; **a bola boleada tem janela curta** e começa a contar assim que você
 a fecha. Boleou as 120 às 16h, às 23h as últimas estão com **7 h de bola**: borda murcha,
 dourada demais, sem oven spring (`10-diagnostico.md`, "massa passou do ponto").
 
-**A conta é uma só:** `número de ondas = duração do serviço ÷ janela útil da bola`, arredondando
+**A conta que usamos:** `número de ondas = duração do serviço ÷ janela útil da bola`, arredondando
 para cima. E a divisão sai **do bulk**, não da mistura — você mistura tudo junto, faz um bulk só
-e **corta o bloco em duas ou três vezes ao longo da tarde**.
+e corta o bloco em duas ou três vezes ao longo da tarde.
 
-| Massa | Prova da bola | Janela útil de serviço por onda |
+| Massa | Prova da bola (do livro) | Janela útil por onda *(inferência nossa)* |
 |---|---|---|
-| **Napolitana** | **3–4 h** a 21 °C (mínimo declarado: 3 h) | ~2 h |
-| Thin-crust | 2–3 h a 21 °C | ~1 h |
-| Brasileira · deep-dish | 1½ h a 21 °C | ~1 h |
+| **Napolitana** | **3 h** a 21 °C (ficha p. 124; mínimo declarado também 3 h) | ~2 h |
+| Thin-crust | 2–3 h a 21 °C (ficha p. 110) | ~1 h |
+| Brasileira · deep-dish | 1½ h a 21 °C (fichas p. 114 e p. 118) | ~1 h |
 | New York · artisan | saem do frio | não se boleia em ondas — **tempera-se** em levas de 1½–2 h |
-| Focaccia · NY square · al taglio · Detroit | 3 h a 21 °C, mas **assadas com antecedência** | não se aplica |
+| Focaccia · NY square · al taglio | 3 h a 21 °C | NY square e al taglio o livro dá como **assadas com antecedência** (p. 74) — não se aplica |
+| **Detroit** | 3 h a 21 °C / 2½ h a 27 °C (ficha p. 166) | É a **exceção declarada** entre as pizzas pão: o livro a exclui do "pré-assar e reaquecer" (p. 392) e diz que pré-assar é possível mas desnecessário, porque ela não dá gum line (p. 420) |
 
 > **O que o livro mediu e o que é extrapolação.** O experimento de prova da napolitana comparou
-> **2 h, 3 h e 4 h** — 3 h ganhou, e a p. 65 declara **3 h como mínimo**. Passar de 4 h **não foi
-> testado**: é o ponto onde os dados param. Trate 5 h de bola como território seu, não do livro.
+> **2 h, 3 h e 4 h** — 3 h ganhou (p. 88), e a p. 57 declara **3 h como mínimo**. A ficha-mestre
+> crava **3 h**, sem faixa. Passar de 4 h **não foi testado**: é o ponto onde os dados param.
+> Trate 5 h de bola como território seu, não do livro.
 
-**Exemplo fechado — 120 napolitanas, serviço das 19h às 23h30 (4½ h):**
+**Exemplo fechado — 120 napolitanas, serviço das 19h às 23h30 (4½ h)** *(cronograma nosso; o
+livro não publica nada parecido):*
 
 | Hora | Ação | Idade da bola ao ser aberta |
 |---|---|---|
@@ -62,10 +77,13 @@ e **corta o bloco em duas ou três vezes ao longo da tarde**.
 As 2 h a mais de bulk da segunda onda **não custam nada** — a napolitana já fermenta 20–24 h e a
 faixa é larga. O que não estica é a bola.
 
-**Duas ressalvas de mão de obra.** Os **5 min para dividir e 2 min para pré-modelar** do quadro
-da p. 25 são **por batelada de ~1 kg**, não por 60 bolas — não escale linearmente; cronometre a
-sua equipe uma vez e use o número dela. E cada onda precisa do **descanso de bancada de
-15–20 min** entre pré-modelar e modelar, que já está contado dentro das 3 h de prova.
+**Duas ressalvas de mão de obra** *(inferência nossa — o quadro do livro não qualifica nenhuma
+das duas).* Os **5 min para dividir e 2 min para pré-modelar** do quadro da p. 17 aparecem sem
+dizer por quanta massa; como o quadro descreve as dez mestres, e as mestres rendem **~0,7–1,1 kg**
+cada, lemos esses tempos como **por batelada**, não por 60 bolas — não escale linearmente;
+cronometre a sua equipe uma vez e use o número dela. E cada onda precisa do **descanso de bancada
+de 15–20 min** entre pré-modelar e modelar (p. 58); o livro **não diz** se ele cabe dentro das 3 h
+de prova da napolitana — a ficha traz só "PROOF 3 h a 21 °C, covered". Na dúvida, conte-o **fora**.
 
 ---
 
@@ -73,7 +91,7 @@ sua equipe uma vez e use o número dela. E cada onda precisa do **descanso de ba
 
 - **Massa com muito fermento comercial: divida e pré-modele rápido.** Alguma fermentação
   acontece nessa janela, mas o grosso tem que acontecer **depois** de pré-modelada. **Massa de
-  levain é muito mais tolerante** à demora na bancada. (p. 60)
+  levain é muito mais tolerante** à demora na bancada. (p. 52)
 - **Bulk longo demais, ou massa parada na bancada** antes de dividir ⇒ ela fermenta
   rapidíssimo depois de boleada, ou já chega hiperfermentada ao boleamento. (p. 76)
 - **O formato do corte segue o formato da pizza**: al taglio ⇒ retângulos curtos; napolitana ⇒
@@ -105,7 +123,7 @@ Tempo de tempera por estilo, alvo interno e a ordem de tirar em levas: ver `03-f
 
 O que o planejamento acrescenta: **quantas bolas temperar por leva** sai da conta de pizzas
 esperadas em cada momento do serviço (seção acima), e a tempera entra no cronograma como uma
-etapa de **2 h** no quadro de p. 25 (abaixo) — ela não é tempo morto, é fila.
+etapa de **2 h** no quadro de p. 17 (abaixo) — ela não é tempo morto, é fila.
 
 Massa que passou 24–48 h no frio **não precisa ter o ponto chamado** — ver `03-fermentacao.md`.
 
@@ -117,7 +135,7 @@ Massa que passou 24–48 h no frio **não precisa ter o ponto chamado** — ver 
 |---|---|---|
 | **Napolitana** | **10 min** no máximo depois de sair do forno | Só salão, servida na hora. Não é pizza de delivery |
 | **New York** | **1 h sob lâmpada de calor** | Reaquece sem perda relevante e viaja bem em caixa |
-| **Al taglio** | Pré-assada e reaquecida | Vendida **por peso** — a referência romana é **200 g** por porção |
+| **Al taglio** | Pré-assada e reaquecida | Vendida **por pedaço** ("al taglio" = "ao corte"). Em Roma, conforme a pizzaria, o cliente pede **por peso** — o livro exemplifica com **200 g** — ou pelo tamanho exato do pedaço |
 
 **Por que a diferença existe**: massa **com gordura na fórmula retém umidade** na crosta e no
 miolo e **reaquece melhor**. É a razão técnica de as pizzas pão dominarem a venda por fatia —
@@ -158,7 +176,7 @@ Tempos de forno de cada combinação: `01-formulas-massas.md`.
 
 ---
 
-## Cronograma etapa por etapa das 10 mestres (o quadro de p. 25)
+## Cronograma etapa por etapa das 10 mestres (o quadro de p. 17)
 
 `03-fermentacao.md` traz os tempos **totais**. Aqui está a duração de **cada etapa** — é isto
 que permite montar escala.
@@ -175,9 +193,11 @@ que permite montar escala.
 
 1. **O total termina em "pronto para fazer pizza".** Modelar, molhar, cobrir e assar vêm
    **depois** e não estão nesses números.
-2. **Dividir custa 5 min e pré-modelar 2 min — por batelada, não por bola.** São as duas únicas
-   etapas de mão de obra concentrada depois da mistura; é onde o gargalo aparece se você dobrar
-   a produção sem dobrar gente.
+2. **Dividir custa 5 min e pré-modelar 2 min.** O quadro não diz por quanta massa; como ele
+   descreve as dez mestres, que rendem **~0,7–1,1 kg** cada, lemos esses tempos como **por
+   batelada, não por bola** *(inferência nossa)*. São as duas únicas etapas de mão de obra
+   concentrada depois da mistura; é onde o gargalo aparece se você dobrar a produção sem
+   dobrar gente.
 3. **A mistura é sempre 10–20 min**, em qualquer fluxo. O que muda o total é fermento e frio,
    não máquina.
 
@@ -195,21 +215,21 @@ Duas leituras concorrentes do próprio livro, registradas:
 
 ---
 
-## Checagem antes de misturar (a lista de p. 23)
+## Checagem antes de misturar (a lista de p. 15)
 
 A pergunta zero é **"quando isso vai ser comido?"** — trabalhe de trás para frente
 (`03-fermentacao.md`). Depois, oito checagens:
 
 | Item | O que conferir | O que fazer se der errado |
 |---|---|---|
-| **Farinha** | Qual tipo · **quanta** você tem · **quão velha** é | Só farinha de bolo ou de confeitaria: a única mestre que aceita é a **Pizza Gourmet** (`11-submasters-e-variacoes.md`). As outras exigem farinha mais forte |
+| **Farinha** | Qual tipo · **quanta** você tem · **quão velha** é | Só farinha de bolo ou de confeitaria: a **melhor escolha** é a **Pizza Gourmet** (p. 165, `11-submasters-e-variacoes.md`), porque a **maioria** das outras massas exige farinha mais forte |
 | **Fermento** | Idade, igual à farinha | — |
 | **Água** | Não é grande consideração: **água de torneira serve** | — |
 | **Termômetro** | Calibrado | Calibre **a balança junto**, no mesmo momento |
 | **Pré-fermento** | Tempo de maturação alocado; conferir a maturidade **antes** de misturar | Se não boiar, não entrou no ponto |
 | **Batedeira** | **Capacidade** — nem massa demais nem de menos (`17-batedeiras-e-tempos-de-mistura.md`) | Dividir em bateladas |
 | **Temperatura da sala** | O livro define **temperatura ambiente = 21–24 °C / 70–75 °F** | Sala quente ⇒ água morna-fria ou fria. Sala fria ⇒ água quente. É a **água** que compensa, nunca o sal e nunca o fermento |
-| **Tipo de massa** | Quase todas dão para frear no frio ou esticar no bulk. **A Detroit é melhor no mesmo dia** | Para as demais, o frio é a alavanca de agenda |
+| **Tipo de massa** | **Muitas** dão para frear no frio, outras têm bulk longo — na **maioria** dá para controlar o horário com folga. **Há um par de massas melhores no mesmo dia; o livro cita a Detroit** | Para as demais, o frio é a alavanca de agenda |
 
 Fatores locais que entram antes de tudo: **altitude, temperatura e umidade** do lugar, e o
 **tipo de forno** — um forno a lenha frio leva **horas** para chegar à temperatura, e essas
@@ -241,14 +261,14 @@ não precisam de versão de emergência. Todas as outras "rápidas" da lista sã
 
 | Item | Número | Detalhe |
 |---|---|---|
-| Massas do livro em geral | **até 2 dias** de antecedência | — |
+| **Muitas** massas do livro | **até 2 dias** de antecedência, **em alguns casos** | Não vale para todas: a Detroit, por exemplo, é melhor no mesmo dia |
 | **Massas diretas** | **+1–2 dias a 4 °C** | O livro diz que assagem e textura ficam **ainda melhores** |
 | **Rebolear** (New York e artisan) | **5 dias no total** | 2 dias de frio ⇒ rebolear ⇒ mais **3 dias** de geladeira |
 | Batelada mínima de stand mixer | — | ver `18-calculo-e-escalonamento.md` |
 | Cascas pré-assadas congeladas | — | ver `05-fornos-e-cocao.md` |
 
-Massa que ficou gasosa demais no frio: rebolear e descansar 3–4 h — o *dough CPR* está em
-`03-fermentacao.md`.
+Massa que ficou gasosa demais no frio: rebolear e descansar **no mínimo** 3–4 h — o *dough CPR*
+está em `03-fermentacao.md`.
 
 ---
 

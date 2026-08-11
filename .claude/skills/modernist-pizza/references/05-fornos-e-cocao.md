@@ -179,7 +179,7 @@ emissividade diferente:
 > frontal (450–480 cabe dentro de 425–480), mas são duas faixas publicadas para a mesma coisa.
 > **Na dúvida, siga a ficha de receita: 425–480 °C.**
 
-> **Faixa geral do quadro "Some Like It Hot" (p. 405)**: depois de dar 425–480 °C para a
+> **Faixa geral do quadro "Some Like It Hot" (vol. 2, p. impressa 397)**: depois de dar 425–480 °C para a
 > napolitana, o livro generaliza — *"assamos os outros estilos numa faixa mais modesta de
 > 245–285 °C / 475–550 °F"*. Ou seja: os **315 °C** que as fichas de New York e de al taglio
 > pedem ficam **fora** dessa faixa geral. A prosa é um resumo grosso; **quem manda é a ficha
@@ -200,8 +200,14 @@ rotação de 180°**. Forno esteira não pede nenhuma.
 
 Pizza no piso: gire 1 a 4 vezes (90° por vez), conforme o tamanho.
 
-**Mapa mental do forno**: quando você tira uma pizza, aquele ponto do piso fica frio. Numere
-os cantos e siga sempre o mesmo padrão. **Nunca ponha a próxima pizza no mesmo lugar.**
+**Onde pôr a próxima pizza**: quando você tira uma pizza, aquele ponto do piso ficou frio.
+A regra do livro é direta — *"enforne a pizza num ponto onde você não acabou de assar uma
+pizza"*, e, ao tirar, **deixe o piso recuperar a temperatura antes de assar outra ali**.
+Se você vai assar a segunda logo em seguida, escolha um ponto novo.
+
+> **Isto não está no livro.** Numerar os cantos do piso e seguir sempre a mesma sequência é
+> um jeito nosso de operacionalizar a regra acima em serviço cheio, quando ninguém lembra
+> onde saiu a última pizza. O livro dá o mecanismo e a regra; a rotina fixa é inferência nossa.
 
 **Ginástica de pá em forno a lenha/gás**:
 - Coloque a pá sob **um lado** da pizza, não no meio. Incline a pá **10–15°** — a gravidade
@@ -219,16 +225,21 @@ não precisa domear.
 
 ---
 
-## De onde vem o calor num deck (e por que ele é outro bicho) — vol. 1, p. 390
+## De onde vem o calor num deck (e por que ele é outro bicho) — vol. 1, p. impressa 358
 
 A regra "o que assa é radiação" vale para **forno a lenha e a gás de alta temperatura**. Ali o
 calor do piso vem quase inteiramente **do próprio piso absorvendo a radiação que desce do teto**
 — há **muito pouca condução através da pedra, porque pedra é isolante e conduz mal**.
 
 **No deck, a conta muda:** a maior parte da energia de assagem chega à pizza por **radiação
-E condução**, nessa ordem de importância mas com a condução pesando de verdade. É por isso que
-o deck tem controle separado de piso e teto, e é por isso que desequilíbrio entre os dois vira
-fundo queimado com borda pálida (`10-diagnostico.md`).
+e condução** — o livro cita as duas sem ranquear. O que ele descreve é um **equilíbrio**: se o
+teto do deck está bem escuro e o piso claro e mais frio, o teto pode mandar **mais de 5×** a
+radiação para cima da pizza; mas o calor também passa **muito rápido** do piso para a pizza por
+condução, e isso *"tende a equilibrar o calor que chega no topo e no fundo da crosta"*.
+
+> Daí a leitura prática *(inferência nossa)*: é esse equilíbrio que o controle separado de
+> piso e teto existe para ajustar, e é quando ele quebra que aparece fundo queimado com borda
+> pálida (`10-diagnostico.md`).
 
 | Item | Número |
 |---|---|
@@ -236,8 +247,22 @@ fundo queimado com borda pálida (`10-diagnostico.md`).
 | Quanto da radiação incidente a massa absorve **no começo** da assagem | **5% a 10%** |
 | O que acontece depois | **A absorção sobe muito conforme a crosta escurece** — é a mesma realimentação da leopardagem |
 
-> **O que separa um deck bom de um ruim** é uma coisa só: **controle confiável e preciso da
-> temperatura do piso.** Não é potência, não é material da câmara.
+> **O que um deck bom oferece**, na frase do livro: **controle confiável e preciso da
+> temperatura do piso** — é *"uma variável importante na assagem"*. O livro para aí; não
+> diz que esse seja o único critério.
+
+**O que o livro manda olhar ao comprar um deck** (vol. 1, p. impressa 388):
+- **Espessura e material do piso.** *"É importante prestar atenção tanto na espessura do piso
+  quanto no material de que ele é feito. Um piso mais grosso normalmente vale o custo extra."*
+  Pisos metálicos são mais finos, esfriam mais rápido e conduzem tão depressa que arriscam
+  **passar o fundo**, sobretudo em pizzas tipo pão.
+- **Retenção de calor**, que depende em boa parte da quantidade e do tipo de **isolamento**.
+  Forno bom só ventila ar quente onde e quando você quer. Se a carcaça esquenta a ponto de
+  você temer se queimar, ou se sai ar quente por todas as juntas, você paga isso em consumo
+  **e** em estabilidade de temperatura.
+- **Calor superior, de preferência controlável independentemente do inferior.** Reduz o tempo
+  de assagem e melhora a crosta. Forno só com calor de baixo dá base bem assada e topo pálido
+  — **o livro chama isso de defeito** (embora alguns pizzaiolos visitados gostem do resultado).
 
 ### Pizza de forma dentro do deck
 
@@ -254,35 +279,48 @@ e para o ar. Duas consequências:
 
 ---
 
-## Estratégia de forno por estilo (vol. 1, p. 412–413)
+## Estratégia de forno por estilo (vol. 1, p. impressas 380–381)
 
 O livro publica, por estilo, **o melhor forno, o que compromete alguma coisa e o que não é
 recomendado**. É a tabela de decisão de compra — e a de "dá para fazer com o que eu tenho?".
 
 | Estilo (faixa) | **Melhor** | Compromete | **Não recomendado** |
 |---|---|---|---|
-| **Napolitana** (455–480 °C) | **A gás de alta temperatura** | A lenha · deck de pizza · esteira | Deck de pão · combi · convecção · doméstico |
+| **Napolitana** (455–480 °C) | **A gás de alta temperatura** · deck de pizza · esteira | A lenha | Deck de pão · combi · convecção · doméstico |
 | **Thin-crust** e **brasileira** (250–285 °C) | Deck de pizza · deck de pão · a gás · esteira | Combi · convecção · a lenha · doméstico | — |
 | **New York** (290–315 °C) | Deck de pizza · deck de pão · a gás · esteira | Combi · convecção · a lenha · doméstico | — |
-| **Artisan** (250–315 °C) | Deck de pizza · deck de pão · esteira | Combi · convecção · doméstico · a gás | — |
+| **Artisan** (250–315 °C) | Deck de pizza · deck de pão · esteira | Combi · convecção · doméstico · **a lenha · a gás** | — |
 | **Focaccia** e **NY square** (205–260 °C) | Deck de pizza · deck de pão · esteira | Combi · convecção · doméstico | **A lenha · a gás** |
-| **Al taglio** (250–315 °C) | Deck de pizza · deck de pão | Doméstico | **Combi · convecção** |
+| **Al taglio** (250–315 °C) | Deck de pizza · deck de pão · esteira | Doméstico | **Combi · convecção · a lenha · a gás** |
+| **Detroit** (250–275 °C) | Deck de pizza · deck de pão · esteira | Combi · convecção · doméstico | **A lenha · a gás** |
+| **Deep-dish** (250–290 °C) | Deck de pizza · deck de pão · esteira | Combi · convecção · doméstico | **A lenha · a gás** |
+
+Duas leituras que mudam decisão de compra:
+- **A esteira (impinger) está na coluna MELHOR de todas as linhas**, napolitana inclusive —
+  ela nunca aparece como compromisso nem como não recomendada.
+- **O livro lista artisan duas vezes**, com colunas de "compromete" diferentes: na p. impressa 380,
+  a lenha e a gás; na p. impressa 381, combi, convecção e doméstico. A linha acima soma as duas —
+  em nenhuma delas artisan tem "não recomendado".
 
 **As notas que acompanham a tabela:**
 
 - **O livro prefere o forno a gás ao a lenha** — e o motivo é consistência: *"não há dois fogos
   iguais num forno a lenha, então a temperatura varia. É preciso habilidade considerável."*
-- **Napolitana em deck de pizza é possível, com duas ressalvas**: confirme que o seu deck
-  **chega à temperatura**, e saiba que **você vai ter que girar a pizza mesmo não sendo forno a
-  gás**. Como decks costumam ser empilhados, girar é desconfortável — e normalmente só cabem
-  **duas por vez**.
+- **Napolitana em deck de pizza está entre os melhores da tabela, com duas ressalvas**: confirme
+  que o seu deck **chega à temperatura**, e saiba que **você vai ter que girar a pizza mesmo não
+  sendo forno a gás**. Como decks costumam ser empilhados, girar é desconfortável — e normalmente
+  só cabem **duas por vez**. Sobre o resto da linha: *"um deck de pão não fica quente o bastante,
+  e nem os outros fornos que não recomendamos"*.
 - **Brasileira em forno a lenha**: assar **o mais longe possível da lenha queimando** e monitorar
   a temperatura de perto — **a borda queima rápido**.
 - **Combi, convecção e doméstico**, em qualquer estilo de disco: **giro de 180°** e **aço de
   forno** para conseguir fundo crocante. Na napolitana, dá para somar **heat gun** para charrear
   a borda — o resultado sai **crocante, não macio**. Não é napolitana; é uma boa pizza.
 - **Massa de forma em forno a lenha ou a gás é difícil de manusear** — dá para pôr duas formas
-  lado a lado, mas é desconfortável.
+  lado a lado, mas **girar é muito difícil** (e as formas de al taglio são compridas). É esta a
+  razão do veto: *"as temperaturas erráticas de um forno a lenha também tornam difícil assar
+  pizzas de forma; você consegue manter uma temperatura mais baixa, mas a assagem pode sair
+  desigual."* Vale para al taglio, Detroit, deep-dish, focaccia e NY square.
 - **Pizza sobre aço**: quantas você assa por vez é limitado **só pelo número de aços que você
   tem** e pelo tamanho do forno.
 
@@ -628,9 +666,13 @@ associado a compostos carcinogênicos).
 
 ## Leopardagem
 
-Causa: **micro-bolhas (< 1 mm) logo abaixo da superfície** da massa. A superfície acima delas
+Causa: **micro-bolhas (≤ 1 mm) logo abaixo da superfície** da massa. A superfície acima delas
 seca mais rápido que a massa em volta → escurece → **quanto mais escura, mais rápido absorve
 calor** → fica quase preta enquanto o resto permanece branco (a emissividade do ponto vai a 0,9).
+
+> O OCR do vol. 1 (p. impressa 373) devolve *"small bubbles (< } mm)"*, com o operador
+> corrompido. Renderizando a página escaneada, o impresso é **"small bubbles (≤ 1 mm)"**.
+> Use **≤ 1 mm**.
 
 - O **grau** de leopardagem te diz o quanto o forno está quente.
 - Micro-bolhas ao lado da leopardagem são o equivalente às **bolhas do pão de fermentação

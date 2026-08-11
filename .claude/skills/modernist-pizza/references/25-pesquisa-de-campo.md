@@ -1,6 +1,7 @@
 # Pesquisa de campo: São Paulo, Buenos Aires e os números da viagem
 
-Fonte: *Modernist Pizza*, Vol. 1, cap. 3 "Pizza Travels", p. 178–300.
+Fonte: *Modernist Pizza*, Vol. 1, cap. 3 "Pizza Travels", p. 146–268 (páginas **impressas**,
+como no resto da skill; no PDF escaneado somam-se 32).
 Extraído por **OCR de PDF escaneado** — números de contagem e preços carregam risco de dígito
 trocado; as observações e as conclusões são a parte confiável.
 
@@ -15,10 +16,12 @@ O capítulo de história (vol. 1, cap. 1) **não está nesta base**, por decisã
 
 ## São Paulo
 
-**255 pizzarias visitadas no mundo todo; 16 em São Paulo.** É o maior número fora de Nápoles,
-Chicago e Nova York — e empata com Nápoles.
+**255 pizzarias visitadas no mundo todo; 16 em São Paulo.** No quadro "THE ROAD TO GREAT PIZZA"
+(p. 153) só **Nova York teve mais** (28); São Paulo aparece com **16**, empatada com **Chicago
+e com Nápoles** — o livro publica a lista de números e não faz a comparação
+*(inferência nossa)*.
 
-### São Paulo em números (p. 223)
+### São Paulo em números (p. 191)
 
 | | |
 |---|---|
@@ -93,7 +96,7 @@ o padrão.
 
 ## Buenos Aires
 
-### Em números (p. 233)
+### Em números (p. 201)
 
 | | |
 |---|---|
@@ -110,10 +113,12 @@ o padrão.
   pizza portenha **não é adequada a refeição rápida em pé**: é grossa, pesada e **coberta de
   queijo demais**, só se come de garfo e faca. A comparação que eles fazem: *"é como se a
   deep-dish de Chicago fosse servida em fatias para viagem."*
-- **A resposta à pergunta retórica "existe queijo demais numa pizza?" é sim.** É a única vez em
-  que o livro afirma isso sobre uma cidade inteira: o queijo escorre pelas laterais. Por causa
-  do peso, a crosta **precisa ser substancial** — e por isso **não existe alvéolo rendado ali**;
-  o miolo é de **pão de forma branco**.
+- **A resposta à pergunta retórica "existe queijo demais numa pizza?" é sim.** A massa vem
+  **coberta de queijo tão grosso que ele escorre pelas laterais** — e o livro completa que
+  gosta de queijo e até gostou de algumas dessas fatias pesadas, mas **preferiria o volume
+  reduzido**. Por causa do peso, a crosta **precisa ser um tanto substancial**
+  (*somewhat substantial*) — e **não se vê o alvéolo rendado ali**; o miolo é mais um
+  **pão de forma branco grosso**.
 - **A mussarela argentina é frequentemente moída** até uma consistência que o livro compara a
   **purê de batata**, às vezes em blend com outro queijo.
 - **Canchera** é a exceção: pizza **com molho e sem queijo**, vendida em fatia de tacho metálico
@@ -130,7 +135,7 @@ A **massa al molde argentina** está com fórmula fechada em `11-submasters-e-va
 
 ## O método: como não se deixar enganar por lista de "melhor pizza"
 
-Vale como critério de leitura de guia, de rede social e de concurso (p. 184).
+Vale como critério de leitura de guia, de rede social e de concurso (p. 152).
 
 - *"Best pizza list"* dá **mais de 200 mil resultados** de busca. Fazer lista a partir de outras
   listas é **muito mais barato** do que mandar gente provar — então **a maioria das listas é
@@ -158,10 +163,17 @@ casas ficam **presas a fazer como sempre fizeram**, atendendo a um cliente que q
 a mesma pizza toda vez.
 
 E o achado que fecha o argumento: **o defeito de New Haven e de Chicago era sal a menos na
-massa** — em toda casa visitada, inclusive as de lista nacional. Uma pizzaria de Chicago chegou
-a compensar com molho **quase intragável de salgado**, o que não resolve, porque o molho não
-cobre a crosta inteira. **A correção era pôr mais sal na massa.** É o exemplo-mãe da regra da
-skill: defeito persistente de estilo **não é estética regional, é defeito**
+massa**. Em New Haven o livro diz que é assim **na maioria** das pizzarias mundialmente
+famosas da cidade — com **Zuppardi's Apizza e Ernie's Pizzeria como "exceções parciais"** (e
+mesmo a massa da Zuppardi's "precisava de mais sal") — e várias dessas casas estavam em lista
+de "melhor pizza dos EUA". Em Chicago o problema era **crônico**, na massa fina e na deep-dish,
+e o livro registra a compensação que viu — **molho salgado demais**, ao ponto de uma casa de
+Chicago servir um molho *"quase venenosamente salgado"* — e a descarta numa frase: *"isso não
+é uma solução; é simplesmente outro problema"*, porque o molho não cobre a crosta inteira.
+**A correção é do próprio livro**: *"o que resolveria o problema é simplesmente pôr mais sal na
+massa — e ainda assim essa solução parecia inalcançável."* É o exemplo-mãe da regra da skill:
+defeito persistente de
+estilo **não é estética regional, é defeito**
 (`09-estilos.md`, "Atributos universais de qualidade").
 
 ---
@@ -179,7 +191,7 @@ skill: defeito persistente de estilo **não é estética regional, é defeito**
 | **São Paulo** | **16** | **mais de 8.000 pizzarias** |
 | Buenos Aires | 12 | — |
 | Roma | 10 | preço médio **€ 8–10**; forno mais comum: lenha |
-| Portland | 9 · Tóquio 9 · Los Angeles 8 | — |
+| Portland | **9** (o quadro da cidade diz 15) · Tóquio 9 · Los Angeles 8 | — |
 | Seattle 7 · Florença 6 · New Haven 6 · Milão 5 · Detroit 4 · St. Louis 2 | | — |
 
 **Por estilo** (quantas casas de cada): New York 33 · Grandma/NY square/siciliana 24 ·

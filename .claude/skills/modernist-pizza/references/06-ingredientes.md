@@ -79,6 +79,9 @@ não é sinônimo. Extração maior = mais farelo e gérmen = mais interferênci
 
 ### Números de referência (dos testes do livro)
 
+Quadro *FLOUR BY THE NUMBERS*, vol. 1, p. 282. A coluna "W (nosso teste)" é a *Our W number*
+do livro, não a da ficha do moinho.
+
 | Farinha | Glúten úmido | Glúten seco | W (nosso teste) | Cinzas |
 |---|---|---|---|---|
 | Caputo Americana 00 / Manitoba 0 | 29,6 | 10,3 | 360 | 0,55% |
@@ -92,8 +95,20 @@ não é sinônimo. Extração maior = mais farelo e gérmen = mais interferênci
 | Ceresota/Heckers Unbleached AP | 30,4 | 10,2 | 328 | 0,46–0,52% |
 | **General Mills All Trumps** (alto glúten) | 38,9 | 13,4 | 355 | — |
 | Giusto's High Performer | 34,6 | 11,8 | 360 | 0,52–0,58% |
-| **King Arthur Sir Lancelot** (alto glúten) | 36,9 | 12,8 | **456** | 0,5% |
+| King Arthur Sir Galahad (AP não branqueada) | 29,4 | 10 | 322 | 0,5% |
+| **King Arthur Sir Lancelot** (alto glúten) | 36,9 `(?)` | 12,8 | **333** | 0,58% |
+| **King Arthur Special Patent** (farinha de pão) | — `(?)` | 12,3 | **456** | 0,5% |
 | Anaconda Farinha de Trigo Tipo 1 (Brasil) | 22,7 | 7,8 | 268 | 0,45% |
+
+> **Duas ressalvas de leitura deste quadro** (o vol. 1 é escaneado):
+> — O **W mais alto da tabela é o da Special Patent (456)**, não o da Sir Lancelot (**333**).
+> As colunas *W da ficha do moinho*, *Our W number* e *cinzas* saem com as 20 linhas
+> completas e alinhadas, e as 13 outras linhas conferidas batem uma a uma — a atribuição é
+> firme: quem escolhe farinha por W está lendo a linha errada se procurar 456 na Sir Lancelot.
+> — Já a coluna de **glúten úmido sai com 19 valores para 20 farinhas**: sobrou um único
+> **36,9** para o par Sir Lancelot / Special Patent. Pela razão úmido÷seco típica do quadro
+> (~2,9) ele encaixa melhor na Sir Lancelot (36,9 ÷ 12,8 = 2,88), mas **o escaneado não
+> permite decidir**. Não use esse número para separar as duas.
 
 ### Farinha recomendada por massa
 
@@ -121,7 +136,7 @@ vários testes, a réplica do livro é **60% farinha de bolo + 40% farinha de p�
 - 100% farinha de pão: massa mais forte, exige mais força para abrir, mas dá base mais sólida,
   crosta mais crocante e aguenta mais cobertura.
 
-### O que está escrito no saco (vol. 1, p. 313)
+### O que está escrito no saco (vol. 1, p. 281)
 
 A maioria dos aditivos **não afeta a sua pizza**; parte dos rótulos é só marketing. O que
 realmente muda alguma coisa:
@@ -257,14 +272,24 @@ ar; e colheres-medida variam entre marcas.
 | NY square | 0 | 3,8% | 10% |
 | Al taglio | 0 | 4,02% | 10% |
 | Focaccia | 0 | 4,04% | 10% |
+| Deep-dish | 5% | 8,68% | 15% |
+| Brasileira | 5% | 9,76% | **30%** (só com gordura sólida/cristalina) |
 
 > **Thin-crust: o teto é 10%, não 2–5%.** A ficha da receita (vol. 2, p. 110) diz literalmente
 > *"you can add up to 10% liquid or solid fat to this dough — add along with the salt"*, e
-> remete ao experimento do vol. 1, p. 318. O quadro geral de gordura traz uma faixa mais
-> conservadora; pela regra da skill, **a ficha manda sobre o quadro**. A gordura entra
+> remete ao experimento do vol. 1, p. 318. O quadro do vol. 1 traz a faixa mais conservadora
+> (**2–5%**); pela regra da skill, **a ficha manda sobre o quadro**. A gordura entra
 > **junto com o sal** (ver `17-batedeiras-e-tempos-de-mistura.md`).
-| Deep-dish | 5% | 8,68% | 15% |
-| Brasileira | 5% | 9,76% | **30%** (só com gordura sólida/cristalina) |
+
+> **Divergência entre os volumes, em duas linhas.** *Mínimo* e *Máximo* vêm do quadro
+> *FAT PERCENTAGES IN OUR MASTER DOUGHS* (vol. 1, p. 316); *Na receita mestre* vem do
+> **net contents das fichas do vol. 2**. Em duas células os volumes não batem:
+> **NY square** — a ficha do vol. 2 (p. 152) imprime 15 g sobre 395 g = **3,8%**, e o quadro
+> do vol. 1 dá **3,39%**. **Al taglio** — a ficha do vol. 2 (p. 158) imprime 30 g sobre
+> 740 g = **4,02%**, e o quadro do vol. 1 dá **3,92%**. Cada número do vol. 1 aparece duas
+> vezes (quadro da p. 316 e legenda das fotos do experimento na p. 319), então não é ruído
+> de escaneamento. As outras oito linhas batem entre os volumes. Pela regra da skill, **a
+> ficha manda sobre o quadro** — mas saiba que o livro se contradiz aqui.
 
 **Napolitana**: apesar do teto teórico de 10%, o teste mostrou queda de qualidade acima de
 **5%** — com 10% e 15% a massa doura antes de assar por dentro e o queijo não derrete direito.
@@ -364,9 +389,12 @@ naturais (sucos de abacaxi, kiwi, mamão), porque uma gota de suco já pode ser 
   caju) **picada grosseiramente e depois torrada**. Torrar melhora muito o sabor —
   ver `01-formulas-massas.md`.
 - **Sementes**: podem ir inteiras; algumas se beneficiam de demolho.
-- **Massa fina aceita inclusão** — o livro publica a linha da thin-crust na grade
-  (110 g / 22,45%). O que limita é o **tamanho do pedaço: máximo ~3 mm / ⅛ in** —
-  ver `12-tabelas-de-variacao.md`.
+- **Massa fina: o livro se contradiz.** Ele publica a linha da thin-crust na grade de
+  inclusões (110 g / 22,45%) e, na nota da grade (vol. 2, p. 179), manda usar em massa fina
+  pedaço de **no máximo ~3 mm / ⅛ in**, porque pedaço grande limita a abertura. Mas o texto
+  que apresenta a variação (vol. 2, p. 101) diz o contrário: *"não recomendamos usar esse
+  tipo de inclusão em massa fina, porque o tamanho das inclusões vai fazer a massa rasgar
+  na modelagem"*. Os dois lados estão em `12-tabelas-de-variacao.md`.
 - **Purês de sabor**: substituem parte ou toda a água. **Mantenha a hidratação igual** para
   não bagunçar a assagem. Testados no livro: pesto, abóbora, ube, espinafre, huitlacoche,
   tomate, chipotle em adobo, shiitake caramelizado sob pressão. Se quiser cor mais dramática,

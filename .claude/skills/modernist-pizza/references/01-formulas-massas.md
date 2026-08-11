@@ -109,7 +109,7 @@ Bench rest 20 min · bolear · **fermentação a frio 1–2 dias a 4 °C**. Temp
 Multiplicadores por diâmetro: 35 cm→400 g (×0,4) · 40 cm→600 g (×0,6) · 45 cm→800 g (×0,8) ·
 55 cm→1,1 kg (×1,1) · 60 cm→1,2 kg (×1,2). A ficha não lista os 50 cm porque trata a
 receita-base (~1 kg) como a pizza de 50 cm (×1,0); a tabela de tamanhos (p. 94) dá **930 g**
-para esse diâmetro — use 930 g.
+para esse diâmetro e a tabela de molho da p. 208 dá **1 kg** — use 930 g (ver nota adiante).
 > Pode rebolear depois de 2 dias e voltar à geladeira por mais 3 (5 dias no total).
 > O malte alimenta o fermento na fermentação longa; o azeite dá volume, facilita o manuseio
 > e impede a crosta de ressecar no reaquecimento.
@@ -202,9 +202,12 @@ fermentar 3 h a 21 °C ou **2,5 h a 27 °C**/65% UR; esticar de novo depois da 1
 | Al taglio | 700 g / 1,4 kg | meia forma romana 60×20 / inteira 60×40 |
 | Detroit | 330 g / 500 g | forma meia 25×20 / inteira 35×25 |
 
-> **New York de 50 cm**: a tabela BEST BETS FOR PIZZA SIZES (p. 94) dá **930 g**; a ficha
-> da receita chama a receita-base (~1 kg, multiplicador 1,0) de "uma pizza de 50 cm / 20 in"
-> e por isso omite os 50 cm da lista de multiplicadores. Siga os 930 g da tabela de tamanhos.
+> **New York de 50 cm — o livro tem três leituras.** A tabela BEST BETS FOR PIZZA SIZES
+> (p. 94) dá **930 g**; a ficha da receita chama a receita-base (~1 kg, multiplicador 1,0) de
+> "uma pizza de 50 cm / 20 in" e por isso omite os 50 cm da lista de multiplicadores; e a
+> tabela SAUCE AMOUNT RECOMMENDATIONS (p. 208) lista **1 kg** para os mesmos 50 cm.
+> As três caem dentro da tolerância de produção. Siga os **930 g** da tabela de tamanhos, que
+> é a específica de peso de bola por diâmetro.
 
 ---
 
@@ -255,11 +258,11 @@ de baixa hidratação; o contrário não vale.**
 - **Grain/nut/seed** — inclusões a glúten médio, sempre; depois bulk com dobras até glúten
   total. Grãos: de molho, germinados ou cozidos em mingau/purê. Nozes e sementes **torradas**
   (o livro recomenda muito). Tamanho: a visão geral (p. 101) manda picar a maioria das nozes;
-  a nota da ficha (p. 187) diz **noz pequena inteira e torrada; noz grande (nogueira, pecã,
+  a nota da ficha (p. 179) diz **noz pequena inteira e torrada; noz grande (nogueira, pecã,
   castanha de caju) picada grosseiramente e depois torrada** — siga a ficha.
-  **Massa fina aceita inclusão**: a grade da p. 186 abre justamente com a linha da thin-crust
-  (110 g / **22,45%**). O que limita é o **tamanho do pedaço — máximo ~3 mm / ⅛ in**; pedaço
-  grande impede abrir fina. Grade completa em `12-tabelas-de-variacao.md`.
+  **Massa fina aceita inclusão**: a grade da p. 178–179 abre justamente com a linha da
+  thin-crust (110 g / **22,45%**). O que limita é o **tamanho do pedaço — máximo ~3 mm /
+  ⅛ in**; pedaço grande impede abrir fina. Grade completa em `12-tabelas-de-variacao.md`.
 - **Country style** — centeio (claro, médio ou escuro) + T85 (ou integral).
 - **Ancient grain** — mistura 60% farinha de pão / 40% grão antigo (espelta, khorasan, emmer,
   einkorn, trigo sarraceno). Não passar de 40%.
@@ -284,10 +287,18 @@ de baixa hidratação; o contrário não vale.**
   resultado nos testes: Caputo Fiore Glut.
 
 ## Limites de gordura testados
-- Até **10%** de gordura líquida ou sólida: New York, artisan, thin-crust, focaccia, NY square.
-- Até **5%**: Detroit e napolitana.
-- **30%**: a favorita entre as massas de alta gordura é a *30% Fat Brazilian Thin-Crust*.
-- 50% de gordura sólida foi testado, mas não virou receita preferida.
+- Até **10%** de gordura líquida ou sólida: thin-crust, New York, artisan, focaccia, NY square
+  e **al taglio de alta hidratação** — as seis massas que o livro descreve como muito
+  tolerantes à gordura (vol. 1, p. 319). Acima de 10% fica mais difícil de misturar e abrir.
+- Até **5%**: Detroit e napolitana. Na napolitana, se for usar azeite, o **ótimo é 2%** e 5% é
+  o teto: com 10% e 15% a pizza doura antes de a massa assar por dentro. Na Detroit, 5% de
+  azeite ou manteiga é bom; **acima de 5% o miolo fica mais denso** (vol. 1, p. 318).
+- **Brasileira**: já nasce com 9,76% e a janela testada vai de **5% a 15%** de azeite ou
+  manteiga; as porcentagens mais baixas de manteiga dão massa mais fácil de estender e que
+  contrai menos ao abrir (vol. 1, p. 318).
+- **30%**: é o teto testado, e só com gordura sólida (ghee ficou melhor que manteiga, que traz
+  água a mais). A favorita entre as massas de alta gordura é a *30% Fat Brazilian Thin-Crust*,
+  que precisa de farinha de altíssimo glúten e lecitina.
 
 ## Aditivos: o que serve para quê
 - **Malte diastático (DMP)** — 0,3% a 1%, conforme a fração de farinha fermentada.

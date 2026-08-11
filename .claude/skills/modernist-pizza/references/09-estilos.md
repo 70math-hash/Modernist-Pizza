@@ -224,10 +224,12 @@ Sfincione · Chicago double-crust · pizza montanara / fritta.
 
 ---
 
-## Os nomes que confundem (vol. 1, p. 136–143)
+## Os nomes que confundem (vol. 1, p. impressas 104–111)
 
-Três rótulos que aparecem em cardápio e em pergunta de aluno e que **o livro se recusa a
-classificar como estilo**. Saber por quê é o que permite responder sem entrar na briga.
+Rótulos que aparecem em cardápio e em pergunta de aluno e que **o livro se recusa a classificar
+como estilo** — "pizza romana", Pinsa e al taglio. Saber por quê é o que permite responder sem
+entrar na briga. (O bar pie entra nesta seção por motivo diferente: ali o problema é que o
+próprio livro publica dois vereditos opostos — ver o fim da seção.)
 
 ### "Pizza romana": cinco coisas diferentes com o mesmo nome
 
@@ -245,6 +247,10 @@ distintos** disputam o nome:
 
 > **A frase que resolve**: *"o que chamam de estilo romano é simplesmente pizza al taglio, ou
 > seja, vendida por corte. Isso é uma fatia — retangular — não um estilo."*
+>
+> Esta frase **não está nas p. 136–143**: ela é dos *key takeaways* de **Roma, no cap. 3**
+> (pesquisa de campo, **vol. 1, p. impressa 170**). Nas p. 136–143 o livro constrói o argumento, mas
+> com outra formulação.
 
 **Se São Paulo tivesse que reivindicar uma pizza ultrafina, teria mais direito que Roma.** O
 livro diz isso literalmente: *"se fosse preciso nomear uma cidade para a pizza superfina, seria
@@ -252,9 +258,15 @@ sem dúvida São Paulo."*
 
 ### Pinsa Romana
 
-O nome sugere um pão achatado da Roma antiga. **É marketing.** Foi criada por **Corrado di
-Marco em 1981**, e a palavra designa três coisas ao mesmo tempo: o produto, a casca dele, ou a
-**farinha proprietária** de que a casca é feita.
+O nome sugere um pão achatado da Roma antiga. **É marketing.** A palavra designa três coisas ao
+mesmo tempo: o produto, a casca dele, ou a **farinha proprietária** de que a casca é feita.
+
+**A data**: o livro **não data a criação da Pinsa**. O que ele diz é que *"diz-se que a Pinsa
+foi criada por Corrado di Marco — que afirma ter aprendido a fazer pizza com o avô, padeiro em
+Roma — **depois que ele descobriu, em 1981, o 'Pizzasnella mix'**"*, um blend de farinha para
+*pizza in teglia* que "revolucionou" o mercado de al taglio. Ou seja: **1981 é o ano do mix de
+farinha, que antecede a Pinsa** — não o ano da Pinsa. Di Marco aparece na legenda de foto do
+livro como "inventor da Pinsa Romana", e criou depois a *Associazione Originale Pinsa Romana*.
 
 - **O livro aceita a Pinsa como pizza**, pela definição do próprio livro. **Não aceita como
   estilo**, porque é o produto proprietário de **uma única empresa e seus licenciados** — as
@@ -270,15 +282,23 @@ operacional:
 
 | | **Angelo Iezzi** (desde 1987) | **Gabriele Bonci** (Pizzarium) |
 |---|---|---|
+| Crosta | trocou a crosta sem graça por **focaccia de alta hidratação, miolo aberto** | focaccia de miolo aberto, **assada por completo** em forma retangular longa |
 | Cobertura | **assada junto** com a base | base pré-assada só com **óleo ou fio de tomate**; cobertura entra **depois de fria** |
-| Guarda | — | vitrine **refrigerada**, reaquece na hora |
+| Guarda | **vitrine refrigerada, reaquece na hora — a inovação é dele** | vitrine **refrigerada** também: o livro diz *"as with Iezzi's pizza"* |
 | Venda | tesoura, por peso | tesoura, por peso; folhas cruas saem antes de reaquecer e voltam depois |
+
+**O cold-holding é de Iezzi, não de Bonci.** Foi Iezzi quem, no fim dos anos 1980 / começo dos
+1990, *"passou a guardar a pizza fria em vitrine e a reaquecê-la sob demanda"*. Bonci herdou o
+serviço inteiro e mudou **uma coisa só**: tirou a cobertura da assagem. O que Bonci otimizou,
+nas palavras do livro, foi ter **duas bases pré-assadas** (óleo e tomate) e acrescentar o resto
+depois.
 
 **Por que o método Bonci interessa a quem tem pouca gente**: assa-se **na véspera**, com o
 mínimo de mão de obra qualificada; a montagem acontece **antes do serviço**; porcionar por peso
-**não exige técnica**. O resultado é pizza de alta qualidade com **custo de mão de obra baixo** —
-e o cold-holding garante regularidade. É a lógica que a skill descreve em
-`16-planejamento-e-producao.md`.
+**não exige técnica**. O resultado é pizza de alta qualidade com **custo de mão de obra baixo**.
+E o livro credita ao **cold-holding somado a não assar a cobertura** a garantia de que a
+qualidade se mantém — *"particularmente importante para algumas das combinações de ingredientes
+do Bonci"*. É a lógica que a skill descreve em `16-planejamento-e-producao.md`.
 
 ### "Tomato pie" de Nova Jersey e "bar pizza"
 
@@ -293,9 +313,17 @@ e o cold-holding garante regularidade. É a lógica que a skill descreve em
   quadradinhos**. A história oficial — bar dos anos 1940 dando pizza de graça para vender
   bebida — é contada por **pelo menos seis casas diferentes em seis lugares diferentes**. A
   evidência mais antiga que os autores acharam é um anúncio de **16 de novembro de 1934**
-  (Roma Gardens, Hackensack, NJ). E a Melrose Pizzeria de St. Louis já cortava pizza fina em
-  quadrados **em 1945, numa pizzaria, não num bar**. Veredito: **não há consistência suficiente
-  entre as amostras para ser um estilo.**
+  (Roma Gardens, Hackensack, NJ); anúncios parecidos aparecem em Millville e Fanwood em 1936.
+  E a Melrose Pizzeria de St. Louis (aberta em 1945) já cortava pizza fina em quadrados
+  **em 1945, numa pizzaria, não num bar** — a foto de jornal que prova o corte é de 1947.
+  **Veredito — e aqui o livro se contradiz na mesma página (p. impressa 106).** O texto corrido conclui:
+  *"não dá para chamar a bar-style pizza de um estilo regional vindo de um único lugar.*
+  ***Ela claramente se qualifica como um estilo*** *— só não é exclusiva de uma região. É uma
+  variante da thin-crust, com base geográfica ampla e sem lar geográfico óbvio."* Já a legenda
+  de foto da **mesma página** diz o oposto: *"provamos um bom número delas, mas não achamos
+  consistência suficiente entre as pizzas para atender nossos critérios de estilo distinto."*
+  Se perguntarem, responda o texto corrido — **é estilo, só não é regional** — e registre que a
+  fonte publicou as duas posições.
 
 ---
 

@@ -56,7 +56,16 @@ para um azedinho mais suave.
 | **Jovem** | 8–10 h | 10–12 h | Azedo sutil, atividade de levedura a todo vapor (volume já sobe muito às 8 h, bolhas em toda a massa). Use se quiser **menos acidez**. Depois de modelar, precisa provar 2–3 h e assar — **não dá para fermentar a frio de um dia para o outro**. |
 | **Maduro** | 12–16 h | 14–18 h | Azedo presente, atividade de levedura perto do pico, borbulhamento abundante. **É o mais usado.** |
 | **Maduro/pronto (ripe)** | 17–18 h | 19–20 h | Atividade estabilizou e começa a declinar se não alimentar. Azedo **muito pronunciado**. Não é o tempo mais comum. |
-| **Passou** | 25–27 h | 23–25 h | **Não serve mais para levedar.** Vira candidato ao *second-chance*. |
+| **Passou** (*overripe*) | 19–25 h | 21–27 h | Aspecto murcho, células de levedura ficando inativas, **perdeu em grande parte a força de levedação**. Se não houver cheiro/gosto estranho, ainda serve como **agente de sabor** — é o candidato ao *second-chance*, com fermento comercial para levedar. |
+
+> **A tabela acima é o quadro STAGES OF A LEVAIN (vol. 1, p. 306).** O livro traz um segundo
+> quadro, BEST BETS FOR LEVAINS (p. 305), com números **diferentes** para os mesmos estágios,
+> organizados por temperatura de **guarda**: guardando a **13 °C** — 10–12 h jovem, 14–16 h
+> maduro, 18–20 h *ripe*, **25–27 h já não leveda**; guardando a **21–24 °C** — 8–10 h jovem,
+> 12–14 h maduro, 16–18 h *ripe*, **23–25 h já não leveda**. Os dois quadros não fecham entre si,
+> e o livro não explica a divergência. Use o STAGES para chamar o ponto do levain e o BEST BETS
+> para planejar a guarda; na dúvida, o **teste de flutuação** decide *(inferência nossa — o livro
+> não diz qual dos dois quadros prevalece)*.
 
 **Como saber que está pronto — use os sentidos**:
 - Deve estar **muito borbulhante**. Se a efervescência começou a recuar, é sinal de que a

@@ -95,7 +95,10 @@ Ingredients)** de *Modernist Pizza*, de Nathan Myhrvold e Francisco Migoya. O vo
 
 > Os pares de temperatura e tempo andam juntos: **285 °C com 5–6 min** OU **315 °C com
 > 4–5 min** — nunca o intervalo cruzado. Fora da napolitana, o livro generaliza
-> **245–285 °C** no texto; a tabela acima vem das fichas de receita e prevalece.
+> **245–285 °C** no texto; a tabela acima vem da tabela SAUCE AMOUNT RECOMMENDATIONS
+> (p. 208), que é específica por estilo e prevalece sobre a generalização. A alternativa de
+> **285 °C / 5–6 min** para a New York vem da prosa da p. 207. **As fichas-mestre não trazem
+> temperatura nem tempo de forno** — remetem ao volume 3.
 > A napolitana aparece como 425–480 °C no capítulo de assagem e **450–480 °C** no de massas.
 
 ### Prova
@@ -104,17 +107,22 @@ Ingredients)** de *Modernist Pizza*, de Nathan Myhrvold e Francisco Migoya. O vo
 New York 48 h · artisan 48 h. New York e artisan aceitam **rebolear no 2º dia e voltar por até
 mais 3 — 5 dias no total**.
 **Ambiente 21 °C**: thin-crust **2–3 h** · brasileira 1½ h · deep-dish **1½ h** ·
-**napolitana 20–24 h (bulk em bloco) + 3–4 h (bolas depois de bolear)** · focaccia 3 h ·
+**napolitana 20–24 h (bulk em bloco) + 3 h (bolas depois de bolear)** · focaccia 3 h ·
 NY square 3 h · al taglio 3 h · Detroit 3 h.
 **Quente 27 °C / 65% UR**: focaccia 2 h · NY square 2 h · al taglio 2 h · Detroit 2½ h.
 
 > Thin-crust e deep-dish: os valores acima são **das fichas**. O quadro geral da p. 75 dá 2 h e
 > 2–4 h, e o quadro da p. 25 dá 1½–2 h para as duas. Trabalhe pela ficha.
+> **Napolitana: 3 h, não 3–4 h.** A ficha-mestre (p. 124) e o cronograma da p. 25 dão
+> **3 h** sem faixa, e o TOTAL TIME de 27 h só fecha com 3 h. Os 3–4 h que circulam vêm de
+> outras passagens — a grade *no-knead* (p. 183), a *your daily pizza* (p. 184) e o dough CPR
+> de massa hiperfermentada (p. 77) —, nunca da mestre.
 > **Prova fria não serve para massa de forma** — dá menos volume.
 
 Temperar massa fria: **1½–2 h** antes de abrir, ou até a massa chegar a **13 °C / 55 °F**
 internos. **Thin-crust abre com rolo direto do frio, sem temperar.**
-Tolerância de tempo de prova: **±15%**.
+Tolerância de tempo de prova: **±15%**. (O texto extraído do PDF traz "+15%", mas a página
+impressa 65 traz **±15%** — conferido renderizando o glifo; a extração perdeu a barra.)
 
 ### Marcos de temperatura interna
 50–60 °C levedura morre · 55–65 °C amido incha · 60–80 °C gelatinização + coagulação (fim do
@@ -131,8 +139,9 @@ fresco **×2,28**. **Poolish** (IDY sobre a farinha do poolish): 3 h = 0,4–0,5
 levain **24,3–47,5%** sobre a farinha · second-chance **0,43–1,5%** de IDY · compleat wheat
 (farelo ≈14% da farinha + gérmen ≈2,5% + água de molho ≈13–20%) · grãos/nozes/sementes
 **20–25%**, com pedaço de no máximo **3 mm** · country **30%** (15 integral + 15 centeio) ·
-grãos antigos **40%** em três combinações por família de estilo · no-knead IDY **0,27%** com
-bulk 12–18 h · daily pizza IDY 0,27% + ácido ascórbico 0,22%.
+grãos antigos **40%** em três combinações por família de estilo · no-knead IDY **0,26–0,28%**
+— exceto a **napolitana, que fica em 0,04%** — com bulk 12–18 h · daily pizza IDY 0,27% +
+ácido ascórbico 0,22%.
 
 ### Carga de batedeira (detalhe e tempos em `17-batedeiras-e-tempos-de-mistura.md`)
 
