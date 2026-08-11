@@ -54,6 +54,20 @@ def resolver(chave):
     sys.exit(f"'{chave}' e ambiguo: {', '.join(candidatos)}")
 
 
+def peso_real_base(m):
+    """Soma real dos ingredientes da receita-base.
+
+    Nao use 'rendimento_g' como base de escalonamento: ele e o rendimento
+    ARREDONDADO que o livro publica, e a soma dos ingredientes se afasta dele de
+    -3,9% (focaccia) a +5,2% (New York). Escalar pelo arredondado faz a folga de
+    bancada virar de -1% a +8% conforme a massa.
+    """
+    total = sum(i["g"] for i in m["massa"] if not i.get("e_prefermento"))
+    if m.get("prefermento"):
+        total += sum(i["g"] for i in m["prefermento"]["ingredientes"])
+    return total
+
+
 def cmd_listar(_):
     print(f"{'chave':<12} {'familia':<8} {'hidr.':>7} {'sal':>6} {'IDY':>6} {'gord.':>7}  forno")
     print("-" * 78)
@@ -73,7 +87,9 @@ def cmd_ver(args):
     m = MASSAS[k]
     n = m["net"]
     print(f"\n{m['nome']}  [{k}]  familia: {m['familia']}")
-    print(f"Rendimento base: {fmt(m['rendimento_g'])} g{emkg(m['rendimento_g'])}\n")
+    real = peso_real_base(m)
+    print(f"Rendimento base: {fmt(m['rendimento_g'])} g (declarado pelo livro)"
+          f"  ·  soma dos ingredientes: {fmt(real)} g (base do escalonamento)\n")
 
     print("NET CONTENTS (a formula real)")
     print(f"  farinha total   {fmt(n['farinha_g'])} g   = 100%")
@@ -112,7 +128,7 @@ def cmd_ver(args):
 
 def escalar(k, fator, peso_bola=None, n_bolas=None, tamanho=None):
     m = MASSAS[k]
-    print(f"\n{m['nome']}  —  fator {fator:.4f}x  (base {fmt(m['rendimento_g'])} g)")
+    print(f"\n{m['nome']}  —  fator {fator:.4f}x  (base {fmt(peso_real_base(m))} g)")
     if n_bolas:
         alvo = "  ".join(
             x for x in [
@@ -205,7 +221,7 @@ def cmd_calcular(args):
     if args.total:
         txt = args.total.lower().replace(",", ".")
         gramas = float(txt.replace("kg", "")) * 1000 if "kg" in txt else float(txt.replace("g", ""))
-        escalar(k, gramas / m["rendimento_g"])
+        escalar(k, gramas / peso_real_base(m))
         return
 
     if args.bolas:
@@ -222,9 +238,9 @@ def cmd_calcular(args):
                 peso, tamanho = m["tamanhos"][0]["peso_g"], m["tamanhos"][0]["desc"]
         elif args.tamanho:
             tamanho = args.tamanho
-        # 3% de folga para perda de bancada
+        # 3% de folga para perda de bancada (adicao nossa, nao do livro)
         necessario = args.bolas * peso * 1.03
-        escalar(k, necessario / m["rendimento_g"], peso, args.bolas, tamanho)
+        escalar(k, necessario / peso_real_base(m), peso, args.bolas, tamanho)
         return
 
     sys.exit("Informe --pizzas/--bolas ou --total. Ex.: massa.py calcular napolitana --pizzas 24")

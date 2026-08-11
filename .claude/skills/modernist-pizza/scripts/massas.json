@@ -1,6 +1,6 @@
 {
   "_fonte": "Modernist Pizza, Nathan Myhrvold e Francisco Migoya, Vol. 2 - Pizza Dough Recipes",
-  "_nota": "pct = percentual de padeiro sobre a farinha TOTAL da etapa. O bloco 'net' traz a formula real (net contents), com farinha e agua do pre-fermento ja contabilizadas.",
+  "_nota": "pct = percentual de padeiro sobre a farinha TOTAL da etapa. O bloco 'net' traz a formula real (net contents), com farinha e agua do pre-fermento ja contabilizadas. ESCALONAMENTO: a calculadora escala pela SOMA REAL dos ingredientes, nao por 'rendimento_g' — este ultimo e o rendimento arredondado que o livro publica e diverge da soma de -3,9% (focaccia) a +5,2% (New York).",
   "massas": {
     "thin-crust": {
       "nome": "Thin-Crust Pizza Dough",
@@ -501,7 +501,8 @@
         "outros": {
           "acucar_pct": 0.71,
           "levain_pct": 15.0
-        }
+        },
+        "_nota_agua": "O livro publica 87,27% no net contents da mestre, mas a lista de ingredientes desta ficha fecha em 86,87% (430 g de agua para 495 g de farinha). Os dois numeros sao do livro — 86,87 aparece no texto narrativo e na Direct Focaccia. Formule por 86,87 se seguir esta lista."
       },
       "processo": "DUPLA HIDRATACAO + AUTOLISE 30 min. Misturar ate GLUTEN MEDIO em velocidade alta, azeite em fio. Pote oleado + dobra. BULK 2,5 h a 21 C com 4 dobras de quatro bordas (1 a cada 30 min) ate gluten total; descansar 30 min. Forma bem oleada. Provar 3 h a 21 C ou 2 h a 27 C/65% UR; esticar de novo na metade. SO POR MAQUINA.",
       "tamanhos": [
