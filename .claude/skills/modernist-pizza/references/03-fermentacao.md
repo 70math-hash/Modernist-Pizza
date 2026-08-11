@@ -347,6 +347,33 @@ Use junto com fermento instantâneo de **0,43% a 1,5%** conforme o estilo — a 
   por tradição, não por resultado.
 - Faixas de uso: prova em **ambiente** ⇒ 0,01–0,08%. Prova **longa no frio** ⇒ 0,25–0,5%.
 
+### O veredito: qual fermento usar (vol. 1, p. 329)
+
+Entre os experimentos do *Modernist Bread* e os do *Modernist Pizza*, **o favorito claro é o
+instantâneo**: incorpora melhor na massa que o seco ativo e tem **mais células vivas**. O livro
+chega a escrever que *"nos deixa perplexos que o seco ativo continue no mercado"*.
+
+**Contra o fermento fresco há um argumento operacional, não de sabor:** muitos fabricantes
+**não imprimem data de fabricação, de embalagem nem de validade** no tablete. Você não sabe a
+idade do que comprou, então a força de levedação do tablete desta semana pode ser diferente da
+do tablete da semana passada, do mesmo fabricante. O livro chama isso de **"bilhete de loteria
+de levedação"**.
+
+> **Se a casa é movimentada e o fresco gira rápido, ele está ótimo — mas você teria ido igual de
+> bem com o instantâneo. Não há diferença na pizza resultante.**
+
+**Por que tanta pizzaria vive bem com fermento incerto:** em Nápoles, no norte da Itália, em
+**São Paulo** e em Buenos Aires, a maioria usa fresco — e funciona porque pizza fina e média
+usa **quantidade minúscula de fermento** com fermentação longa. Nesse regime, o fermento sempre
+faz algum trabalho, a não ser que esteja completamente morto. E **você não está buscando volume
+alto**: nem a pizza tipo pão chega perto de um pão de fermentação natural. **O fermento tem
+menos trabalho a fazer em massa de pizza do que em pão.**
+
+Contra o **levain**, o argumento é o mesmo da economia de atenção: as pizzarias do mundo inteiro
+usam esmagadoramente fermento comercial porque é **simples e confiável**, e a diferença de sabor
+que o levain traria **costuma ser dominada pelas coberturas**. (O sistema completo de levain,
+para quem quer assim mesmo, está em `13-levain.md`.)
+
 ---
 
 ## Atalhos de emergência (com o preço que custam)

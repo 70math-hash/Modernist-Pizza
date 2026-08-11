@@ -121,6 +121,21 @@ vários testes, a réplica do livro é **60% farinha de bolo + 40% farinha de p�
 - 100% farinha de pão: massa mais forte, exige mais força para abrir, mas dá base mais sólida,
   crosta mais crocante e aguenta mais cobertura.
 
+### O que está escrito no saco (vol. 1, p. 313)
+
+A maioria dos aditivos **não afeta a sua pizza**; parte dos rótulos é só marketing. O que
+realmente muda alguma coisa:
+
+| Rótulo | O que significa | Importa? |
+|---|---|---|
+| **Bromada / não bromada** | Bromato de potássio, adicionado para dar força à farinha. É **considerado carcinógeno humano potencial e proibido em vários países** (não nos EUA) | **Sim** — prefira não bromada |
+| **Maltada** | Grão germinado sob controle, o que gera enzimas. **Contagem de amilase maior ⇒ mais açúcar disponível para a levedura.** Cevada é a mais comum. Também dá **crosta cor de âmbar** | **Sim** — é a mesma função do malte diastático que você adicionaria |
+| **Com ácido ascórbico** | Alguns fabricantes já adicionam para dar força. O livro faz o mesmo em algumas receitas | **Sim** — se a farinha já tem, não some outra dose |
+| **Moída em pedra** | Mó de pedra **esmaga e cisalha o grão inteiro**; o moinho de rolos industrial cisalha, o que permite remover farelo e gérmen com facilidade. Farinha de pedra **não dá produto branco puro** | Depende do que você quer |
+| **Peneirada (presifted)** | Tratada para não compactar. **Peneire assim mesmo** — ela compacta no saco com o tempo | Pouco |
+| **Fortificada** | Nutrientes adicionados que não são do grão, ou acima do que ocorre nele (cálcio, ácido fólico) | Não |
+| **Orgânica** | Grão que atende à norma orgânica. Pode virar branca ou integral | Não, para desempenho |
+
 ### Integral
 Nos EUA, "whole wheat" exige as três partes na mesma proporção do grão. No Canadá pode ter
 até 70% do gérmen removido (lá procure "whole grain whole wheat"). A maioria das crostas

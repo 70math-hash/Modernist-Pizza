@@ -219,6 +219,79 @@ não precisa domear.
 
 ---
 
+## De onde vem o calor num deck (e por que ele é outro bicho) — vol. 1, p. 390
+
+A regra "o que assa é radiação" vale para **forno a lenha e a gás de alta temperatura**. Ali o
+calor do piso vem quase inteiramente **do próprio piso absorvendo a radiação que desce do teto**
+— há **muito pouca condução através da pedra, porque pedra é isolante e conduz mal**.
+
+**No deck, a conta muda:** a maior parte da energia de assagem chega à pizza por **radiação
+E condução**, nessa ordem de importância mas com a condução pesando de verdade. É por isso que
+o deck tem controle separado de piso e teto, e é por isso que desequilíbrio entre os dois vira
+fundo queimado com borda pálida (`10-diagnostico.md`).
+
+| Item | Número |
+|---|---|
+| **Temperatura típica do piso de um deck** | **285–315 °C / 545–600 °F** |
+| Quanto da radiação incidente a massa absorve **no começo** da assagem | **5% a 10%** |
+| O que acontece depois | **A absorção sobe muito conforme a crosta escurece** — é a mesma realimentação da leopardagem |
+
+> **O que separa um deck bom de um ruim** é uma coisa só: **controle confiável e preciso da
+> temperatura do piso.** Não é potência, não é material da câmara.
+
+### Pizza de forma dentro do deck
+
+A forma **não entrega o calor que recebe**. Ela absorve por radiação e convecção, **transmite
+só uma parte** para a massa por condução direta, e **re-irradia o resto de volta** para a câmara
+e para o ar. Duas consequências:
+
+- **Forma escura absorve melhor que forma clara e brilhante.** É o mesmo mecanismo da
+  emissividade do piso, e é a razão técnica de o livro preferir aço azul e aço preto às formas
+  de alumínio brilhante.
+- **Forma e pizza muito grande atrapalham o fluxo de ar** dentro da câmara: pioram os pontos
+  quentes e deixam a assagem **menos previsível**. Se você assa disco e forma no mesmo deck,
+  espere que o mapa do forno mude quando a forma entra.
+
+---
+
+## Estratégia de forno por estilo (vol. 1, p. 412–413)
+
+O livro publica, por estilo, **o melhor forno, o que compromete alguma coisa e o que não é
+recomendado**. É a tabela de decisão de compra — e a de "dá para fazer com o que eu tenho?".
+
+| Estilo (faixa) | **Melhor** | Compromete | **Não recomendado** |
+|---|---|---|---|
+| **Napolitana** (455–480 °C) | **A gás de alta temperatura** | A lenha · deck de pizza · esteira | Deck de pão · combi · convecção · doméstico |
+| **Thin-crust** e **brasileira** (250–285 °C) | Deck de pizza · deck de pão · a gás · esteira | Combi · convecção · a lenha · doméstico | — |
+| **New York** (290–315 °C) | Deck de pizza · deck de pão · a gás · esteira | Combi · convecção · a lenha · doméstico | — |
+| **Artisan** (250–315 °C) | Deck de pizza · deck de pão · esteira | Combi · convecção · doméstico · a gás | — |
+| **Focaccia** e **NY square** (205–260 °C) | Deck de pizza · deck de pão · esteira | Combi · convecção · doméstico | **A lenha · a gás** |
+| **Al taglio** (250–315 °C) | Deck de pizza · deck de pão | Doméstico | **Combi · convecção** |
+
+**As notas que acompanham a tabela:**
+
+- **O livro prefere o forno a gás ao a lenha** — e o motivo é consistência: *"não há dois fogos
+  iguais num forno a lenha, então a temperatura varia. É preciso habilidade considerável."*
+- **Napolitana em deck de pizza é possível, com duas ressalvas**: confirme que o seu deck
+  **chega à temperatura**, e saiba que **você vai ter que girar a pizza mesmo não sendo forno a
+  gás**. Como decks costumam ser empilhados, girar é desconfortável — e normalmente só cabem
+  **duas por vez**.
+- **Brasileira em forno a lenha**: assar **o mais longe possível da lenha queimando** e monitorar
+  a temperatura de perto — **a borda queima rápido**.
+- **Combi, convecção e doméstico**, em qualquer estilo de disco: **giro de 180°** e **aço de
+  forno** para conseguir fundo crocante. Na napolitana, dá para somar **heat gun** para charrear
+  a borda — o resultado sai **crocante, não macio**. Não é napolitana; é uma boa pizza.
+- **Massa de forma em forno a lenha ou a gás é difícil de manusear** — dá para pôr duas formas
+  lado a lado, mas é desconfortável.
+- **Pizza sobre aço**: quantas você assa por vez é limitado **só pelo número de aços que você
+  tem** e pelo tamanho do forno.
+
+> Esta tabela é do **vol. 1** e usa faixas de temperatura próprias. Onde ela divergir da tabela
+> mestre deste arquivo (que vem das fichas de receita do vol. 2), **a ficha manda** — mas as
+> faixas do vol. 1 são úteis porque dizem **o que o estilo tolera**, não só o alvo.
+
+---
+
 ## Escolhendo o forno
 
 | Classe | Piso quente | Ar quente | Radiação | Vapor |
@@ -457,6 +530,30 @@ Propano é melhor que lascas de madeira (mais quente, mais constante). Pré-aque
 Leve as bolas num cooler, em pote **levemente oleado** (mesmo massas que normalmente não se
 oleia). Tire massa, molho e queijo do cooler **2 h antes**. Leve uma tábua de 30–33 cm.
 Gire 2–3 vezes. Não use papel-manteiga se estiver queimando lascas de madeira.
+
+### Forno de bancada (toaster oven) — posto de reaquecimento, não de produção
+
+| Item | Número |
+|---|---|
+| Temperatura máxima típica | **230 °C / 450 °F** |
+| Pizza de 30 cm | **não cabe** na maioria |
+| Aço ou pedra de forno | **não existe no mercado** em tamanho que caiba |
+| O que usar no lugar | a **assadeira pequena que vem com o forno**; a **forma de Detroit meia (25 × 20 cm) cabe na maioria** e dá resultado razoável |
+| Forma de caçarola | cabe, mas **não dá fundo crocante** |
+| Forma de torta | serve — use a **não descartável** (a descartável é frouxa demais) |
+| Massa térmica improvisada | **ladrilho de calçada cru** cabe bem |
+
+**Onde ele é bom de verdade**: **crocantizar a superfície de massa de pizza gourmet** e
+**reaquecer fatia**. Como forno de produção, não.
+
+### Breville Pizzaiolo (bancada de alta temperatura)
+
+Nos testes de fornos de bancada de consumo, foi **o mais fácil de usar e o único que entregou o
+calor alto necessário**.
+
+1. Pré-aqueça **10–15 min** com a temperatura **e** o controle de *darkness* **no máximo**.
+2. Abra a massa **com a pá do lado** para conferir o tamanho — a folga interna é mínima.
+3. Monte, enforne, **2–2½ min**, com **uma rotação** durante a assagem.
 
 ### Fritar (napolitana, New York, artisan — pizza montanara / pizza fritta / calzone)
 Bola de **no máximo 150–175 g** para 30 cm. Fritadeira a **175–190 °C**. Coloque a massa
