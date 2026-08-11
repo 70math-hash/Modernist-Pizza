@@ -283,6 +283,49 @@ Se a estética não importa: asse do mesmo jeito.
 
 ## Pré-fermentos
 
+### Biga e sponge: por que não estão neste livro (vol. 1, p. ~298)
+
+**Procurou biga no livro e não achou? Ela está lá, num parágrafo só — e é uma recusa
+deliberada, não um esquecimento.**
+
+O livro define os dois pré-fermentos que **não** usa:
+
+| | O que é | Consequência |
+|---|---|---|
+| **Biga** | **Como um poolish, porém mais firme** — hidratação mais baixa | Menos água ⇒ **fermentação mais lenta**; textura mais firme ⇒ **demora mais para incorporar** à massa |
+| **Sponge** | Farinha + fermento + um ou mais enriquecedores: ovo, manteiga, açúcar, leite | Uso muito menos frequente |
+
+E fecha com duas frases explícitas:
+
+> *"Não usamos nenhum destes dois pré-fermentos neste livro."*
+>
+> *"A única coisa que não recomendamos é usar **pré-fermentos firmes**, porque são difíceis de
+> incorporar à massa."*
+
+**Os dois que o livro usa são poolish e levain** (a focaccia leva os dois). Se você quer biga,
+não vai achar fórmula nem tabela aqui — e a posição do livro é que o custo de mistura não se
+paga. Uma biga tradicional a 45–50% de hidratação **não é conversão trivial de um poolish a
+100%**: muda a farinha fermentada, a água da massa final e o tempo de mistura. Isso é
+território seu, não do livro.
+
+> As **6 menções a biga** no livro inteiro: esta, e cinco casas visitadas que usam biga —
+> **Pepe in Grani** (Franco Pepe, um dos poucos pizzaioli que o livro encontrou usando biga),
+> **Dry Milano** e uma casa de fatia em Roma (`25-pesquisa-de-campo.md`). Nenhuma vem com
+> fórmula. No **volume 2 a palavra não aparece nenhuma vez**.
+
+### Farinha fermentada: quanto do pré-fermento você realmente está usando
+
+Termo de padeiro para **a fração da farinha da massa que passou pelo pré-fermento**. É o número
+que diz o quanto os atributos do pré-fermento vão aparecer.
+
+> **Quanto menor o percentual de farinha fermentada, menos você recebe do que o pré-fermento
+> tinha para dar** — sabor, tempo de fermentação, estrutura.
+
+A focaccia-mestre é **32% de poolish e 15% de levain**: **quase metade da massa vem de farinha
+fermentada**, e é por isso que ela é a mestre de sabor mais desenvolvido. Se você trocar um
+pré-fermento por outro sem refazer essa conta, muda o resultado sem saber por quê — a aritmética
+está em `18-calculo-e-escalonamento.md`.
+
 ### Poolish
 100% de hidratação: farinha + água em partes iguais + fermento instantâneo.
 Não tem a acidez do levain. Muito usado na América do Norte; raro na Itália.

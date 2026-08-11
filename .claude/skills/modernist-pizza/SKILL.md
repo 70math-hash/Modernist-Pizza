@@ -36,7 +36,7 @@ Ingredients)** de *Modernist Pizza*, de Nathan Myhrvold e Francisco Migoya. O vo
 |---|---|
 | `references/01-formulas-massas.md` | Fórmulas das 10 mestres, pesos por tamanho, cross-crusting, famílias de variação, aditivos |
 | `references/02-mistura-e-gluten.md` | Percentual de padeiro, estágios de glúten, DDT, autólise, dupla hidratação, ferramentas |
-| `references/03-fermentacao.md` | Bulk, dobras, prova (fria/ambiente/quente), temperar, chamar o ponto, dough CPR, poolish, tipos e conversões de fermento |
+| `references/03-fermentacao.md` | Bulk, dobras, prova (fria/ambiente/quente), temperar, chamar o ponto, dough CPR, poolish, farinha fermentada, tipos e conversões de fermento, e **por que o livro recusa biga e sponge** |
 | `references/04-divisao-modelagem.md` | Bancada, farinha de bancada, dividir, pré-modelar (bola, bâtard, wonton), massa molhada, transferir com pá/tela/papel |
 | `references/05-fornos-e-cocao.md` | Física do assar, tipos de forno, temperaturas e tempos, rotação, pré-aquecimento, aço/pedra, gum line, leopardagem, pré-assar e par-assar, problemas |
 | `references/06-ingredientes.md` | Farinha (proteína, cinzas, W, partícula, marcas), água, sal, açúcar, gordura, relaxantes, melhoradores |
