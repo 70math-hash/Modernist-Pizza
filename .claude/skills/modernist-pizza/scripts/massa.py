@@ -18,7 +18,14 @@ farinha total (net contents).
 import argparse
 import json
 import os
+import signal
 import sys
+
+# Sem isto, `massa.py listar | head` estoura BrokenPipeError com traceback.
+try:
+    signal.signal(signal.SIGPIPE, signal.SIG_DFL)
+except (AttributeError, ValueError):
+    pass
 
 BASE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "massas.json")
 
